@@ -4,11 +4,11 @@
     functions = "functions"
 
 [build.environment]
-    HUGO_VERSION = "0.38.2"
+    HUGO_VERSION = "0.42.1"
 
 [context.production.environment]
     HUGO_ENV = "production"
     NODE_ENV = "production"
 
 [context.deploy-preview]
-    command = "npm run build:preview"
+    command = "npm run build"

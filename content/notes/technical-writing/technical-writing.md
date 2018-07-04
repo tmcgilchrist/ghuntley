@@ -1,0 +1,11 @@
+---
+title: Technical Writing
+layout: notes
+---
+
+# Error Messages
+
+* https://twitter.com/DynamicWebPaige/status/1006302689876008963?s=19
+* https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4
+* https://developer.apple.com/design/human-interface-guidelines/macos/windows-and-views/alerts/
+* https://medium.com/@thomasfuchs/how-to-write-an-error-message-883718173322

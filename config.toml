@@ -8,6 +8,46 @@ disableAliases = true
 [params]
 disallow_search_engines = false # set robots.txt to disallow everything
 
+[[params.mainMenu]]
+    link = "/about"
+    text = "about"
+
+[[params.mainMenu]]
+    link = "/lately"
+    text = "lately"
+
+[[params.mainMenu]]
+    link = "/live"
+    text = "live"
+
+[[params.mainMenu]]
+    link = "/notes"
+    text = "notes"
+
+[[params.mainMenu]]
+    link = "/portfolio"
+    text = "portfolio"
+
+[[params.mainMenu]]
+    link = "/talks"
+    text = "talks"
+
+[[params.mainMenu]]
+    link = "/photos"
+    text = "photography"
+
+[[params.mainMenu]]
+    link = "/blog"
+    text = "writing"
+
+[[params.mainMenu]]
+    link = "/thanks"
+    text = "thanks"
+
+[[params.mainMenu]]
+    link = "/support"
+    text = "support"
+
 # add redirects/headers
 [outputs]
 home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]

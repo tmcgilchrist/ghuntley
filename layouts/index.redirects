@@ -1,6 +1,16 @@
-# redirects for Netlify - https://www.netlify.com/docs/redirects/
 {{- range $p := .Site.Pages -}}
 {{- range .Aliases }}
 {{ . }} {{ $p.RelPermalink -}}
 {{- end }}
 {{- end -}}
+
+# shortcodes
+/postal-address https://twitter.com/GeoffreyHuntley/status/991123856986226688
+/nintendo-friend-code https://twitter.com/GeoffreyHuntley/status/992990072264773632?s=19
+
+# social media
+/youtube https://youtube.com/c/geoffreyhuntley
+/twitch https://www.twitch.tv/geoffreyhuntley
+/github https://github.com/ghuntley
+/twitter https://twitter.com/geoffreyhuntley
+/linkedin https://au.linkedin.com/in/geoffreyhuntley
