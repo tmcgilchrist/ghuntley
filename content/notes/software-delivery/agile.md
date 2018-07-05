@@ -2,6 +2,10 @@
 title: agile
 ---
 
+# funding
+
+https://defradigital.blog.gov.uk/2017/09/19/lets-fund-teams-not-projects/
+
 
 {{< tweet 991417476398301184 >}}
 
@@ -11,8 +15,8 @@ title: agile
 
 # uppercase agile
 
-https://www.youtube.com/watch?v=a-BOSpxYJ9M
+{{< youtube a-BOSpxYJ9M >}}
 
 # scrum
 
-https://twitter.com/WJAgeling/status/992324754773340160
+{{< tweet 992324754773340160 >}}
