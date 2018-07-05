@@ -5,7 +5,7 @@
     "build:pug": "pug pug/ -o layouts/",
     "build:sass": "node-sass --output-style compressed -o static/css src/sass/",
     "autoprefixer": "postcss static/css/*.css --use autoprefixer -d static/css",
-    "build": "npm run build:pug && hugo",
+    "build": "npm run build:pug && npm run build:sass && hugo",
     "watch": "chokidar '*' -c 'npm run build:pug && hugo serve'"
   },
   "dependencies": {
