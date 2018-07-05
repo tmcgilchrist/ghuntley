@@ -3,16 +3,18 @@
   "private": true,
   "scripts": {
     "build:pug": "pug pug/ -o layouts/",
-    "build:sass": "node-sass --output-style compressed -o static/css sass/",
+    "build:sass": "node-sass --output-style compressed -o static/css src/sass/",
     "autoprefixer": "postcss static/css/*.css --use autoprefixer -d static/css",
     "build": "npm run build:pug && hugo",
     "watch": "chokidar '*' -c 'npm run build:pug && hugo serve'"
   },
   "dependencies": {
+    "autoprefixer": "^8.5.1",
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
     "browser-sync": "^2.24.5",
+    "chokidar-cli": "^1.2.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-babel": "^7.0.1",
@@ -30,15 +32,13 @@
     "gulp-uglify": "^3.0.0",
     "gulp-watch": "^4.3.11",
     "netlify-lambda": "^0.4.0",
+    "node-sass": "^4.9.0",
     "node-sass-tilde-importer": "^1.0.2",
     "npm": "^6.1.0",
-    "run-sequence": "^2.0.0",
-    "autoprefixer": "^8.5.1",
-    "chokidar-cli": "^1.2.0",
-    "node-sass": "^4.9.0",
     "postcss": "^6.0.22",
     "postcss-cli": "^5.0.0",
-    "pug-cli": "^1.0.0-alpha6"
+    "pug-cli": "^1.0.0-alpha6",
+    "run-sequence": "^2.0.0"
   },
   "babel": {
     "presets": [
