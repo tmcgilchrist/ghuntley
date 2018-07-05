@@ -27,8 +27,10 @@ ever thought about how you can help us?
 
 # Twitter
 
-{% twitter https://twitter.com/crazy4pi314/status/923113978057728000 %}
-{% twitter https://twitter.com/MishManners/status/923139427685122048 %}
-{% twitter https://twitter.com/shiftkey/status/923113468282093575 %}
-{% twitter https://twitter.com/GeoffreyHuntley/status/923101794082865152 %}
-{% twitter https://twitter.com/Lana_Montgomery/status/923108615128367104 %}
+{{< tweet 923113978057728000 >}}
+
+{{< tweet 923139427685122048 >}}
+{{< tweet 923101794082865152 >}}
+{{< tweet 923108615128367104 >}}
+
+<!-- tweet 923113468282093575 -->

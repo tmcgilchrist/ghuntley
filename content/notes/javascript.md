@@ -4,7 +4,7 @@ title: JavaScript
 ---
 
 # event loop
-https://twitter.com/jaffathecake/status/961980260194684928?s=19
+https://twitter.com/jaffathecake/status/961980260194684928
 
 # Operators
 

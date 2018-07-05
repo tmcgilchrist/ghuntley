@@ -3,6 +3,6 @@ layout: notes
 title: Ideas
 ---
 
-{% twitter https://twitter.com/Douglas9162/status/967814228265652224 %}
+{{< tweet 967814228265652224 >}}
 
 http://rachelbythebay.com/w/2018/03/23/ducttape/

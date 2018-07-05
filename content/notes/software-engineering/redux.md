@@ -5,7 +5,8 @@ layout: notes
 
 > You totes probs don't need redux. It's pretty garbage. Every stack trace is meaningless. Async actions have no way to watch for completion. Everything is ungreppable, debugging is impossible. Everything is a GOTO without a target. We need to go back in time and stop Dan - "YOU'LL REGRET IT"
 
-{% twitter https://twitter.com/BenLesh/status/963236435837960192?s=09 %}
+{{< tweet 963236435837960192 >}}
+
 
 ![](https://cdn-images-1.medium.com/max/2000/1*4fogNBtZrtR_3Xx6sIP9RQ.png)
 

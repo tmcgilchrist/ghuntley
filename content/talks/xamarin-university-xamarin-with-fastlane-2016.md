@@ -17,9 +17,9 @@ If you're not using Fastlane, then you are stealing clients time and wasting pre
 
 # Twitter
 
-{% twitter https://twitter.com/GeoffreyHuntley/status/784967004771880960 %}
-{% twitter https://twitter.com/dimoss/status/785641405683109888 %}
+{{< tweet 784967004771880960 >}}
+{{< tweet 785641405683109888 >}}
 
 # Video 
 
-{% include youtube.html id="mF0QonkbuqU" %}
+{{< youtube mF0QonkbuqU >}}

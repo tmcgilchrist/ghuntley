@@ -5,7 +5,7 @@ title: NixOS
 
 Great introduction over at https://ebzzry.io/en/nix/
 
-{% twitter https://twitter.com/Profpatsch/status/978211520189554688?s=19 %}
+{{< tweet 978211520189554688 >}}
 
 # Reproducable Builds
 * https://github.com/basvandijk/nixtodo/blob/master/nixpkgs.nix

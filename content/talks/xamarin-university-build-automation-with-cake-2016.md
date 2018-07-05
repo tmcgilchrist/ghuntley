@@ -15,5 +15,6 @@ Xamarin University attendees will walk away with a template for building applica
 
 # Twitter
 
-{% twitter https://twitter.com/XamarinU/status/804403087045754882 %}
-{% twitter https://twitter.com/GeoffreyHuntley/status/796887597054238720 %}
+{{< tweet 804403087045754882 >}}
+
+{{< tweet 796887597054238720 >}}

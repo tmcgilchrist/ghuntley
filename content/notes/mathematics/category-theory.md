@@ -13,21 +13,25 @@ A family tree is an example of category theory. It provides a way of representin
 
 ![](https://www.ebi.ac.uk/training/online/sites/ebi.ac.uk.training.online/files/resize/user/Simple%20family%20tree-750x291.png)
 
-{% twitter https://twitter.com/GeoffreyHuntley/status/998701945517887489 %}
+
+{{< tweet 998701945517887489 >}}
+
 
 # Object and morphisms
 
 Communicative squares
 
-{% twitter https://twitter.com/etymon/status/998702878058426368 %}
+{{< tweet 998702878058426368 >}}
+
 
 Factors of 42
 
-{% twitter https://twitter.com/unixbigot/status/998704338280181760 %}
+{{< tweet 998704338280181760 >}}
+
 
 Cube of privilege 
 
-{% twitter https://twitter.com/vbhvsgr/status/998705016029433856 %}
+{{< tweet 998705016029433856 >}}
 
 # The principle of Sameness
 
@@ -37,7 +41,7 @@ Cube of privilege
 (8+5) +5 = 8 + (5+5)
 ```
 
-{% twitter https://twitter.com/Amys_Kapers/status/998706885082603520 %}
+{{< tweet 998706885082603520 >}}
 
 The concept of invertibility - "if I go over here can I go back?"
 
@@ -53,20 +57,23 @@ If you freeze an egg and
 Whole categories can be isomorphic if the arrows look the same. 
 The first row is isomorphic because the arrows go the same way, the bottom row isn't isomorphic.
 
-{% twitter https://twitter.com/vbhvsgr/status/998708021315289088 %}
+{{< tweet 998708021315289088 >}}
 
 
 # Visual Representation
 
 Friend map
 
-{% twitter https://twitter.com/GeoffreyHuntley/status/998710191720820738 %}
+{{< tweet 998710191720820738 >}}
+
 
 Cycles
 
-{% twitter https://twitter.com/_spyder/status/998711560360017920 %}
+{{< tweet 998711560360017920 >}}
 
 
-{% twitter https://twitter.com/johncarlosbaez/status/998659695479934977?s=19 %} 
+{{< tweet 998659695479934977 >}}
+
+
 # References
 * https://arxiv.org/abs/1803.05316

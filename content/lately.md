@@ -17,4 +17,4 @@ I’m home which is Sydney, Australia. It’s Winter. I’m observing the AEST t
 
 I'm speaking at NDC Sydney with Nick
 
-{% twitter https://twitter.com/GeoffreyHuntley/status/1001221854713925633?s=19 %} 
+{{< tweet 1001221854713925633 >}}

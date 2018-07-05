@@ -3,11 +3,11 @@ title: agile
 ---
 
 
-https://twitter.com/paulstovell/status/991417476398301184?s=19
+{{< tweet 991417476398301184 >}}
 
 # lowercase agile
 
-{% twitter https://twitter.com/toddhgardner/status/985717730438537216 %}
+{{< tweet 985717730438537216 >}}
 
 # uppercase agile
 

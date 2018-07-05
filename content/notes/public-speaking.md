@@ -18,4 +18,4 @@ http://blogs.tedneward.com/post/speaking-tips-travel-expenses/
 
 # Tools
 
-https://twitter.com/jamesbmarshall/status/987401830832287744?s=19
+https://twitter.com/jamesbmarshall/status/987401830832287744

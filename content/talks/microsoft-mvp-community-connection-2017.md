@@ -27,5 +27,6 @@ ever thought about how you can help us?
 
 # Twitter
 
-{% twitter https://twitter.com/IbraheemOM/status/931756907576025089 %}
-{% twitter https://twitter.com/simonwaight/status/931645272794394625 %}
+{{< tweet 931756907576025089 >}}
+
+{{< tweet 931645272794394625 >}}

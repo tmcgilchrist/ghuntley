@@ -2,7 +2,7 @@
 title: Haskell
 ---
 
-{% twitter https://twitter.com/mojobojo/status/996628203463569410 %}
+{{< tweet 996628203463569410 >}}
 
 # Handling Failure
 * https://hackage.haskell.org/package/transformers-either

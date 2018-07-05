@@ -34,8 +34,8 @@ this is the session for you.
 
 # Twitter
 
-{% twitter https://twitter.com/kphillpotts/status/912621546492932096 %}
+{{< tweet 912621546492932096 >}}
 
 # Video 
 
-{% include youtube.html id="4inY7TFEVT0" %}
+{{< youtube 4inY7TFEVT0 >}}

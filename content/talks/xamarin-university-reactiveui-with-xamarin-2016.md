@@ -12,10 +12,10 @@ Discover how using reactive extensions and ReactiveUI can help you build applica
 
 # Twitter
 
-{% twitter https://twitter.com/GeoffreyHuntley/status/776970243398782976 %}
+{{< tweet 776970243398782976 >}}
 
-{% twitter https://twitter.com/GeoffreyHuntley/status/778340492241047552 %}
+{{< tweet 778340492241047552 >}}
 
 # Video
 
-{% include youtube.html id="vydDJ9CaIug" %}
+{{< youtube vydDJ9CaIug >}}

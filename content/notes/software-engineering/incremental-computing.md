@@ -23,6 +23,7 @@ Related field to [reactive programming](reactive programming)
 
 # Media
 
-{% twitter https://twitter.com/Xavier_Ho/status/999064943554002944 %}
+{{< tweet 999064943554002944 >}}
 
-* https://youtu.be/G6a5G5i4gQU
+
+{{< youtube G6a5G5i4gQU >}}
