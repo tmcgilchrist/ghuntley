@@ -1,5 +1,5 @@
 ---
-title: Lately
+title: lately
 ---
 
 # Where?
