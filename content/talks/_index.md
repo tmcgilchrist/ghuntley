@@ -12,4 +12,4 @@ His next speaking engagement is with [NDC Sydney in September](https://ndcsydney
 
 > The thing about OSS that's too often forgetten, it's AS-IS, no exceptions. In this talk we'll look at a day in the life of an open source maintainer - what drives them, what annoys them and what keeps them up at night
 
-# Previous Talks
+# previous talks
