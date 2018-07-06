@@ -1,5 +1,5 @@
 ---
-title: Thanks
+title: thanks
 ---
 
 These lovely people have contributed a fix to my blog. If you want to see yourself in this list, send me a pull request! Every post in my blog has an edit link that lets you edit the blog post directly in the browser which automatically sends me a pull request.
