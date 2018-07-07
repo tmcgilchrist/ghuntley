@@ -44,6 +44,10 @@ disallow_search_engines = false # set robots.txt to disallow everything
     link = "/support"
     text = "support"
 
+[[params.mainMenu]]
+    link = "/contact"
+    text = "contact"
+    
 # add redirects/headers
 [outputs]
 home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
