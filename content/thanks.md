@@ -2,7 +2,7 @@
 title: thanks
 ---
 
-These lovely people have contributed a fix to my blog. If you want to see yourself in this list, send me a pull request! Every post in my blog has an edit link that lets you edit the blog post directly in the browser which automatically sends me a pull request.
+These lovely people have contributed a fix to my blog. If you want to see yourself in this list, send me a pull request! Every post in my blog has an edit link (the octocat button) that lets you edit the blog post directly in the browser which automatically sends me a pull request.
 
 Or [visit my repository](https://github.com/ghuntley/ghuntley) and send me a pull
 request the old fashioned way.
