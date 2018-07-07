@@ -19,6 +19,13 @@ Whilst I live a somewhat public life, to ensure this doesn't happen I've impleme
 
 {{< tweet 895518510025256960 >}}
 
+# equipment
+
+* https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S
+* https://www.amazon.com/Rode-Podcaster-Booming-Kit-shock/dp/B007NN0WPU
+* https://www.amazon.com/Elgato-Game-Capture-HD60-technology/dp/B01DRWCOGA/
+* https://www.amazon.com/Elgato-Stream-Deck-Controller-customizable/dp/B06XKNZT1P
+
 # assets
 
 * https://www.hdbacks.com/backgrounds/
