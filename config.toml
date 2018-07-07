@@ -29,12 +29,12 @@ disallow_search_engines = false # set robots.txt to disallow everything
     text = "talks"
 
 [[params.mainMenu]]
-    link = "/photos"
-    text = "photos"
-
-[[params.mainMenu]]
     link = "/blog"
     text = "writing"
+
+[[params.mainMenu]]
+    link = "/photos"
+    text = "photos"
 
 [[params.mainMenu]]
     link = "/thanks"
@@ -66,4 +66,3 @@ mediatype = "text/netlify"
 baseName = "_headers"
 isPlainText = true
 notAlternative = true
-
