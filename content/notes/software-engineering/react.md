@@ -8,6 +8,8 @@ tags:
   - redux
 ---
 
+{{< tweet 1008614266482692097 >}} 
+
 # Tooling
 * https://github.com/infinitered/reactotron
 
