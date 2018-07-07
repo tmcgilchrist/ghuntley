@@ -3,9 +3,9 @@ title: Streaming
 ---
 
 
-# Equipment
+# equipment
 
-# Operational Safety
+# operational safety
 
 The 20th of December will go down as an iconic day in history. Robert E. Kelly, a political science professor at Pusan National University in South Korea, was explaining the ramifications of the impeachment of South Korea President Park Geun-hye live on the BBC in March when his two young children made their on-air debut. The clip quickly went viral and Kelly and his wife Kim Jung-A were soon [the focus of media around the world](https://www.usatoday.com/story/news/nation-now/2017/12/20/bbc-dad-robert-kelly-thought-his-career-over-after-kids-hilariously-interrupted-live-interview/968226001/). 
 
@@ -19,3 +19,6 @@ Whilst I live a somewhat public life, to ensure this doesn't happen I've impleme
 
 {{< tweet 895518510025256960 >}}
 
+# assets
+
+* https://www.hdbacks.com/backgrounds/
