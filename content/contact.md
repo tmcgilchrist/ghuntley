@@ -14,7 +14,7 @@ This is my primary means of broadcasting things to the world so please follow me
 
 # LinkedIn
 
-I accept connections from anyone. I don't respond to interactions or requests from people that originate from LinkedIn. 
+I accept connections from anyone. I don't respond to interactions or requests from people that originate from LinkedIn unless we have met in person. If you want to catch up for coffee then organise by a medium other than LinkedIn that way I know you have atleast at minimum read this page. 
 
 # Skype
 
