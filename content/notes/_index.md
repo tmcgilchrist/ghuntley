@@ -1,5 +1,5 @@
 ---
-title: "notes"
+title: notes
 ---
 
 One of my personal interests is applying the idea of the [Long Now](https://en.wikipedia.org/wiki/Long_Now_Foundation). What and how do you write a personal site with the long-term in mind? We live most of our lives in the future, and the actuarial tables give me until the 2070-2080s.
