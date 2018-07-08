@@ -1,5 +1,5 @@
 ---
-title: "talks"
+title: talks
 ---
 
 Geoff has spoken at community events, large technical conferences, recorded sessions within the Microsoft CH9 studio and delivered online lectures at Xamarin University. Recent talks include programming in a reactive manner, open-source community automation and the importance of financial sustainability in open-source.
