@@ -6,7 +6,7 @@ I'm usually pretty easy to get hold of, here's how I use different channels to c
 
 # email
 
-This is the easiest way if you want to reach out and I can usually respond pretty promptly. My email address is <a href="mailto:ghuntley@ghuntley.com">ghuntley@ghuntley.com</a>
+This is the easiest way if you want to say howdy. I usually respond pretty promptly. My email address is <a href="mailto:ghuntley@ghuntley.com">ghuntley@ghuntley.com</a>
 
 # twitter
 
@@ -26,6 +26,6 @@ Genuine queries about speaking at events will get a response, even if I can't ac
 
 # what I may not respond to
 
-I try and respond to technical queries but would prefer you try asking on Stack Overflow first. I do not do tech-support via email unless you have we 
+I do not do tech-support via email unless you have we 
 
 If your message doesn't explicitly look like it needs a response or it's vague or not clear what the purpose is, you may not hear back from me.
