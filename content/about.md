@@ -6,7 +6,9 @@ title: about
 
 Gone are the days where a developer has to start every project by defining their own IO, data structures and sub routines. Modern developers rely on frameworks, third party libraries and other niceties that use to take hundreds of developer man hours before writing any business logic. 
 
-Being a maintainer, and focusing that level of effort is a labor of love, but a labor not the less. If you or your company uses open-source software or appreciates the work I do in open source, please consider [supporting me directly](/support). I think it's pretty clear that software actually costs something, and that even though it may be offered freely, [somebody is paying the cost](https://www.youtube.com/watch?v=0t85TyH-h04). 
+Being a maintainer, and focusing that level of effort is a labor of love, but a labor not the less. If you or your company uses open-source software or appreciates the work I do in open source, please consider [supporting me directly](/support). 
+
+I think it's pretty clear that software actually costs something, and that even though it may be offered freely, [somebody is paying the cost](https://www.youtube.com/watch?v=0t85TyH-h04). 
 
 I currently work through a consultancy but the opinions expressed on this site are my own and do not necessarily represent those of my clients unless otherwise stated.
 
