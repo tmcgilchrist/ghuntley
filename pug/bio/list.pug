@@ -2,6 +2,8 @@
 
 body
     .wrap
+        .section.top-menu
+            | {{ partial "top_menu.html" (dict "Page" . "show_back_menu_item" false) }}
         .section#content
             | {{ .Content }}
         |
@@ -9,7 +11,7 @@ body
         .grid
             |
             | {{ $name := .Site.Params.galleryFolder | default "images/"}}
-            | {{ $path := "gallery/" }}
+            | {{ $path := "bio/" }}
             | {{ $content := "/content/" }}
             | {{ $src := (print $path $name) }}
             |
@@ -29,7 +31,7 @@ body
         .grid
             |
             | {{ $name := .Site.Params.galleryFolder | default "images/"}}
-            | {{ $path := "gallery/" }}
+            | {{ $path := "bio/" }}
             | {{ $content := "/content/" }}
             | {{ $src := (print $path $name) }}
             |
@@ -42,10 +44,6 @@ body
             div
                 img(src='{{ $src | absURL }}{{.Name }}')
             | {{ end }}
-        | {{ end }}
-        | {{ if .Site.Params.mainMenu }}
-        .section.top-menu
-            | {{ partial "bottom_menu.html" (dict "Page" . "show_back_menu_item" false) }}
         | {{ end }}
         .section.footer
             | {{ partial "footer.html" . }}

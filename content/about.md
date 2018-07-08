@@ -1,22 +1,15 @@
 ---
-title: About
+title: about
 ---
 
-Geoff currently works through a consultancy but the opinions expressed on this site are his own and do not necessarily represent those of his clients unless otherwise stated.
+🙌 I'm Geoff, an open source maintainer. I'm responsible for authoring and maintaining tools that enable developers to deliver business value faster and easier. 
 
-So far, in his career he has held the following hats: customer service, computer assembly & repair, business owner, mainframe operations, midrange system administration, big iron field engineering, enterprise backup & recovery consulting, full-stack software developer, open-source maintainer/product owner/community leader, build automation engineer, public speaker, scrum master and servant leader for teams distributed in multiple timezones.
+Gone are the days where a developer has to start every project by defining their own IO, data structures and sub routines. Modern developers rely on frameworks, third party libraries and other niceties that use to take hundreds of developer man hours before writing any business logic. Being a maintainer, and focusing that level of effort is a labor of love, but a labor not the less.
 
-He lives in Sydney, Australia.
+If you or your company uses open-source software or appreciates the work I do in open source, please consider [supporting me directly](/support) so I can continue maintaining as my full-time job! I think it's pretty clear that software actually costs something, and that even though it may be offered freely, [somebody is paying the cost](https://www.youtube.com/watch?v=0t85TyH-h04). 
 
-# Social
+I currently work through a consultancy but the opinions expressed on this site are my own and do not necessarily represent those of my clients unless otherwise stated.
 
-- [YouTube](https://youtube.com/c/geoffreyhuntley)
-- [Twitter](https://twitter.com/geoffreyhuntley)
-- [LinkedIn](https://www.linkedin.com/in/geoffreyhuntley)
+So far, in my career I have held the following hats: customer service, computer assembly & repair, business owner, mainframe operations, midrange system administration, big iron field engineering, enterprise backup & recovery consulting, full-stack software developer, open-source maintainer/product owner/community leader, build automation engineer, public speaker, scrum master and servant leader for teams distributed in multiple timezones.
 
-## Code
-
-- [GitHub](https://github.com/ghuntley)
-- [NuGet](https://www.nuget.org/profiles/ghuntley/)
-- [chocolatey](https://chocolatey.org/profiles/ghuntley)
-- [npm](https://npmjs.org/~ghuntley)
+I live in Sydney, Australia.

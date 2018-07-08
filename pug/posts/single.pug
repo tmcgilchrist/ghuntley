@@ -2,6 +2,8 @@
 
 body
     .wrap
+        .section.top-menu
+              | {{ partial "top_menu.html" (dict "Page" . "show_back_menu_item" true) }}
         .section#title
             | {{ .Title }}
         .section#content
@@ -16,7 +18,5 @@ body
             | {{ end }}
             hr
             | {{ .Content }}
-        .section.top-menu
-              | {{ partial "bottom_menu.html" (dict "Page" . "show_back_menu_item" true) }}
         .section.footer
             | {{ partial "footer.html" . }}
