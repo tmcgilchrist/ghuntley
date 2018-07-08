@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: contact
 ---
 
 I'm usually pretty easy to get hold of, here's how I use different channels to communicate with people and how best to contact me.
