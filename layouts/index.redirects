@@ -25,3 +25,11 @@
 /now /lately
 /atom.xml /rss
 
+## redirect domain aliases to primary domain
+https://www.geoffreyhuntley.com/* https://ghuntley.com/:splat 301!
+https://nextwish.org/* https://ghuntley.com/:splat 301!
+https://www.nextwish.org/* https://ghuntley.com/:splat 301!
+https://geoffreyhuntley.com/* https://ghuntley.com/:splat 301!
+
+## redirect default Netlify subdomain to primary domain
+https://ghuntley.netlify.com/* https://ghuntley.com/:splat 301!
