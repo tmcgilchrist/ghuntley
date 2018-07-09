@@ -1,5 +1,5 @@
 ---
-title: Streaming
+title: streaming
 ---
 
 
@@ -27,10 +27,10 @@ Whilst I live a somewhat public life, to ensure this doesn't happen I've impleme
 
 # assets
 
+* https://www.epidemicsound.com/
 * https://relaxdaily.net/free-music/
 * https://www.hdbacks.com/backgrounds/
 
 # services
 
-https://restream.io
-
+* https://restream.io
