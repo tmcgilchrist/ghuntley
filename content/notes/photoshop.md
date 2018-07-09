@@ -4,8 +4,8 @@ title: photoshop
 
 # cutting images
 
-<<{ youtube creV_oVjwsc }>>
+{{< youtube creV_oVjwsc >}}
 
 # fade edges
 
-<<{ youtube G56Qwaes0_0 }>>
+{{< youtube G56Qwaes0_0 >}}
