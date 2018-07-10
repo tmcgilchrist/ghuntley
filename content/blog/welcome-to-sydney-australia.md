@@ -19,7 +19,7 @@ I'm pretty particular when it comes to coffee, as when brewed with high-quality 
 
 Make sure you drop on by [espressory](https://www.google.com/maps/dir/''/espressory/@-33.8658781,151.1377908,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x6b12ae40531a39bf:0xec915a32e0a6e994!2m2!1d151.2078309!2d-33.8658979), ask for Sam or Peter to brew you something special by hand - either a V60 (ie no milk) or an espresso using beans from their friends and family collection that are sourced from micro-roasters around Australia. 
 
-If you are willing to trek out of the CDB then I recommend also grabbing a cup at [SingleO](http://singleo.com.au/). 
+If you are willing to trek then I recommend also grabbing a cup at [SingleO](http://singleo.com.au/). 
 
 # beer
 
