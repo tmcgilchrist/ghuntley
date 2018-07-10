@@ -49,7 +49,7 @@ Definitely grab a steak sandwich at [The Grounds of Alexandria](https://thegroun
 
 For an all-in-one champange, chicken, rap and sneakers experience head on over to [Buttered](https://buttersydney.com.au/). If a ten-course tasting menu is your thing then you'll feel right at home at [Quay](https://www.quay.com.au/) or [Rockpool](http://www.rockpoolbarandgrill.com.au/).
 
-Had too much beer and under the weather? Head on over to [Harry's Cafe de Wheels](http://www.harryscafedewheels.com.au/) and order a curry tiger pie with peas and mash.
+Had too much beer and feel under the weather? Head on over to [Harry's Cafe de Wheels](http://www.harryscafedewheels.com.au/) and order a curry tiger pie with peas and mash.
 
 # things to do
 
