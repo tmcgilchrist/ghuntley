@@ -36,7 +36,7 @@ If you are looking for a place on the weekend and are up for a quick detour out 
 
 There's a rooftop bar on top of the [Glenmore](http://theglenmore.com.au/) with spectacular views of the harbor, their beer selection is generic but it's a great place to meet people. 
 
-* For a more traditional pub and grub experience with great beer head on over to [Harts](https://www.therocks.com/eat-drink/harts-pub/)
+* For a more traditional pub and grub experience with great beer head on over to [Harts](https://www.therocks.com/eat-drink/harts-pub/).
 * For scotch nothing beats [The Baxsters Inn](http://thebaxterinn.com/). 
 * For an arcade/starwars cantina experience head on over to [I <3 Goats](https://www.yelp.com.au/biz/the-sg-sydney).
 * For eSports head on over to [SpawnPoint](https://www.spawnpoint.com.au/).
