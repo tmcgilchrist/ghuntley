@@ -1,6 +1,8 @@
 ---
 title: welcome to sydney, australia
-date: 2018-07-08 10:00:00
+date: 2018-07-08
+categories:
+- hospitality
 ---
 
 Hello there! First, you have made the correct decision to visit Sydney, it's a pretty chill place. To help you fall even more in love with my city, I have provided you with a list of awesome things to do
