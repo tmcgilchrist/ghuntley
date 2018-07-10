@@ -34,19 +34,17 @@ If you are looking for a place on the weekend and are up for a quick detour out 
 
 # bars
 
-There's a rooftop bar on top of the [Glenmore](http://theglenmore.com.au/) with spectacular views of the harbor, but their beer selection is generic.  
+There's a rooftop bar on top of the [Glenmore](http://theglenmore.com.au/) with spectacular views of the harbor, but their beer selection is generic. 
 
-For more traditional pub and grub with great beer head on over to [Harts](https://www.therocks.com/eat-drink/harts-pub/). For scotch head on over to [The Baxsters Inn](http://thebaxterinn.com/).
+For a more traditional pub and grub experience with great beer head on over to [Harts](https://www.therocks.com/eat-drink/harts-pub/). For scotch head on over to [The Baxsters Inn](http://thebaxterinn.com/). 
 
 If it's late and everything is closed in the city or you are after a pizza dive bar, pinball and live music head on over to [Frankies](http://www.frankiespizzabytheslice.com/).
 
 # food
 
-Definitely grab a steak sandwich at [The Grounds of Alexandria](https://thegroundscity.com.au/), korean bbq chicken at [Naruone](https://grabyourfork.blogspot.com/2012/12/naruone-sydney.html) and a beef laska from [malaychinese](http://www.malaychinese.com.au/menu/).
+Definitely grab a steak sandwich at [The Grounds of Alexandria](https://thegroundscity.com.au/), korean bbq chicken at [Naruone](https://grabyourfork.blogspot.com/2012/12/naruone-sydney.html) and a beef laska from [malaychinese](http://www.malaychinese.com.au/menu/). 
 
-For an all-in-one champange, chicken, rap and sneakers experience head on over to [Buttered](https://buttersydney.com.au/). 
-
-If a ten-course tasting menu is your thing then you'll feel right at home at [Quay](https://www.quay.com.au/) or [Rockpool](http://www.rockpoolbarandgrill.com.au/).
+For an all-in-one champange, chicken, rap and sneakers experience head on over to [Buttered](https://buttersydney.com.au/). If a ten-course tasting menu is your thing then you'll feel right at home at [Quay](https://www.quay.com.au/) or [Rockpool](http://www.rockpoolbarandgrill.com.au/).
 
 Had too much beer and under the weather? Head on over to [Harry's Cafe de Wheels](http://www.harryscafedewheels.com.au/) and order a curry tiger pie with peas and mash.
 
@@ -55,9 +53,9 @@ Had too much beer and under the weather? Head on over to [Harry's Cafe de Wheels
 Take the ferry over to the zoo, the views are spectactular
 
 {{< tweet 1005268478322868224 >}}
+{{< tweet 1005271846365716480 >}}
 
 Make sure you look up the time table of the bird show and attend
 
-{{< tweet 1005271846365716480 >}}
-{{< tweet 1005269286250639364 >}}
+{{< tweet 1005271719559303169 >}}
 
