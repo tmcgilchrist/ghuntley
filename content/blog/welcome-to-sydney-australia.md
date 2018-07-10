@@ -41,7 +41,7 @@ There's a rooftop bar on top of the [Glenmore](http://theglenmore.com.au/) with 
 * For an arcade/starwars cantina experience head on over to [I <3 Goats](https://www.yelp.com.au/biz/the-sg-sydney).
 * For eSports head on over to [Spawn Point](https://www.spawnpoint.com.au/).
 
-If it's late and everything is closed in the city or you are after a pizza dive bar, pinball and live music head on over to [Frankies](http://www.frankiespizzabytheslice.com/).
+If it's late and everything is closed in the city or you are after a pizza dive bar, pinball and live music experience head on over to [Frankies](http://www.frankiespizzabytheslice.com/).
 
 # food
 
