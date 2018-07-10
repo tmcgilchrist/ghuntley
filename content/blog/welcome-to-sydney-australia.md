@@ -5,7 +5,7 @@ categories:
 - hospitality
 ---
 
-Hello there! First, you have made the correct decision to visit Sydney, it's a pretty chill place. To help you fall even more in love with my city, I have provided you with a list of awesome things to do
+Hello there! First, you have made the correct decision to visit Sydney, it's a pretty chill place. To help you fall even more in love with my city, I have provided you with a list of awesome things to do. If you discover something awesome during your stay please send in a PR with the deets by tapping the Octocat.
 
 # coffee
 
