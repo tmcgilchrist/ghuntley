@@ -58,7 +58,8 @@ Take the ferry over to the zoo, the views are spectactular
 {{< tweet 1005268478322868224 >}}
 {{< tweet 1005271846365716480 >}}
 
-Make sure you look up the time table of the bird show and attend it
+Rahaul Nath has some excellent suggestions for trips around Sydney and the areas surrounding:
 
-{{< tweet 1005271719559303169 >}}
+* https://rahulpnath.com/blog/one-day-trips-around-sydney/
+* https://rahulpnath.com/blog/trips-for-the-long-weekend-around-sydney/
 
