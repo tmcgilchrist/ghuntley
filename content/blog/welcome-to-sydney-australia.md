@@ -11,7 +11,7 @@ Hello there! First, you have made the correct decision to visit Sydney, it's a p
 
 Australia has some of the best coffee in the world, that is if you know where to find it. If you're on the run and can't venture to a specific cafe, then choose any place that serves [pablo and rustys](https://pabloandrustys.com.au) or [campos coffee](https://camposcoffee.com/).  
 
-Most folks drink warm milk aka the flat white; when buying for another Aussie, it's [typically the safe default](https://www.smh.com.au/entertainment/flat-and-fabulous-20120218-1tfdk.html).
+Most folks drink warm milk aka the flat white; when buying for another Aussie, it's typically [the safe default](https://www.smh.com.au/entertainment/flat-and-fabulous-20120218-1tfdk.html).
 
 I'm pretty particular when it comes to coffee, as when brewed with high-quality beans and by an on-point barrister, coffee is a tasting experience similar that to scotch or wine. 
 
