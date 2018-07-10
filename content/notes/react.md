@@ -12,6 +12,7 @@ tags:
 
 # Tooling
 * https://github.com/infinitered/reactotron
+* https://github.com/maicki/why-did-you-update
 
 
 # Testing
