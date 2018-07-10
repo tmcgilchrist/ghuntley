@@ -1,6 +1,6 @@
 ---
 title: welcome to sydney, australia
-date: 2018-07-09 10:00:00
+date: 2018-07-08 10:00:00
 ---
 
 Hello there! First, you have made the correct decision to visit Sydney, it's a pretty chill place. To help you fall even more in love with my city, I have provided you with a list of awesome things to do
@@ -44,8 +44,17 @@ Definitely grab a steak sandwich at [The Grounds of Alexandria](https://thegroun
 
 For an all-in-one champange, chicken, rap and sneakers experience head on over to [Buttered](https://buttersydney.com.au/). 
 
-If a ten-course tasting menu is your thing then you'll feel right at home at [Quay](https://www.quay.com.au/).
+If a ten-course tasting menu is your thing then you'll feel right at home at [Quay](https://www.quay.com.au/) or [Rockpool](http://www.rockpoolbarandgrill.com.au/).
 
 Had too much beer and under the weather? Head on over to [Harry's Cafe de Wheels](http://www.harryscafedewheels.com.au/) and order a curry tiger pie with peas and mash.
 
 # things to do
+
+Take the ferry over to the zoo, the views are spectactular
+
+{{< tweet 1005268478322868224 >}}
+
+Make sure you look up the time table of the bird show and attend
+
+{{< tweet 1005271846365716480 >}}
+
