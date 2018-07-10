@@ -23,11 +23,11 @@ If you are willing to trek out of the CDB then I recommend also grabbing a cup a
 
 # beer
 
-If you are in the CDB and want to optimise on beer quality, look no further than:
+If you are in the CDB and want to optimise on beer quality, in order of my preference, look no further than:
 
 * https://thenoblehops.com/
-* https://www.redoak.com.au/
 * https://www.therocks.com/eat-drink/harts-pub/
+* https://www.redoak.com.au/
 * https://beerdeluxe.com.au/
 
 If you are looking for a place on the weekend and are up for a quick detour out of the city, then [Batch Brewing](http://www.batchbrewingco.com.au/) offers an excellent hipster brewery experience.
