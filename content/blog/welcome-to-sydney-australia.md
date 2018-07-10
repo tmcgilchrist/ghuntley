@@ -58,7 +58,7 @@ Take the ferry over to the zoo, the views are spectactular
 {{< tweet 1005268478322868224 >}}
 {{< tweet 1005271846365716480 >}}
 
-Rahaul Nath has some excellent suggestions for trips around Sydney and the areas surrounding:
+Rahaul Nath has some excellent suggestions for trips around Sydney and the areas surrounding at
 
 * https://rahulpnath.com/blog/one-day-trips-around-sydney/
 * https://rahulpnath.com/blog/trips-for-the-long-weekend-around-sydney/
