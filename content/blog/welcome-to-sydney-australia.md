@@ -13,7 +13,7 @@ Australia has some of the best coffee in the world, that is if you know where to
 
 Most folks drink warm milk aka the flat white; when buying for another Aussie, it's typically [the safe default](https://www.smh.com.au/entertainment/flat-and-fabulous-20120218-1tfdk.html).
 
-I'm pretty particular when it comes to coffee, as when brewed with high-quality beans and by an on-point barrister, coffee is a tasting experience similar that to scotch or wine. 
+I'm pretty particular when it comes to coffee, as when brewed with high-quality beans and by an on-point barrister, coffee is a tasting experience similar to scotch or wine. 
 
 {{< tweet 1006680000123170816 >}}
 
