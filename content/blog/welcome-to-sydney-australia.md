@@ -39,7 +39,7 @@ There's a rooftop bar on top of the [Glenmore](http://theglenmore.com.au/) with 
 * For a more traditional pub and grub experience with great beer head on over to [Harts](https://www.therocks.com/eat-drink/harts-pub/).
 * For scotch nothing beats [The Baxsters Inn](http://thebaxterinn.com/). 
 * For an arcade/starwars cantina experience head on over to [I <3 Goats](https://www.yelp.com.au/biz/the-sg-sydney).
-* For eSports head on over to [SpawnPoint](https://www.spawnpoint.com.au/).
+* For eSports head on over to [Spawn Point](https://www.spawnpoint.com.au/).
 
 If it's late and everything is closed in the city or you are after a pizza dive bar, pinball and live music head on over to [Frankies](http://www.frankiespizzabytheslice.com/).
 
@@ -58,7 +58,7 @@ Take the ferry over to the zoo, the views are spectactular
 {{< tweet 1005268478322868224 >}}
 {{< tweet 1005271846365716480 >}}
 
-Make sure you look up the time table of the bird show and attend
+Make sure you look up the time table of the bird show and attend it
 
 {{< tweet 1005271719559303169 >}}
 
