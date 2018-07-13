@@ -4,7 +4,7 @@ title: lately
 
 # where?
 
-I’m home which is Sydney, Australia. It’s Winter. I’m [observing the AEST timezone](https://time.is/Sydney).
+I’m home which is Sydney, Australia. It’s Winter. I’m observing [the AEST timezone](https://time.is/Sydney).
 
 # what I'm doing now
 - Porting a linux distribution to windows subsystem for linux
