@@ -1,5 +1,6 @@
 ---
 title: Reactive Programming
+layout: notes
 ---
 
-{{< tweet 1014836872600805376 >}}
+Related [incremental computing](incremental computing)
