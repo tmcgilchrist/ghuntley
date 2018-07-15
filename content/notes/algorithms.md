@@ -16,7 +16,7 @@ http://blog.refdash.com/dynamic-programming-tutorial-example/
 
 * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/
 
-{{< tweet 98162977779777536 >}}
+Tweet 98162977779777536
 
 # Complexity Analysis
 
