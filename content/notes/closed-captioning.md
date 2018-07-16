@@ -79,4 +79,6 @@ From https://stackoverflow.com/questions/3169910/can-ffmpeg-extract-closed-capti
 
 # misc
 * https://youtu.be/Dx-iqLD5b3I?t=7723
+* https://github.com/WatershedArts/LiveCaptions
+* https://github.com/WatershedArts/LiveCaptions
 
