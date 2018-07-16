@@ -51,6 +51,8 @@ From https://support.google.com/youtube/answer/3068031?hl=en
 
 # creating closed captions
 
+http://www.aegisub.org/
+
 # closed caption data stream
 
 Twitch have open-sourced a library for working with closed captions over at https://github.com/szatmary/libcaption/
