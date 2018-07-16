@@ -9,9 +9,41 @@ Baking captions onto a video stream isn't accessible. Captions need to be embedd
 
 https://github.com/szatmary/libcaption/
 
-# live streaming services
-* https://help.twitch.tv/customer/portal/articles/2564215
-* https://support.google.com/youtube/answer/3068031?hl=en
+# twitter
+
+Any CEA-608/CEA-708 subtitles encoded into the original video will appear if accessibility options are enabled (regardless of the API used to upload the video).
+
+From https://twittercommunity.com/t/closed-caption-support/98570/7
+
+# twitch
+
+Twitch accepts captions in line 21 CEA-708/EIA-608 format and in CC1 NTSC field 1. Captions may be transmitted using CEA-708/EIA-608 embedded in the video elementary stream as described in ATSC A/72 (SEI user_data) or CEA-708/EIA-608 transmitted via RTMP onCaptionInfo script/AMF0 tag. 
+
+When transmitting via RTMP, the payload must contain an ECMA Array with two element pairs:
+- A string named "type" containing the characters "708"
+- A string named "data" that contains a base64 encoded CEA-708/EIA-608 payload
+
+```
+Example:
+00000000  12 00 00 69 00 00 00 00  00 00 00 02 00 0d 6f 6e  |...i..........on|
+00000010  43 61 70 74 69 6f 6e 49  6e 66 6f 08 00 00 00 02  |CaptionInfo.....|
+00000020  00 04 74 79 70 65 02 00  03 37 30 38 00 04 64 61  |..type...708..da|
+00000030  74 61 02 00 3c 74 51 41  78 52 30 45 35 4e 41 4e  |ta..<tQAxR0E5NAN|
+00000040  4c 41 50 79 55 72 76 79  55 49 50 79 52 51 50 7a  |LAPyUrvyUIPyRQPz|
+00000050  49 35 66 7a 73 37 50 7a  76 4c 50 77 67 56 50 7a  |I5fzs7PzvLPwgVPz|
+00000060  33 36 66 7a 30 34 2f 78  6f 67 50 79 55 4c 2f 38  |36fz04/xogPyUL/8|
+00000070  3d 00 00 09 00 00 00 74                           |=......t|
+```
+
+From https://help.twitch.tv/customer/portal/articles/2564215
+
+# youtube
+
+- At the bottom of the Ingestion Settings tab, there is a Closed Caption section. Select the Embedded 608/708 item in the dropdown menu.
+- Hit Save.
+- In your encoder settings choose EIA 608/CEA 708 captions, sometimes called "embedded" captions. While the 608/708 standard supports up to 4 language tracks, YouTube currently only supports one track of captions.
+
+From https://support.google.com/youtube/answer/3068031?hl=en
 
 # research
 * https://youtu.be/Dx-iqLD5b3I?t=7723
