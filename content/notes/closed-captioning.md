@@ -9,7 +9,7 @@ Baking captions onto a video stream isn't accessible. Captions need to be embedd
 
 Twitch have open-sourced a library for working with closed captions at https://github.com/szatmary/libcaption/
 
-# live streaming
+# availability
 
 ## mixer
 
