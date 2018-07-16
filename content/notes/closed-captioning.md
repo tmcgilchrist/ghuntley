@@ -9,17 +9,19 @@ Baking captions onto a video stream isn't accessible. Captions need to be embedd
 
 Twitch have open-sourced a library for working with closed captions at https://github.com/szatmary/libcaption/
 
-# mixer
+# live streaming
+
+## mixer
 
 Not implemented, see https://watchmixer.uservoice.com/forums/382521-mixer-feedback-ideas/suggestions/17632456-closed-captioning and https://watchmixer.uservoice.com/forums/382521-mixer-feedback-ideas/suggestions/34671694-closed-captioning
 
-# twitter
+## twitter
 
 Any CEA-608/CEA-708 subtitles encoded into the original video will appear if accessibility options are enabled (regardless of the API used to upload the video).
 
 From https://twittercommunity.com/t/closed-caption-support/98570/7
 
-# twitch
+## twitch
 
 Twitch accepts captions in line 21 CEA-708/EIA-608 format and in CC1 NTSC field 1. Captions may be transmitted using CEA-708/EIA-608 embedded in the video elementary stream as described in ATSC A/72 (SEI user_data) or CEA-708/EIA-608 transmitted via RTMP onCaptionInfo script/AMF0 tag. 
 
@@ -41,7 +43,7 @@ Example:
 
 From https://help.twitch.tv/customer/portal/articles/2564215
 
-# youtube
+## youtube live
 
 - At the bottom of the Ingestion Settings tab, there is a Closed Caption section. Select the Embedded 608/708 item in the dropdown menu.
 - Hit Save.
@@ -49,7 +51,16 @@ From https://help.twitch.tv/customer/portal/articles/2564215
 
 From https://support.google.com/youtube/answer/3068031?hl=en
 
-# research
+# extraction of data
 
+ffmpeg can extract caption data via
+
+`ffmpeg -f lavfi -i movie=input.ts[out+subcc]  -map 0:1  output.srt`
+
+From https://stackoverflow.com/questions/3169910/can-ffmpeg-extract-closed-caption-data 
+
+# embedding data
+
+# misc
 * https://youtu.be/Dx-iqLD5b3I?t=7723
 
