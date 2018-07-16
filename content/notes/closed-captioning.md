@@ -13,11 +13,19 @@ Baking captions _onto_ a video isn't accessible. Captions need to be embedded _i
 
 Not implemented, see https://watchmixer.uservoice.com/forums/382521-mixer-feedback-ideas/suggestions/17632456-closed-captioning and https://watchmixer.uservoice.com/forums/382521-mixer-feedback-ideas/suggestions/34671694-closed-captioning
 
-## twitter
+## periscope
 
 Any CEA-608/CEA-708 subtitles encoded into the original video will appear if accessibility options are enabled (regardless of the API used to upload the video).
 
 From https://twittercommunity.com/t/closed-caption-support/98570/7
+
+## twitter
+
+Closed captions must be baked into the video and the captions are not onto screen readers
+
+https://twittercommunity.com/t/closed-captions-support-in-twitter-videos/60881/8
+
+Confirmed via uploads 
 
 ## twitch
 
