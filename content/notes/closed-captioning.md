@@ -21,7 +21,7 @@ From https://twittercommunity.com/t/closed-caption-support/98570/7
 
 ## twitch
 
-Twitch accepts captions `in line 21 CEA-708/EIA-608 format and in CC1 NTSC field 1. Captions may be transmitted using CEA-708/EIA-608 embedded in the video elementary stream as described in ATSC A/72 (SEI user_data)` or `CEA-708/EIA-608 transmitted via RTMP onCaptionInfo script/AMF0 tag`. 
+Twitch accepts captions _in line 21 CEA-708/EIA-608 format and in CC1 NTSC field 1. Captions may be transmitted using CEA-708/EIA-608 embedded in the video elementary stream as described in ATSC A/72 (SEI user_data)_ or _CEA-708/EIA-608 transmitted via RTMP onCaptionInfo script/AMF0 tag_. 
 
 When transmitting via RTMP, the payload must contain an ECMA Array with two element pairs:
 - A string named "type" containing the characters "708"
