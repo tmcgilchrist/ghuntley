@@ -41,6 +41,12 @@ Example:
 
 From https://help.twitch.tv/customer/portal/articles/2564215
 
+## youtube
+
+Upload the video and then manually upload the `srt` afterwards.
+
+{{< youtube nI6WNLi2fh8 >}}
+
 ## youtube live
 
 - At the bottom of the Ingestion Settings tab, there is a Closed Caption section. Select the Embedded 608/708 item in the dropdown menu.
