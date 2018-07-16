@@ -7,8 +7,6 @@ Baking captions onto a video stream isn't accessible. Captions need to be embedd
 * [CEA-708/EIA-608](https://en.m.wikipedia.org/wiki/CEA-708) embedded in the video elementary stream as described in ATSC A/72 ([SEI user_data](https://software.intel.com/en-us/blogs/2014/08/18/how-to-add-closed-caption-messages-in-avc-and-mpeg2-streams))
 * [CEA-708/EIA-608](https://en.m.wikipedia.org/wiki/CEA-708) transmitted via RTMP onCaptionInfo script/AMF0 tag
 
-Twitch have open-sourced a library for working with closed captions at https://github.com/szatmary/libcaption/
-
 # availability
 
 ## mixer
@@ -51,15 +49,17 @@ From https://help.twitch.tv/customer/portal/articles/2564215
 
 From https://support.google.com/youtube/answer/3068031?hl=en
 
-# extraction of data
+# creating closed captions
 
-ffmpeg can extract caption data via
+# closed caption data stream
+
+Twitch have open-sourced a library for working with closed captions over at https://github.com/szatmary/libcaption/
+
+Additionally ffmpeg can extract caption data via
 
 `ffmpeg -f lavfi -i movie=input.ts[out+subcc]  -map 0:1  output.srt`
 
 From https://stackoverflow.com/questions/3169910/can-ffmpeg-extract-closed-caption-data 
-
-# embedding data
 
 # misc
 * https://youtu.be/Dx-iqLD5b3I?t=7723
