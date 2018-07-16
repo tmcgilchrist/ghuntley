@@ -7,7 +7,11 @@ Baking captions onto a video stream isn't accessible. Captions need to be embedd
 * [CEA-708/EIA-608](https://en.m.wikipedia.org/wiki/CEA-708) embedded in the video elementary stream as described in ATSC A/72 ([SEI user_data](https://software.intel.com/en-us/blogs/2014/08/18/how-to-add-closed-caption-messages-in-avc-and-mpeg2-streams))
 * [CEA-708/EIA-608](https://en.m.wikipedia.org/wiki/CEA-708) transmitted via RTMP onCaptionInfo script/AMF0 tag
 
-https://github.com/szatmary/libcaption/
+Twitch have open-sourced a library for working with closed captions at https://github.com/szatmary/libcaption/
+
+# mixer
+
+Not implemented, see https://watchmixer.uservoice.com/forums/382521-mixer-feedback-ideas/suggestions/17632456-closed-captioning and https://watchmixer.uservoice.com/forums/382521-mixer-feedback-ideas/suggestions/34671694-closed-captioning
 
 # twitter
 
@@ -46,5 +50,6 @@ From https://help.twitch.tv/customer/portal/articles/2564215
 From https://support.google.com/youtube/answer/3068031?hl=en
 
 # research
+
 * https://youtu.be/Dx-iqLD5b3I?t=7723
 
