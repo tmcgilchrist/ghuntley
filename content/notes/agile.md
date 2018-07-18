@@ -20,3 +20,7 @@ https://defradigital.blog.gov.uk/2017/09/19/lets-fund-teams-not-projects/
 # scrum
 
 {{< tweet 992324754773340160 >}}
+
+# asynchronony 
+
+https://apetro.ghost.io/fixed-async-manifesto
