@@ -24,5 +24,5 @@ I'm speaking at NDC Sydney with Nick
 
 # what I've done so far this year
 - Refactored homelab infrastructure and now using proxmox/kvm.
-- Rolled my own k8 cluster the hard way from source code.
+- Rolled my own k8 cluster the hard way from source code. Submitted a few pull requests to k8 and got em merged. 
 
