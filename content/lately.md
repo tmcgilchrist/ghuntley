@@ -23,4 +23,6 @@ I'm speaking at NDC Sydney with Nick
 - Sketching up how we could automate closed captions for twitch broadcasters. It's annoying that a segment of society is being excluded by default. 
 
 # what I've done so far this year
-- Rolled my own k8 cluster from source code.
+- Refactored homelab infrastructure and now using proxmox/kvm.
+- Rolled my own k8 cluster the hard way from source code.
+
