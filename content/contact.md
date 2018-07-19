@@ -12,6 +12,8 @@ This is the easiest way if you want to say howdy. I usually respond pretty promp
 
 {{< tweet 1019917006479372290 >}}
 
+The stream schedule is maintained in [an online calendar you can subscribe to](https://calendar.google.com/calendar?cid=Z2h1bnRsZXkuY29tX3BjNWo0MjdjZG1sNW81MmVqczE2aG91YmMwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). Past stream recordings are on [my YouTube channel](https://youtube.com/c/geoffreyhuntley). Please follow me and tell your friends as you'll help with validating that there is demand for live coding on twitch and it's worth doing.
+
 # twitter
 
 This is my primary means of broadcasting things to the world so please follow me there. I do read my DMs and allow them from people I don't follow. Follow <a href="http://twitter.com/geoffreyhuntley">@geoffreyhuntley</a> on Twitter.
