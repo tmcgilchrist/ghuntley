@@ -8,6 +8,10 @@ I'm usually pretty easy to get hold of, here's how I use different channels to c
 
 This is the easiest way if you want to say howdy. I usually respond pretty promptly. My email address is <a href="mailto:ghuntley@ghuntley.com">ghuntley@ghuntley.com</a>
 
+# twitch & youtube
+
+{{< tweet 1019917006479372290 >}}
+
 # twitter
 
 This is my primary means of broadcasting things to the world so please follow me there. I do read my DMs and allow them from people I don't follow. Follow <a href="http://twitter.com/geoffreyhuntley">@geoffreyhuntley</a> on Twitter.
@@ -26,6 +30,6 @@ Genuine queries about speaking at events will get a response, even if I can't ac
 
 # what I may not respond to
 
-I do not do tech-support via email unless you have we 
+I do not do tech-support unless you have we have a commerical agreement in place. If you want general help for per hour of time (whether it's for help on  open source, a workshop, training, or contributing), email me for more details. 
 
 If your message doesn't explicitly look like it needs a response or it's vague or not clear what the purpose is, you may not hear back from me.
