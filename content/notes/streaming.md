@@ -37,4 +37,8 @@ Whilst I live a somewhat public life, to ensure this doesn't happen I've impleme
 
 # accessibility
 
-https://webcaptioner.com/captioner
+* https://webcaptioner.com/captioner
+
+# community
+
+* https://github.com/mgechev/github-contributors-list
