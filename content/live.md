@@ -40,7 +40,7 @@ The line of defense is [a strip of lights](https://www.amazon.com/Philips-Ambian
 
 {{< tweet 895518510025256960 >}}
 
-If you work remotely from your house as I do from time to time you should totally steal this idea - [I did](https://www.hanselman.com/blog/IsDaddyOnACallABusyLightPresenceIndicatorForLyncForMyHomeOffice.aspx). When I jump on a call or I am broadcasting the light automatically changes to red and my children understand what it means as I've had the system in place for a couple years now.
+If you work remotely from your house as I do you should totally steal this idea - [I did](https://www.hanselman.com/blog/IsDaddyOnACallABusyLightPresenceIndicatorForLyncForMyHomeOffice.aspx). When I jump on a call or I am broadcasting the light automatically changes to red and my children understand what it means as I've had the system in place for a couple years now.
 
 {{< tweet 1020620842428846080 >}}
 
