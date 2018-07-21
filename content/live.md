@@ -36,6 +36,8 @@ There's a [contributing guide](https://github.com/ghuntley/live/CONTRIBUTING.md)
 
 # support me
 
+Please follow me on [Twitch](https://twitch.tv/geoffreyhuntley) and [Twitter](https://twitter.com/geoffreyhuntley). Tell your friends, as by doing so you'll help prove that there is demand for live coding on twitch and this activity worth doing.
+
 If you truly appreciate the work do on twitch or in open source, please [buy me a cup coffee](https://www.patreon.com/ghuntley).  Things that take mental energy just work better with coffee!  I (almost always) brew my own coffee unless I'm in the city in which case you'll usually find me hanging out at [Espressory](https://www.espressory.com.au/). 
 
 Subs and Bits are also greatly appreciated. Anyway, thanks for any support you can offer if you decide to - Geoffrey Huntley
