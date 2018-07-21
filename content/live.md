@@ -14,7 +14,8 @@ title: "live"
   new Twitch.Embed("twitch-embed", {
     width: 500,
     height: 480,
-    channel: "geoffreyhuntley"
+    channel: "geoffreyhuntley",
+    theme: "dark"
   });
 </script>
 
