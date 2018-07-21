@@ -2,6 +2,21 @@
 title: "live"
 ---
 
+<!-- Add a placeholder for the Twitch embed -->
+<div id="twitch-embed"></div>
+
+<!-- Load the Twitch embed script -->
+<script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+<!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
+<script type="text/javascript">
+  new Twitch.Embed("twitch-embed", {
+    width: 854,
+    height: 480,
+    channel: "geoffreyhuntley"
+  });
+</script>
+
 🙌 I’m Geoff, an open source software engineer. I’m currently in Sydney, Australia. I’m observing [the AEST timezone](https://time.is/Sydney). Instead of writing and maintaining software on my own I'm inviting you to pair-program with me in my office. Let's build software together. Be interactive, I love live suggestions, but please be kind and constructive. Live streaming can be scary. 💖 
 
 {{< tweet 1019917006479372290 >}}
