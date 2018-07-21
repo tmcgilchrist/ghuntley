@@ -51,15 +51,17 @@ Finally, I use a dedicated control panel so that I can switch inputs via dedicat
 
 # equipment
 
-* [X-keys USB Jog & Shuttle Control for Editing or Instant Replay (68 Keys)](https://www.amazon.com/X-keys-Jog-Shuttle-Control-XK-68/dp/B00I3OW4SQ)
-* [X-keys USB Foot Pedal for Playback Control](https://www.amazon.com/X-keys-Foot-Pedal-Playback-Control/dp/B009PP6Z50)
-* [FiiO E10K USB DAC and Headphone Amplifier](https://www.amazon.com/FiiO-E10K-Headphone-Amplifier-Black/dp/B00LP3AMC2)
-* [Sennheiser HD 598 SR Open-Back Headphones](https://www.amazon.com/Sennheiser-HD-598-SR-Open-Back/dp/B06WRMZZ45)
-* [Rode Podcaster USB Dynamic Microphone](https://www.amazon.com/Rode-Podcaster-USB-Dynamic-Microphone/dp/B000JM46FY)
-* [RODE PSA1 Swivel Mount Studio Microphone Boom Arm](https://www.amazon.com/RODE-Swivel-Mount-Studio-Microphone/dp/B001D7UYBO)
-* [Philips BDM4065UC 40" Class 4K Monitor UHD](https://www.amazon.com/Philips-BDM4065UC-Resolution-Speakers-DisplayPort/dp/B00SCX78JS)
-* [CORSAIR K70 RGB MK.2 Mechanical Gaming Keyboard](https://www.amazon.com/CORSAIR-MK-2-Mechanical-Gaming-Keyboard/dp/B07D5S5QKF)
-* [CORSAIR GLAIVE - RGB Gaming Mouse](https://www.amazon.com/CORSAIR-GLAIVE-Comfortable-Interchangeable-Refurbished/dp/B07CQ8C5ZB)
-* [Logitech HD Pro Webcam C920](https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S)
+* [Philips Hue White and Color Ambiance LightStrip Plus Dimmable LED Smart Light](https://www.amazon.com/Philips-Ambiance-LightStrip-Compatible-Assistant/dp/B0167H33DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [X-keys USB Jog & Shuttle Control for Editing or Instant Replay (68 Keys)](https://www.amazon.com/X-keys-Jog-Shuttle-Control-XK-68/dp/B00I3OW4SQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [X-keys USB Foot Pedal for Playback Control](https://www.amazon.com/X-keys-Foot-Pedal-Playback-Control/dp/B009PP6Z50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [Logitech HD Pro Webcam C920](https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [IPEVO V4K Ultra High Definition USB Document Camera](https://www.amazon.com/IPEVO-Definition-Document-Camera-5-880-4-01-00/dp/B079DLTG9F/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [FiiO E10K USB DAC and Headphone Amplifier](https://www.amazon.com/FiiO-E10K-Headphone-Amplifier-Black/dp/B00LP3AMC2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [Sennheiser HD 598 SR Open-Back Headphones](https://www.amazon.com/Sennheiser-HD-598-SR-Open-Back/dp/B06WRMZZ45/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [Rode Podcaster USB Dynamic Microphone](https://www.amazon.com/Rode-Podcaster-USB-Dynamic-Microphone/dp/B000JM46FY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [RODE PSA1 Swivel Mount Studio Microphone Boom Arm](https://www.amazon.com/RODE-Swivel-Mount-Studio-Microphone/dp/B001D7UYBO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [Philips BDM4065UC 40" Class 4K Monitor UHD](https://www.amazon.com/Philips-BDM4065UC-Resolution-Speakers-DisplayPort/dp/B00SCX78JS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [CORSAIR K70 RGB MK.2 Mechanical Gaming Keyboard](https://www.amazon.com/CORSAIR-MK-2-Mechanical-Gaming-Keyboard/dp/B07D5S5QKF/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [CORSAIR GLAIVE - RGB Gaming Mouse](https://www.amazon.com/CORSAIR-GLAIVE-Comfortable-Interchangeable-Refurbished/dp/B07CQ8C5ZB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
 
 {{< tweet 1020615364483297281 >}}
