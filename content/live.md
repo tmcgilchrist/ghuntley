@@ -42,3 +42,7 @@ For privacy reasons and to reduce unwanted noise (typing, drinking water, swallo
 
 
 {{< tweet 1020172737074028544 >}}
+
+# equipment
+
+{{< tweet 1020615364483297281 >}}
