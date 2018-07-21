@@ -42,7 +42,7 @@ The line of defense is [a strip of lights](https://www.amazon.com/Philips-Ambian
 
 If you work remotely from your house as I do you should totally steal this idea - [I did](https://www.hanselman.com/blog/IsDaddyOnACallABusyLightPresenceIndicatorForLyncForMyHomeOffice.aspx). When I jump on a call or I am broadcasting the light automatically changes to red and my children understand what it means as I've had the system in place for a couple years now.
 
-"Hot" microphones are a recipe for disaster so none of my microphones are on unless physically activate them
+"Hot" microphones are a recipe for disaster so none of my microphones are on unless I physically activate them
 
 {{< tweet 1020620842428846080 >}}
 
