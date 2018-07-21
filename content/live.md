@@ -46,9 +46,11 @@ If you work remotely from your house as I do you should totally steal this idea 
 
 {{< tweet 1020620842428846080 >}}
 
-Finally, I use a dedicated control panel so that I can switch inputs via dedicated buttons and can fade to black instantly if the need arises. It is so important to have a big fat eject button, bumbling through systrays and application focus to terminate a stream is a recipe for disaster.
+I use a dedicated control panel so that I can switch inputs via dedicated buttons and can fade to black instantly if the need arises. It is so important to have a big fat eject button, bumbling through systrays and application focus to terminate a stream is another recipe for disaster.
 
 {{< tweet 1020172737074028544 >}}
+
+Finally, I use a seperate windows account for broadcasting and I'm always running an application that I wrote that detects which application is in focus and it will automatically switch the feed to a "privacy scene" if need be to aide with protecting against accidental disclosure. 
 
 # equipment
 
