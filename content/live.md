@@ -51,6 +51,7 @@ Finally, I use a dedicated control panel so that I can switch inputs via dedicat
 
 # equipment
 
+* [Herman Miller Classic Aeron Chair](https://www.amazon.com/Herman-Miller-Classic-Aeron-Chair-Size/dp/B0742KV7ZR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
 * [Philips Hue White and Color Ambiance LightStrip Plus Dimmable LED Smart Light](https://www.amazon.com/Philips-Ambiance-LightStrip-Compatible-Assistant/dp/B0167H33DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
 * [X-keys USB Jog & Shuttle Control for Editing or Instant Replay (68 Keys)](https://www.amazon.com/X-keys-Jog-Shuttle-Control-XK-68/dp/B00I3OW4SQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
 * [X-keys USB Foot Pedal for Playback Control](https://www.amazon.com/X-keys-Foot-Pedal-Playback-Control/dp/B009PP6Z50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
