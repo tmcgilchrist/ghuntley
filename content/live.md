@@ -37,3 +37,8 @@ Kelly told the Guardian that he wasn't prepared for the spotlight the viral clip
 Whilst I live a somewhat public life, to ensure this doesn't happen I've implemented safeguards to minimise the risks of broadcasting on the internet. The line of defense is [a strip of lights](https://www.amazon.com/Philips-Ambiance-LightStrip-Compatible-Assistant/dp/B0167H33DU) attached to my door frame that act as a traffic light to let folks know if a broadcast or video call/meeting is in progress. 
 
 {{< tweet 895518510025256960 >}}
+
+For privacy reasons and to reduce unwanted noise (typing, drinking water, swallowing, etc) I don't run a my microphone "hot". Underneath my desk is a foot pedal with three buttons. When the main button is pressed it mixes the microphone into the stream and when depressed microphone input is automatically cut off.
+
+
+{{< tweet 1020172737074028544 >}}
