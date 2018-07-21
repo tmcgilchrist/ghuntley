@@ -25,7 +25,7 @@ The stream schedule is maintained in [an online calendar you can subscribe to](h
 
 {{< tweet 1019917006479372290 >}}
 
-# really important
+# disclaimer
 
 I currently work through a consultancy, but the opinions expressed publicly are my own and do not necessarily represent those of my clients unless otherwise stated. Do not quote me as “$company person Geoffrey Huntley said” – if I speak for a company, I will publish on its channels. This is my personal slice of the internet. Everything here is me and is my opinion.
 
