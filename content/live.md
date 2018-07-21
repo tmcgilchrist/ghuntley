@@ -38,10 +38,14 @@ Whilst I live a somewhat public life, to ensure this doesn't happen I've impleme
 
 {{< tweet 895518510025256960 >}}
 
-For privacy reasons and to reduce unwanted noise (typing, drinking water, swallowing, etc) I don't run a my microphone "hot". Underneath my desk is a foot pedal with three buttons. When the main button is pressed it mixes the microphone into the stream and when depressed microphone input is automatically cut off.
+For privacy reasons and to reduce unwanted noise (typing, drinking water, swallowing, etc) I don't run my microphone "hot". Underneath my desk is a foot pedal with three buttons. When the main button is pressed it mixes the microphone into the stream and when depressed microphone input is automatically cut off.
 
+{{< tweet 1020619195866787841 >}}
+
+Finally, I use a dedicated control panel so that I can switch inputs via dedicated buttons and can fade to black instantly if the need arises.
 
 {{< tweet 1020172737074028544 >}}
+
 
 # equipment
 
