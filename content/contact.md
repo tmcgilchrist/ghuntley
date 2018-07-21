@@ -10,9 +10,11 @@ This is the easiest way if you want to say howdy. I usually respond pretty promp
 
 # twitch & youtube
 
-The stream schedule is maintained in [an online calendar you can subscribe to](https://calendar.google.com/calendar?cid=Z2h1bnRsZXkuY29tX3BjNWo0MjdjZG1sNW81MmVqczE2aG91YmMwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). Past stream recordings are on [my YouTube channel](https://youtube.com/c/geoffreyhuntley). Please follow me and tell your friends as you'll help with validating that there is demand for live coding on twitch and it's worth doing.
+Please follow me on [Twitch](https://twitch.tv/geoffreyhuntley) and [YouTube](https://youtube.com/c/geoffreyhuntley). Tell your friends, as by doing so you'll help prove that there is demand for live coding on twitch and this activity worth doing.
 
 {{< tweet 1019917006479372290 >}}
+
+The stream schedule is maintained in [an online calendar you can subscribe to](https://calendar.google.com/calendar?cid=Z2h1bnRsZXkuY29tX3BjNWo0MjdjZG1sNW81MmVqczE2aG91YmMwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). Past stream recordings are on [my YouTube channel](https://youtube.com/c/geoffreyhuntley). 
 
 # twitter
 
