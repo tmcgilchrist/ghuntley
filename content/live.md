@@ -51,7 +51,7 @@ Finally, I use a dedicated control panel so that I can switch inputs via dedicat
 
 # equipment
 
-* [X-keys USB Jog & Shuttle Control for Editing or Instant Replay (68 Key, XK-68 JGS)](https://www.amazon.com/X-keys-Jog-Shuttle-Control-XK-68/dp/B00I3OW4SQ)
+* [X-keys USB Jog & Shuttle Control for Editing or Instant Replay (68 Keys)](https://www.amazon.com/X-keys-Jog-Shuttle-Control-XK-68/dp/B00I3OW4SQ)
 * [X-keys USB Foot Pedal for Playback Control](https://www.amazon.com/X-keys-Foot-Pedal-Playback-Control/dp/B009PP6Z50)
 * [FiiO E10K USB DAC and Headphone Amplifier](https://www.amazon.com/FiiO-E10K-Headphone-Amplifier-Black/dp/B00LP3AMC2)
 * [Sennheiser HD 598 SR Open-Back Headphones](https://www.amazon.com/Sennheiser-HD-598-SR-Open-Back/dp/B06WRMZZ45)
