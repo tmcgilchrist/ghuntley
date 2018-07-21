@@ -51,4 +51,15 @@ Finally, I use a dedicated control panel so that I can switch inputs via dedicat
 
 # equipment
 
+* [X-keys USB Jog & Shuttle Control for Editing or Instant Replay (68 Key, XK-68 JGS)](https://www.amazon.com/X-keys-Jog-Shuttle-Control-XK-68/dp/B00I3OW4SQ)
+* [X-keys USB Foot Pedal for Playback Control](https://www.amazon.com/X-keys-Foot-Pedal-Playback-Control/dp/B009PP6Z50)
+* [FiiO E10K USB DAC and Headphone Amplifier](https://www.amazon.com/FiiO-E10K-Headphone-Amplifier-Black/dp/B00LP3AMC2)
+* [Sennheiser HD 598 SR Open-Back Headphones](https://www.amazon.com/Sennheiser-HD-598-SR-Open-Back/dp/B06WRMZZ45)
+* [Rode Podcaster USB Dynamic Microphone](https://www.amazon.com/Rode-Podcaster-USB-Dynamic-Microphone/dp/B000JM46FY)
+* [RODE PSA1 Swivel Mount Studio Microphone Boom Arm](https://www.amazon.com/RODE-Swivel-Mount-Studio-Microphone/dp/B001D7UYBO)
+* [Philips BDM4065UC 40" Class 4K Monitor UHD](https://www.amazon.com/Philips-BDM4065UC-Resolution-Speakers-DisplayPort/dp/B00SCX78JS)
+* [CORSAIR K70 RGB MK.2 Mechanical Gaming Keyboard](https://www.amazon.com/CORSAIR-MK-2-Mechanical-Gaming-Keyboard/dp/B07D5S5QKF)
+* [CORSAIR GLAIVE - RGB Gaming Mouse](https://www.amazon.com/CORSAIR-GLAIVE-Comfortable-Interchangeable-Refurbished/dp/B07CQ8C5ZB)
+* [Logitech HD Pro Webcam C920](https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S)
+
 {{< tweet 1020615364483297281 >}}
