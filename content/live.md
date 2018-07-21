@@ -1,4 +1,4 @@
-gvh---
+---
 title: "live"
 ---
 
@@ -34,15 +34,13 @@ Kelly told the Guardian that he wasn't prepared for the spotlight the viral clip
 
 > "People were reading stuff into our relationship and, oh my God, I didn’t want to get near any of that crap, so we didn’t say anything", he told the Guardian. "It was a comedy of errors, a family blooper. There was nothing to say."
 
-Whilst I live a somewhat public life, to ensure this doesn't happen I've implemented safeguards to minimise the risks of broadcasting on the internet. The line of defense is [a strip of lights](https://www.amazon.com/Philips-Ambiance-LightStrip-Compatible-Assistant/dp/B0167H33DU) attached to my door frame that act as a traffic light to let folks know if a broadcast or video call/meeting is in progress. This simple system is extremely handy for communicating availability, if you work remotely from your house as I do from time to time you should totally steal this idea. When I jump on a call or I am broadcasting the light automatically changes to red and my children understand what it means as I've had the system in place for a couple years now.
+Whilst I live a somewhat public life, to ensure this doesn't happen I've implemented safeguards to minimise the risks of broadcasting on the internet. The line of defense is [a strip of lights](https://www.amazon.com/Philips-Ambiance-LightStrip-Compatible-Assistant/dp/B0167H33DU) attached to my door frame that act as a traffic light to let folks know if a broadcast or video call/meeting is in progress. This simple system is extremely handy for communicating availability. If you work remotely from your house as I do from time to time you should totally steal this idea - [I did](https://www.hanselman.com/blog/IsDaddyOnACallABusyLightPresenceIndicatorForLyncForMyHomeOffice.aspx). When I jump on a call or I am broadcasting the light automatically changes to red and my children understand what it means as I've had the system in place for a couple years now.
 
 {{< tweet 895518510025256960 >}}
 
-
-
 For privacy reasons and to reduce unwanted noise (typing, drinking water, swallowing, etc) I don't run my microphone "hot". Underneath my desk is a foot pedal with three buttons. When the main button is pressed it mixes the microphone into the stream and when depressed microphone input is automatically cut off.
 
-{{< tweet 1020619195866787841 >}}
+{{< tweet 1020620842428846080 >}}
 
 Finally, I use a dedicated control panel so that I can switch inputs via dedicated buttons and can fade to black instantly if the need arises.
 
