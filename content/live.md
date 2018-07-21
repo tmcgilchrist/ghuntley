@@ -12,7 +12,7 @@ title: "live"
 <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
 <script type="text/javascript">
   new Twitch.Embed("twitch-embed", {
-    width: 640,
+    width: 500,
     height: 480,
     channel: "geoffreyhuntley"
   });
