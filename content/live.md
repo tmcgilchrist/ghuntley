@@ -23,7 +23,7 @@ I currently work through a consultancy, but the opinions expressed publicly are 
 
 # schedule
 
-The stream schedule is maintained in [an online calendar you can subscribe to](https://calendar.google.com/calendar?cid=Z2h1bnRsZXkuY29tX3BjNWo0MjdjZG1sNW81MmVqczE2aG91YmMwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). Past stream recordings are on [my YouTube channel](https://youtube.com/c/geoffreyhuntley).
+The stream schedule is maintained in [an online calendar you can subscribe to](https://calendar.google.com/calendar?cid=Z2h1bnRsZXkuY29tX3BjNWo0MjdjZG1sNW81MmVqczE2aG91YmMwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). Past stream recordings are on [my YouTube channel](https://youtube.com/c/geoffreyhuntley). When I'm not broadcasting you'll find me in the [discord](https://ghuntley.com/chat) chat. Please drop in and say howdy.
 
 {{< tweet 1019917006479372290 >}}
 
