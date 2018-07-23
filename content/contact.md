@@ -10,7 +10,7 @@ This is the easiest way if you want to say howdy. I usually respond pretty promp
 
 # twitch & youtube
 
-Please follow me on [Twitch](https://twitch.tv/geoffreyhuntley) and [YouTube](https://youtube.com/c/geoffreyhuntley). Tell your friends, as by doing so you'll help prove that there is demand for live coding on twitch and this activity worth doing.
+Please follow me on [Twitch](https://twitch.tv/geoffreyhuntley) and [YouTube](https://youtube.com/c/geoffreyhuntley). Tell your friends, as by doing so you'll help prove that there is demand for live coding and this activity worth doing.
 
 {{< tweet 1019917006479372290 >}}
 
