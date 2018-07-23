@@ -15,7 +15,6 @@ title: "live"
     width: 380,
     height: 480,
     channel: "geoffreyhuntley",
-    theme: "dark"
   });
 </script>
 
