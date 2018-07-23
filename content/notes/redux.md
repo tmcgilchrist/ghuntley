@@ -7,6 +7,7 @@ layout: notes
 
 {{< tweet 963236435837960192 >}}
 
+https://www.smashingmagazine.com/2018/07/redux-designers-guide/
 
 ![](https://cdn-images-1.medium.com/max/2000/1*4fogNBtZrtR_3Xx6sIP9RQ.png)
 
