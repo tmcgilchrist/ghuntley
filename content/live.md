@@ -42,6 +42,10 @@ If you truly appreciate the work do on twitch or in open source, please [buy me 
 
 Subs and Bits are also greatly appreciated. Anyway, thanks for any support you can offer if you decide to - Geoffrey Huntley
 
+# security
+
+I use a seperate windows account for broadcasting and I'm always running an application that I wrote that detects which application is in focus and it will automatically switch the feed to a "privacy scene" if need be to aide with protecting against accidental disclosure of secrets. If you believe there has been inadvertent disclosure of secrets please [contact with me] (/contact) . I'll put your name in the end show credits and send you a thankyou present in the mail - if you so desire. 
+
 # operational safety
 
 The 20th of December will go down as an iconic day in history. Robert E. Kelly, a political science professor at Pusan National University in South Korea, was explaining the ramifications of the impeachment of South Korea President Park Geun-hye live on the BBC in March when his two young children made their on-air debut. The clip quickly went viral and Kelly and his wife Kim Jung-A were soon [the focus of media around the world](https://www.usatoday.com/story/news/nation-now/2017/12/20/bbc-dad-robert-kelly-thought-his-career-over-after-kids-hilariously-interrupted-live-interview/968226001/). 
@@ -67,8 +71,6 @@ If you work remotely from your house as I do you should totally steal this idea 
 I use a dedicated control panel so that I can switch inputs via dedicated buttons and can fade to black instantly if the need arises. It is so important to have a big fat eject button, bumbling through systrays and application focus to terminate a stream is another recipe for disaster.
 
 {{< tweet 1020172737074028544 >}}
-
-Finally, I use a seperate windows account for broadcasting and I'm always running an application that I wrote that detects which application is in focus and it will automatically switch the feed to a "privacy scene" if need be to aide with protecting against accidental disclosure. 
 
 # equipment
 
