@@ -12,7 +12,7 @@ title: "live"
 <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
 <script type="text/javascript">
   new Twitch.Embed("twitch-embed", {
-    width: 500,
+    width: 100%,
     height: 480,
     channel: "geoffreyhuntley",
     theme: "dark"
@@ -89,3 +89,4 @@ Finally, I use a seperate windows account for broadcasting and I'm always runnin
 * [CORSAIR GLAIVE - RGB Gaming Mouse](https://www.amazon.com/CORSAIR-GLAIVE-Comfortable-Interchangeable-Refurbished/dp/B07CQ8C5ZB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
 
 {{< tweet 1020615364483297281 >}}
+{{< tweet 1021195435438878722 >}}
