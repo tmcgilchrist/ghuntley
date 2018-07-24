@@ -42,9 +42,9 @@ If you truly appreciate the work do on twitch or in open source, please [buy me 
 
 Subs and Bits are also greatly appreciated. Anyway, thanks for any support you can offer if you decide to - Geoffrey Huntley
 
-# security
+# bounties
 
-I use a seperate windows account for broadcasting and I'm always running an application that I wrote that detects which application is in focus and it will automatically switch the feed to a "privacy scene" if need be to aide with protecting against accidental disclosure of secrets. If you believe there has been inadvertent disclosure of secrets please [contact with me] (/contact) . I'll put your name in the end show credits and send you a thankyou present in the mail - if you so desire. 
+I have multiple systems in place (multiple-monitors, broadcasting under an isolated operating system account, automated privacy screen switcher, physical control) to reduce the likely hood of accidentally disclosing secrets whilst on the air. That doesn't mean it won't happen however. If you believe there has been a disclosure then please get in [contact with me](mailto:ghuntley@ghuntley.com) immediately. I don't have the resources of [Google](https://www.google.com/about/appsecurity/reward-program/), [Facebook](https://www.facebook.com/whitehat) or [Mozilla](https://www.mozilla.org/en-US/security/bug-bounty/) but at minimumn if you so desire I'll put your name in the end of show credits and send you a thank-you in the mail.
 
 # operational safety
 
