@@ -13,6 +13,8 @@ request the old fashioned way.
 
 <script>
   $.when(
+    $.ajax('https://api.github.com/repos/ghuntley/ghuntley/contributors?per_page=250'),
+    $.ajax('https://api.github.com/repos/ghuntley/live/contributors?per_page=250'),
     $.ajax('https://api.github.com/repos/reactiveui/website/contributors?per_page=250'),
     $.ajax('https://api.github.com/repos/reactiveui/reactiveui/contributors?per_page=250'))
   .then(function(websiteData, reactiveUIData) {
