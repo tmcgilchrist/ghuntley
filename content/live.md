@@ -36,15 +36,15 @@ There's a [contributing guide](https://github.com/ghuntley/live/CONTRIBUTING.md)
 
 # support me
 
-Please follow me on [Twitch](https://twitch.tv/geoffreyhuntley) and [Twitter](https://twitter.com/geoffreyhuntley). Tell your friends, as by doing so you'll help prove that there is demand for live coding on twitch and this activity worth doing.
+Please follow me on [Twitch](https://twitch.tv/geoffreyhuntley) and [Twitter](https://twitter.com/geoffreyhuntley). Tell your friends, as by doing so you'll help prove that there is demand for live coding on twitch and this activity worth doing. Twitch subs and bits are also greatly appreciated.
 
 If you truly appreciate the work do on twitch or in open source, please [buy me a cup coffee](https://www.patreon.com/ghuntley).  Things that take mental energy just work better with coffee!  I (almost always) brew my own coffee unless I'm in the city in which case you'll usually find me hanging out at [Espressory](https://www.espressory.com.au/). 
 
-Subs and Bits are also greatly appreciated. Anyway, thanks for any support you can offer if you decide to - Geoffrey Huntley
+Anyway, thanks for any support you can offer if you decide to.
 
-# bounties
+# inadvertent disclosure
 
-I have multiple systems in place (multiple-monitors, broadcasting under an isolated operating system account, automated privacy screen switcher, physical control) to reduce the likely hood of accidentally disclosing secrets whilst on the air. That doesn't mean it won't happen however. If you believe there has been a disclosure then please get in [contact with me](mailto:ghuntley@ghuntley.com) immediately. I don't have the resources of [Google](https://www.google.com/about/appsecurity/reward-program/), [Facebook](https://www.facebook.com/whitehat) or [Mozilla](https://www.mozilla.org/en-US/security/bug-bounty/) but at minimumn if you so desire I'll put your name in the end of show credits and send you a thank-you in the mail.
+I have multiple systems in place (multiple-monitors, broadcasting under an isolated operating system account, automated privacy screen switcher, a physical control) to reduce the likely hood of accidentally disclosing secrets whilst on the air. That doesn't mean it won't ever happen however. If you believe there has been inadvertant disclosure then please get in [contact with me](mailto:ghuntley@ghuntley.com) immediately. I don't have the resources of [Google](https://www.google.com/about/appsecurity/reward-program/), [Facebook](https://www.facebook.com/whitehat) or [Mozilla](https://www.mozilla.org/en-US/security/bug-bounty/) but at minimumn if you so desire, I'll put your name in the end of show credits and send you some swag in the mail.
 
 # operational safety
 
