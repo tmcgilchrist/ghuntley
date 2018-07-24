@@ -4,7 +4,7 @@ title: "live"
 🙌 I’m Geoff, an open source software engineer. I’m currently in Sydney, Australia. I’m observing [the AEST timezone](https://time.is/Sydney). Instead of writing and maintaining software on my own I'm inviting you to pair-program with me in my office. Let's build software together. Be interactive, I love live suggestions, but please be kind and constructive. Live streaming can be scary. 💖 
 
 <!-- Add a placeholder for the Twitch embed -->
-<div id="twitch-embed"></div>
+<div align="center" id="twitch-embed"></div>
 
 <!-- Load the Twitch embed script -->
 <script src="https://embed.twitch.tv/embed/v1.js"></script>
@@ -44,7 +44,7 @@ Anyway, thanks for any support you can offer if you decide to.
 
 # inadvertent disclosure
 
-I have multiple systems in place (multiple-monitors, broadcasting under an isolated operating system account, automated privacy screen switcher software, a physical production controlpad) to reduce the likely hood of accidentally disclosing secrets whilst on the air. That doesn't mean it won't happen however. 
+I have multiple systems in place (multiple-monitors, broadcasting under an isolated operating system account, automated privacy screen switcher software, a physical production controlpad) to reduce the likely hood of accidentally disclosing secrets whilst on the air. That doesn't mean it cant happen however. 
 
 If you believe there has been inadvertent disclosure please get in [contact with me](mailto:ghuntley@ghuntley.com) immediately. I don't have the resources of [Google](https://www.google.com/about/appsecurity/reward-program/), [Facebook](https://www.facebook.com/whitehat) or [Mozilla](https://www.mozilla.org/en-US/security/bug-bounty/) but at minimum if you so desire, I'll put your name in the end of show hall of fame credits and send you some swag in the mail. Thank-you.
 
@@ -92,4 +92,3 @@ I use a dedicated control panel so that I can switch inputs via dedicated button
 * [CORSAIR GLAIVE - RGB Gaming Mouse](https://www.amazon.com/CORSAIR-GLAIVE-Comfortable-Interchangeable-Refurbished/dp/B07CQ8C5ZB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
 
 {{< tweet 1020615364483297281 >}}
-{{< tweet 1021195435438878722 >}}
