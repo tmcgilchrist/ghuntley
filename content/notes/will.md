@@ -5,3 +5,4 @@ A family member recently passed away. Here's my thoughts on the topic
 - https://youtu.be/671AgW9xSiA
 - https://m.youtube.com/watch?v=PQ5-NGF3AAA
 - https://m.youtube.com/watch?v=JT8zLTaKxeE
+- https://youtu.be/GSyXSeAHL_k
