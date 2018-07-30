@@ -30,6 +30,25 @@ The stream schedule is maintained in [an online calendar you can subscribe to](h
 
 Please read the [Code of Conduct](CODEOFCONDUCT.md). As a project specifically setup to encourage folks to get involved further with open-source, I do not tolerate harassment of any kind directed towards myself, family or community members.
 
+# equipment
+
+* [Herman Miller Classic Aeron Chair](https://www.amazon.com/Herman-Miller-Classic-Aeron-Chair-Size/dp/B0742KV7ZR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [2 x Neewer NL660 Professional Metal Bi-color LED Video Lights](https://www.amazon.com/Neewer-Professional-Bi-color-Photography-3200-5600K/dp/B01NCJSK5V/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [Philips Hue White and Color Ambiance LightStrip Plus Dimmable LED Smart Light](https://www.amazon.com/Philips-Ambiance-LightStrip-Compatible-Assistant/dp/B0167H33DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [X-keys USB Jog & Shuttle Control for Editing or Instant Replay (68 Keys)](https://www.amazon.com/X-keys-Jog-Shuttle-Control-XK-68/dp/B00I3OW4SQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [X-keys USB Foot Pedal for Playback Control](https://www.amazon.com/X-keys-Foot-Pedal-Playback-Control/dp/B009PP6Z50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [Logitech HD Pro Webcam C920](https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [IPEVO V4K Ultra High Definition USB Document Camera](https://www.amazon.com/IPEVO-Definition-Document-Camera-5-880-4-01-00/dp/B079DLTG9F/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [FiiO E10K USB DAC and Headphone Amplifier](https://www.amazon.com/FiiO-E10K-Headphone-Amplifier-Black/dp/B00LP3AMC2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [Sennheiser HD 598 SR Open-Back Headphones](https://www.amazon.com/Sennheiser-HD-598-SR-Open-Back/dp/B06WRMZZ45/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [Rode Podcaster USB Dynamic Microphone](https://www.amazon.com/Rode-Podcaster-USB-Dynamic-Microphone/dp/B000JM46FY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [RODE PSA1 Swivel Mount Studio Microphone Boom Arm](https://www.amazon.com/RODE-Swivel-Mount-Studio-Microphone/dp/B001D7UYBO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [Philips BDM4065UC 40" Class 4K Monitor UHD](https://www.amazon.com/Philips-BDM4065UC-Resolution-Speakers-DisplayPort/dp/B00SCX78JS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [CORSAIR K70 RGB MK.2 Mechanical Gaming Keyboard](https://www.amazon.com/CORSAIR-MK-2-Mechanical-Gaming-Keyboard/dp/B07D5S5QKF/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+* [CORSAIR GLAIVE - RGB Gaming Mouse](https://www.amazon.com/CORSAIR-GLAIVE-Comfortable-Interchangeable-Refurbished/dp/B07CQ8C5ZB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+
+{{< tweet 1020615364483297281 >}}
+
 # contributing
 
 There's a [contributing guide](https://github.com/ghuntley/live/CONTRIBUTING.md) that outlines how you can get involved. Let's build software together. Be interactive, I love live suggestions, but please be kind and constructive. Live streaming can be scary. 💖 
@@ -41,12 +60,6 @@ Please follow me on [Twitch](https://twitch.tv/geoffreyhuntley) and [Twitter](ht
 If you truly appreciate the work do on-air or in open source, please [buy me a cup coffee](https://www.patreon.com/ghuntley).  Things that take mental energy just work better with coffee!  I (almost always) brew my own coffee unless I'm in the city in which case you'll usually find me hanging out at [Espressory](https://www.espressory.com.au/). 
 
 Anyway, thanks for any support you can offer if you decide to.
-
-# inadvertent disclosure
-
-I have multiple systems in place (multiple-monitors, broadcasting under an isolated operating system account, automated privacy screen switcher software, a physical production controlpad) to reduce the likely hood of accidentally disclosing secrets whilst on the air. That doesn't mean it cannot happen. 
-
-If you believe there has been inadvertent disclosure please get in [contact with me](mailto:ghuntley@ghuntley.com) immediately. I don't have the resources of [Google](https://www.google.com/about/appsecurity/reward-program/), [Facebook](https://www.facebook.com/whitehat) or [Mozilla](https://www.mozilla.org/en-US/security/bug-bounty/) but at minimum if you so desire, I'll put your name in the end of show hall of fame credits and send you some swag in the mail. Thank-you.
 
 # operational safety
 
@@ -74,21 +87,8 @@ I use a dedicated control panel so that I can switch inputs via dedicated button
 
 {{< tweet 1020172737074028544 >}}
 
-# equipment
+# inadvertent disclosure
 
-* [Herman Miller Classic Aeron Chair](https://www.amazon.com/Herman-Miller-Classic-Aeron-Chair-Size/dp/B0742KV7ZR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
-* [2 x Neewer NL660 Professional Metal Bi-color LED Video Lights](https://www.amazon.com/Neewer-Professional-Bi-color-Photography-3200-5600K/dp/B01NCJSK5V/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
-* [Philips Hue White and Color Ambiance LightStrip Plus Dimmable LED Smart Light](https://www.amazon.com/Philips-Ambiance-LightStrip-Compatible-Assistant/dp/B0167H33DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
-* [X-keys USB Jog & Shuttle Control for Editing or Instant Replay (68 Keys)](https://www.amazon.com/X-keys-Jog-Shuttle-Control-XK-68/dp/B00I3OW4SQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
-* [X-keys USB Foot Pedal for Playback Control](https://www.amazon.com/X-keys-Foot-Pedal-Playback-Control/dp/B009PP6Z50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
-* [Logitech HD Pro Webcam C920](https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
-* [IPEVO V4K Ultra High Definition USB Document Camera](https://www.amazon.com/IPEVO-Definition-Document-Camera-5-880-4-01-00/dp/B079DLTG9F/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
-* [FiiO E10K USB DAC and Headphone Amplifier](https://www.amazon.com/FiiO-E10K-Headphone-Amplifier-Black/dp/B00LP3AMC2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
-* [Sennheiser HD 598 SR Open-Back Headphones](https://www.amazon.com/Sennheiser-HD-598-SR-Open-Back/dp/B06WRMZZ45/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
-* [Rode Podcaster USB Dynamic Microphone](https://www.amazon.com/Rode-Podcaster-USB-Dynamic-Microphone/dp/B000JM46FY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
-* [RODE PSA1 Swivel Mount Studio Microphone Boom Arm](https://www.amazon.com/RODE-Swivel-Mount-Studio-Microphone/dp/B001D7UYBO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
-* [Philips BDM4065UC 40" Class 4K Monitor UHD](https://www.amazon.com/Philips-BDM4065UC-Resolution-Speakers-DisplayPort/dp/B00SCX78JS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
-* [CORSAIR K70 RGB MK.2 Mechanical Gaming Keyboard](https://www.amazon.com/CORSAIR-MK-2-Mechanical-Gaming-Keyboard/dp/B07D5S5QKF/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
-* [CORSAIR GLAIVE - RGB Gaming Mouse](https://www.amazon.com/CORSAIR-GLAIVE-Comfortable-Interchangeable-Refurbished/dp/B07CQ8C5ZB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZV9RDKK&linkCode=as2&tag=ghuntley0b-20&linkId=f68ddcb85dfae991a13bff284c04eab3)
+I have multiple systems in place (multiple-monitors, broadcasting under an isolated operating system account, automated privacy screen switcher software, a physical production controlpad) to reduce the likely hood of accidentally disclosing secrets whilst on the air. That doesn't mean it cannot happen. 
 
-{{< tweet 1020615364483297281 >}}
+If you believe there has been inadvertent disclosure please get in [contact with me](mailto:ghuntley@ghuntley.com) immediately. I don't have the resources of [Google](https://www.google.com/about/appsecurity/reward-program/), [Facebook](https://www.facebook.com/whitehat) or [Mozilla](https://www.mozilla.org/en-US/security/bug-bounty/) but at minimum if you so desire, I'll put your name in the end of show hall of fame credits and send you some swag in the mail. Thank-you.
