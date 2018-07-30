@@ -2,7 +2,7 @@
 title: about
 ---
 
-🙌 I’m Geoff, an open source software engineer. I’m responsible for authoring and maintaining tools that enable software developers deliver business value faster and easier. Gone are the days where a developer had to start every project by defining their own IO, data structures and subroutines. Modern developers rely on frameworks, third-party libraries and other niceties that used to take hundreds of developer person hours before writing any business logic. That's where I come in. Software that I maintain is inside Microsoft Visual Studio, GitHub, Atlassian Sourcetree, Amazon Drive, Halo, Slack and is heavily used by the financial services sector.
+🙌 I’m Geoff, an open source software engineer. I’m responsible for authoring and maintaining tools that enable software developers deliver business value faster and easier. Gone are the days where a developer had to start every project by defining their own IO, data structures and subroutines. Modern developers rely on frameworks, third-party libraries and other niceties that used to take hundreds of developer person hours before writing any business logic. That's where I come in. Software that I maintain is inside Microsoft Visual Studio, GitHub, Atlassian Sourcetree, Amazon Drive, Halo, Slack, is heavily used by the financial services industry and has been installed by other software developers 21 million times..
 
 I’m a multi-discipline servant leader that’s always learning through knowledge application and shipping small increments. I have a deep background in consulting, software engineering, infrastructure automation, cattle and pet (data centre, midrange, virtualization, storage, disaster recovery) infrastructure management.
 
