@@ -21,6 +21,10 @@ I'm speaking at NDC Sydney with Nick
 
 # what I'm considering doing
 - Sketching up how we could automate closed captions for twitch broadcasters. It's annoying that a segment of society is being excluded by default. 
+- Why use generic basic gifs in social media? Follow Chloe Condon's lead
+
+{{< tweet 1026874921236877312 >>}}
+{{< tweet 1026875224107536385 >>}}
 
 # what I've done so far this year
 - Refactored homelab infrastructure and now using proxmox/kvm.
