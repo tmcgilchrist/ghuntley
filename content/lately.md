@@ -21,7 +21,7 @@ I'm speaking at NDC Sydney with Nick
 
 # what I'm considering doing
 - Sketching up how we could automate closed captions for twitch broadcasters. It's annoying that a segment of society is being excluded by default. 
-- Why use generic basic gifs in social media? Follow Chloe Condon's lead
+- Why use generic basic gifs on social media? Follow Chloe Condon's lead
 
 {{< tweet 1026874774922772481 >>}}
 {{< tweet 1026875224107536385 >>}}
