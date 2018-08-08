@@ -23,7 +23,7 @@ This is my primary means of broadcasting things to the world so please follow me
 # linkedin
 
 I accept connections on [LinkedIn](https://linkedin.com/in/geoffreyhuntley
-) from anyone. I don't respond to interactions or requests from people that originate from LinkedIn unless we have met in person. If you want to catch up for coffee then organise by a medium other than LinkedIn that way I know you have atleast at minimum read this page. 
+) from anyone. I don't respond to interactions or requests from people that originate from LinkedIn unless we have met in person. If you want to catch up for coffee then organise by a medium other than LinkedIn that way I know you have at least at minimum read this page. 
 # skype
 
 If I'm scheduled to talk with you, find me on Skype via my email address. For anything else, please use email or Twitter, I keep Skype connections to those who really need to communicate over that channel.
@@ -34,6 +34,6 @@ Genuine queries about speaking at events will get a response, even if I can't ac
 
 # what I may not respond to
 
-I do not do tech-support unless you have we have a commerical agreement in place. If you want general help for per hour of time (whether it's for help on  open source, a workshop, training, or contributing), email me for more details. 
+I do not do tech-support unless we have a commercial agreement in place. If you want general help per hour of time (whether it's for help on open source, a workshop, training, or contributing), email me for more details. 
 
 If your message doesn't explicitly look like it needs a response or it's vague or not clear what the purpose is, you may not hear back from me.
