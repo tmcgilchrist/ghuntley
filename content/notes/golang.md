@@ -4,7 +4,7 @@ title: golang
 
 # structs
 
-structs are typed collections of fields. They’re useful for grouping data together to form records. Structs are mutable.
+structs are typed collections of fields. They’re useful for grouping data together to form records. 
 
 ```go
 type Person struct {
@@ -37,4 +37,11 @@ Field names can be left off if you know the order that they are defined
 ```go
 p := Person{"Geoffrey", "Huntley", 18}
 var p Person
+```
+
+Structs are mutable
+
+```go
+p := Person{GivenName: "Geoffrey", Surname: "Huntley", Age: 18}
+p.GivenName = "Geoff"
 ```
