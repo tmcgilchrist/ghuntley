@@ -26,7 +26,7 @@ Above will create a local Person variable that is by default set to zero. For a 
 p := new(Person)
 ```
 
-Above allocates memory for all the fields, sets each of them to their zero value and returns a pointer. (*Person) More often we want to give each of the fields a value. We can do this in two ways. Like this:
+Above allocates memory for all the fields, sets each of them to their zero value and returns a pointer `*Person`. More often we want to give each of the fields a value. We can do this in two ways. Like this:
 
 ```go
 p := Person{GivenName: "Geoffrey", Surname: "Huntley", Age: 18}
