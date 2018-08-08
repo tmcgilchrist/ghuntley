@@ -1,3 +1,8 @@
+---
+title: death
+draft: true
+---
+
 A family member recently passed away. Here's my thoughts on the topic
 
 # music
