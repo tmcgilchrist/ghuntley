@@ -1,5 +1,5 @@
 ---
-title: Computer Science
+title: study plan
 ---
 
 This is my multi-month study plan for going from developer (self-taught, no CS degree) to software engineer.
