@@ -22,4 +22,4 @@ The list below isn't by priority but it is the through process I go through.
 
 8. Growth - What are the trends in that industry? Has the company expanded or contracted recently? Do potential coworkers have a growth mindset?
 
-9. Remote - Were they remote from day #1? Is the _entire_ company on-board and structured for it?
+9. Remote - Were they remote from day #1? Is the _entire_ company on-board and structured for it? What is the timezone coverage and do you have someone else to pair with that's also in your timezone (ie company hires in pairs)
