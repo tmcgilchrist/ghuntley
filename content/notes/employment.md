@@ -21,3 +21,5 @@ The list below isn't by priority but it is the through process I go through.
 7. Regret - This one helped me out the most. I ask myself "Would I regret not working at this company with its people and product X years from now?"
 
 8. Growth - What are the trends in that industry? Has the company expanded or contracted recently? Do potential coworkers have a growth mindset?
+
+9. Remote - Were they remote from day #1? Is the _entire_ company on-board and structured for it?
