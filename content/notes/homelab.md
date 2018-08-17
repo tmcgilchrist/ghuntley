@@ -7,3 +7,5 @@ title: homelab
 - https://www.supermicro.com/products/system/Mini-ITX/SYS-E300-9D.cfm
 - https://www.youtube.com/watch?v=RhtyO_OGJE0
 - https://blog.ktbyte.com/2016/10/26/building-the-smallest-mitx-14-core-64gb-ram-virtual-machine-server/
+- http://www.supermicro.com/products/chassis/1U/515/SC515-505
+- https://www.servethehome.com/supermicro-x10sdv-7tp8f-high-end-xeon-d-platform/
