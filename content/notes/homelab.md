@@ -16,6 +16,7 @@ title: homelab
 
 # disk
 - does it support > 2tb
+- is JBOD possible?
 
 # cpu
 - Does it support AVX?
