@@ -28,6 +28,7 @@ http://cpuboss.com/cpus/Intel-Xeon-X5550-vs-Intel-Xeon-E3-1260L
 
 
 # dell 
+https://media.adn.de/media/DE/DocLib/Poweredge_Easy_Matrix.pdf
 
 ## controllers
 - H310 supports pass through https://www.dell.com/community/PowerEdge-HDD-SCSI-RAID/Perc-H310-Mini-Mono-Non-RAID/td-p/4777993
