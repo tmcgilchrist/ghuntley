@@ -12,3 +12,4 @@ title: homelab
 
 # dell r710
 - https://www.reddit.com/r/homelab/comments/5ldiel/so_you_wantgot_an_r710/
+- https://www.orangecomputers.com/node/?command=buildmodel&itemnum=PER710build&comp=Dell&model=Poweredge-R710-&ff=2U&config=PER710
