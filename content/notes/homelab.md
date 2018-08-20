@@ -26,6 +26,10 @@ title: homelab
 
 http://cpuboss.com/cpus/Intel-Xeon-X5550-vs-Intel-Xeon-E3-1260L
 
+# ibm
+
+## x3850 M2 
+
 
 # dell 
 https://media.adn.de/media/DE/DocLib/Poweredge_Easy_Matrix.pdf
