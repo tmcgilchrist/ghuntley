@@ -36,4 +36,5 @@ http://cpuboss.com/cpus/Intel-Xeon-X5550-vs-Intel-Xeon-E3-1260L
 
 ## 2ru
 - r620
+- r820
 
