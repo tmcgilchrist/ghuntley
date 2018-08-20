@@ -13,3 +13,10 @@ title: homelab
 # dell r710
 - https://www.reddit.com/r/homelab/comments/5ldiel/so_you_wantgot_an_r710/
 - https://www.orangecomputers.com/node/?command=buildmodel&itemnum=PER710build&comp=Dell&model=Poweredge-R710-&ff=2U&config=PER710
+
+# cpu
+- Does it support AVX?
+- Does it support AES?
+
+
+http://cpuboss.com/cpus/Intel-Xeon-X5550-vs-Intel-Xeon-E3-1260L
