@@ -28,7 +28,12 @@ http://cpuboss.com/cpus/Intel-Xeon-X5550-vs-Intel-Xeon-E3-1260L
 
 
 # dell e5 series
+> Dell 12G iDRAC licensing has changed. You can’t just buy an Enterprise iDRAC from eBay and have all the features enabled - a license is now required. Annoying if your machine doesn’t come with a license.
+
+## 1ru
 - r420 (1ru, 2 cpu sockets)
 - r320 (1ru, 1 cpu socket)  
 
-> Dell 12G iDRAC licensing has changed. You can’t just buy an Enterprise iDRAC from eBay and have all the features enabled - a license is now required. Annoying if your machine doesn’t come with a license.
+## 2ru
+- r620
+
