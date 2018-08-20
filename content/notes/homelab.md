@@ -17,6 +17,7 @@ title: homelab
 # cpu
 - Does it support AVX?
 - Does it support AES?
+- Power draw?
 
 
 http://cpuboss.com/cpus/Intel-Xeon-X5550-vs-Intel-Xeon-E3-1260L
