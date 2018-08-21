@@ -2,6 +2,9 @@
 title: identity theft
 ---
 
+# hcf
+- asks standard public knowledge like name, date of birth, street address, mobile phone number
+
 # medicare
 - does not do SMS based authentication when calling
 - asks standard public knowledge like name, date of birth, street address, mobile phone number
