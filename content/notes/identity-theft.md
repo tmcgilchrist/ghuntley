@@ -5,8 +5,8 @@ title: identity theft
 # nrma
 
 # medicare
-- do not do SMS based authentication
-- is not possible to disable telephone based service
+- does not do SMS based authentication when calling
+- is not possible to disable telephone based customer service
 
 # telstra
 - does SMS based authentication when calling
