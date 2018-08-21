@@ -9,7 +9,7 @@ title: identity theft
 - is not possible to disable telephone based customer service
 
 # nrma
-- does not do SMS based authen tication when calling
+- does not do SMS based authentication when calling
 - asks standard public knowledge like name, date of birth, street address, mobile phone number
 - escalated to manager who will be calling back in next 24 hours
 
