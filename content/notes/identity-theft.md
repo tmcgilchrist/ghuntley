@@ -8,4 +8,4 @@ title: identity theft
 
 # telstra
 - does SMS based authentication when calling
-- can add an additional password on the account which must be provided to when doing read or write queries.
+- can add an additional password on the account which must be provided when doing read or write queries.
