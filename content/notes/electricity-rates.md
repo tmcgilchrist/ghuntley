@@ -21,9 +21,9 @@ https://www.energymadeeasy.gov.au
 - 10k Qantas ff on joining, additionally points on bill
 - 10% off total bill for ontine
 - no credit card payment fees
-- 81/day ex
+- 81c/day sac ex
 
-- 25.5c ex
+- 25.5c khw ex
 
-- gas is 3.65c step 2.3 3.2
-- sac is 60 a day
+- gas kj is 3.65c then next step of 2.3c finally 3.2c all in gst
+- sac is 60 a dayex
