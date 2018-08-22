@@ -5,6 +5,7 @@ title: electricity rates
 https://www.energymadeeasy.gov.au
 
 # qenergy
+- only does electricity
 - monthly bill
 - 24 month contract
 - no exit fee
