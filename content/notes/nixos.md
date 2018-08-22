@@ -3,6 +3,8 @@ layout: notes
 title: NixOS
 ---
 
+nixos in production at http://www.haskellforall.com/2018/08/nixos-in-production.html
+
 Great introduction over at https://ebzzry.io/en/nix/
 
 {{< tweet 978211520189554688 >}}
