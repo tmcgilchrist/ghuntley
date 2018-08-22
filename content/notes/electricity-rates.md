@@ -2,6 +2,8 @@
 title: electricity rates
 ---
 
+https://www.energymadeeasy.gov.au
+
 # qenergy
 - monthly bill
 - 24 month contract
@@ -10,4 +12,6 @@ title: electricity rates
 
 - 20.097c/kwh - ex/gst
 - 83c/day sac - ex/gst
+
+# red
 
