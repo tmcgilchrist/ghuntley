@@ -3,11 +3,12 @@ title: ubiquiti
 ---
 
 # firewall
-![](https://community.ubnt.com/t5/image/serverpage/image-id/65938iBBDF7A4506C545AA/image-size/original)
-
 - In firewall rules are processed for packets entering a given interface.
 - Out firewall rules are processed for packets exiting a given interface.
 - Local firewall rules are processed for packets destined for the router itself from a given interface.
+
+![](https://community.ubnt.com/t5/image/serverpage/image-id/65938iBBDF7A4506C545AA/image-size/original)
+
 
 # vlan
 - https://community.ubnt.com/t5/UniFi-Routing-Switching/A-non-expert-Guide-to-VLAN-and-Trunks-in-Unifi-Switches/td-p/1804481
