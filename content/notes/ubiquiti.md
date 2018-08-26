@@ -2,6 +2,19 @@
 title: ubiquiti 
 ---
 
+# networks
+
+| Name           | Purpose   | Network Group | Port  | Subnet          | VLAN |
+|---             |---        |---            |---    |---              |---   |
+| Cable WLAN     | WAN       | WAN1          | WAN1  |                 |      |
+| 4G WLAN        | WAN       | WAN2          | WAN2  |                 |      |
+| Infrastructure | Corporate | LAN           | LAN 1 | 192.168.1.1/24  |      |
+| Family         | Corporate | LAN           | LAN 1 | 10.0.10.1/24    | 10   |
+| Guest          | Corporate | LAN           | LAN 1 | 10.0.20.1/24    | 20   |
+| Homelab        | Corporate | LAN           | LAN 1 | 10.0.30.1/24    | 30   |
+| IoT            | Corporate | LAN           | LAN 1 | 10.0.40.1/24    | 40   |
+| DMZ            | Corporate | LAN           | LAN 1 | 10.0.50.1/24    | 50   |
+
 # firewall
 - In firewall rules are processed for packets entering a given interface.
 - Out firewall rules are processed for packets exiting a given interface.
