@@ -27,12 +27,14 @@ title: ubiquiti
 # guest network
 
 > Terms of Use
->
+> 
 > By accessing the wireless network, you acknowledge that you're of legal age, you have read and understood and agree to be bound by this agreement.
 > 
-> The wireless network service is provided by the property owners and is completely at their discretion. Your access to the network may be blocked, suspended, or terminated at any time for any reason. You agree not to use the wireless network for any purpose that is unlawful and take full responsibility for your acts.
->
+> The wireless network service is provided by the denizens of Huntley Cottage and is completely at their discretion. Your access to the network may be blocked, suspended, or terminated at any time for any reason. You agree not to use the wireless network for any purpose that is unlawful and take full responsibility for your acts.
+> 
 > The wireless network, like most open-source projects, is provided "as is" without warranties of any kind, either expressed or implied.
+>
+> Cheese Clause: By signing in you are agreeing that in exchange for the use of our nextwork, you own Erin a wheel of Castello White. If you fail to pay the very reasonable price of cheese you will instead forfeit the soul of you second born.
 
 # firewall
 - In firewall rules are processed for packets entering a given interface.
