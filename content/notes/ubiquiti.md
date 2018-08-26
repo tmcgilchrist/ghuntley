@@ -15,6 +15,16 @@ title: ubiquiti
 | IoT            | Corporate | LAN           | LAN 1 | 10.0.40.1 /24    | 40   |
 | DMZ            | Corporate | LAN           | LAN 1 | 10.0.50.1 /24    | 50   |
 
+# wireless networks
+
+| Name           | Security   | Advertised     | Guest Network  | VLAN |
+|---             |---         |---             |---             |---   |
+| Family         | wpapsk     | Yes            | No             | 10   |
+| Guest          | wpapsk     | Yes            | Yes            | 20   |
+| Homelab        | wpapsk     | No             | No             | 30   |
+| IoT            | wpapsk     | No             | No             | 40   |
+
+
 # firewall
 - In firewall rules are processed for packets entering a given interface.
 - Out firewall rules are processed for packets exiting a given interface.
