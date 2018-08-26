@@ -26,15 +26,13 @@ title: ubiquiti
 
 # guest network
 
-```
-Terms of Use
-
-By accessing the wireless network, you acknowledge that you're of legal age, you have read and understood and agree to be bound by this agreement.
-
-The wireless network service is provided by the property owners and is completely at their discretion. Your access to the network may be blocked, suspended, or terminated at any time for any reason. You agree not to use the wireless network for any purpose that is unlawful and take full responsibility for your acts.
-
-The wireless network, like most open-source projects, is provided "as is" without warranties of any kind, either expressed or implied.
-```
+> Terms of Use
+>
+> By accessing the wireless network, you acknowledge that you're of legal age, you have read and understood and agree to be bound by this agreement.
+> 
+> The wireless network service is provided by the property owners and is completely at their discretion. Your access to the network may be blocked, suspended, or terminated at any time for any reason. You agree not to use the wireless network for any purpose that is unlawful and take full responsibility for your acts.
+>
+> The wireless network, like most open-source projects, is provided "as is" without warranties of any kind, either expressed or implied.
 
 # firewall
 - In firewall rules are processed for packets entering a given interface.
