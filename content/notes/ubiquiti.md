@@ -34,7 +34,7 @@ title: ubiquiti
 > 
 > The wireless network, like most open-source projects, is provided "as is" without warranties of any kind, either expressed or implied.
 >
-> Cheese Clause: By signing in you are agreeing that in exchange for the use of our nextwork, you own Erin a wheel of Castello White. If you fail to pay the very reasonable price of cheese you will instead forfeit the soul of you second born.
+> Cheese Clause: By signing in you are agreeing that in exchange for the use of our nextwork, you owe Erin a wheel of Castello White. If you fail to pay the very reasonable price of cheese you will instead forfeit the soul of you second born.
 
 # firewall
 - In firewall rules are processed for packets entering a given interface.
