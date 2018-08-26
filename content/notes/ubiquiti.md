@@ -2,6 +2,24 @@
 title: ubiquiti 
 ---
 
+In my household I've defined IoT to encompass the following types of devices:
+
+    Any device with an IP address, not running a macOS, iOS, Android, Windows, or Linux operating system, that
+    Does not require direct access to internal storage devices, and
+    Does not store personal data
+
+Examples of IoT devices in my home include:
+
+    Philips Hue Lightbulbs and associated Bridge
+    Kindles
+    FitBit Aria Scales
+    Google Home
+    Google Chromecast (mine doesn't access any internal resources)
+    IP Video Cameras
+    Any other types of WiFi connected sensors (Smoke detectors, Temperature, Humidity, etc.)
+    Anything related to a Smart Home (lights, light switches, power, etc.)
+
+
 # networks
 
 | Name           | Purpose   | Network Group | Port | Subnet          | VLAN |
