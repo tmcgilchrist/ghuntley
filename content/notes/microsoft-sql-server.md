@@ -29,3 +29,15 @@ Microsoft SQL server is more than a database. It's actually a suite of data appl
 1. Operation Studio (OSX and Linux users now have access to dumbed down SSMS)
 
 Azure SQL database and Azure SQL Data Warehouse are a different kettle of fish altogether. Well .. the Azure SQL database engine comes from the same branch of code as the SQL Server database engine (feature switching at it's best).
+
+
+# cheat sheet
+
+## version of SQL Server
+
+```
+select @@version
+Microsoft SQL Server 2008 (SP1) - 10.0.2531.0 (X64)   Mar 29 2009 
+10:11:52   Copyright (c) 1988-2008 Microsoft Corporation  Express 
+Edition (64-bit) on Windows NT 6.1 <X64> (Build 7600: )
+```
