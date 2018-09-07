@@ -30,7 +30,7 @@ Examples of IoT devices in my home include:
 | Family         | Corp      | LAN           | LAN1 | 10.0.10.1/24    | 10   |
 | Guest          | Corp      | LAN           | LAN1 | 10.0.20.1/24    | 20   |
 | Homelab        | Corp      | LAN           | LAN1 | 10.0.30.1/24    | 30   |
-| IoT            | Corp      | LAN           | LAN1 | 10.0.40.1/24    | 40   |
+| Work           | Corp      | LAN           | LAN1 | 10.0.40.1/24    | 40   |
 | DMZ            | Corp      | LAN           | LAN1 | 10.0.50.1/24    | 50   |
 
 # wireless networks
@@ -39,20 +39,20 @@ Examples of IoT devices in my home include:
 |---             |---         |---             |---             |---   |
 | Family         | wpapsk     | Yes            | No             | 10   |
 | Guest          | wpapsk     | Yes            | Yes            | 20   |
-| Homelab        | wpapsk     | No             | No             | 30   |
-| IoT            | wpapsk     | No             | No             | 40   |
 
 # guest network
 
-> Terms of Use
-> 
-> By accessing the wireless network, you acknowledge that you're of legal age, you have read and understood and agree to be bound by this agreement.
-> 
-> The wireless network service is provided by the denizens of Huntley Cottage and is completely at their discretion. Your access to the network may be blocked, suspended, or terminated at any time for any reason. You agree not to use the wireless network for any purpose that is unlawful and take full responsibility for your acts.
-> 
-> The wireless network, like most open-source projects, is provided "as is" without warranties of any kind, either expressed or implied.
->
-> Cheese Clause: By signing in you are agreeing that in exchange for the use of our network, you owe Erin a wheel of Castello White. If you fail to pay the very reasonable price of cheese you will instead forfeit the soul of your second born.
+```
+Terms of Use
+
+By accessing the wireless network, you acknowledge that you're of legal age, you have read and understood and agree to be bound by this agreement.
+
+The wireless network service is provided by the denizens of Huntley Cottage and is completely at their discretion. Your access to the network may be blocked, suspended, or terminated at any time for any reason. You agree not to use the wireless network for any purpose that is unlawful and take full responsibility for your acts.
+
+The wireless network, like most open-source projects, is provided "as is" without warranties of any kind, either expressed or implied.
+
+Cheese Clause: By signing in you are agreeing that in exchange for the use of our network, you owe Erin a wheel of Castello White. If you fail to pay the very reasonable price of cheese you will instead forfeit the soul of your second born.
+```
 
 # firewall
 - In firewall rules are processed for packets entering a given interface.
