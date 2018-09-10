@@ -3,6 +3,10 @@ layout: notes
 title: NixOS
 ---
 
+# private cache
+* http://softwaresimply.blogspot.com/2018/07/setting-up-private-nix-cache.html
+* https://nixos.wiki/wiki/FAQ/Private_Cache_Proxy
+
 nixos in production at http://www.haskellforall.com/2018/08/nixos-in-production.html
 
 Great introduction over at https://ebzzry.io/en/nix/
