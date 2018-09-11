@@ -64,5 +64,7 @@ conceive, plan, develop, iterate, launch, steady state, maintain or kill
 * stakeholder management, partners management.
 
 > company: groupon
+>
 > hypothesis: business will be willing to give large discounts for shorts period of time in order to get a large number of new customers
+>
 > product market fit when: could consistently convince businesses to create a deal on Groupon that attracted a large number of customers. Was able to repeat in many cities.
