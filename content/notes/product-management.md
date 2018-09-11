@@ -38,6 +38,12 @@ conceive, plan, develop, iterate, launch, steady state, maintain or kill
 * development time
 * build measure, learn
 
+# launch
+* work with marketing team to position product
+* adoptionm programme
+* public launch
+* post mortem to figure out what went good/bad and _why_
+
 # iterate
 * are any our hyptoheses true or false
 
