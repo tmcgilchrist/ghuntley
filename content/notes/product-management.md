@@ -47,3 +47,11 @@ conceive, plan, develop, iterate, launch, steady state, maintain or kill
 # iterate
 * are any our hyptoheses true or false
 
+# steady state
+* collect metrics - kpis
+* which cohorts of invidiual are we working with next
+* analyse and optiimze roi
+* support marketing and sales efforts
+* asses continued efforts
+* make decisions about what to change in the product
+* make deicisoins about what ongoing activity needss to change, support, adoption.
