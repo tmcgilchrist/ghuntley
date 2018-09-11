@@ -30,7 +30,7 @@ conceive, plan, develop, iterate, launch, steady state, maintain or kill
 * project timelines
 * resources required to solve this problem
 
-# develop
+## develop
 * build it
 * features & prioirtisatoin
 * stories/spec
@@ -38,16 +38,16 @@ conceive, plan, develop, iterate, launch, steady state, maintain or kill
 * development time
 * build measure, learn
 
-# launch
+## launch
 * work with marketing team to position product
 * adoptionm programme
 * public launch
 * post mortem to figure out what went good/bad and _why_
 
-# iterate
+## iterate
 * are any our hyptoheses true or false
 
-# steady state
+## steady state
 * collect metrics - kpis
 * which cohorts of invidiual are we working with next
 * analyse and optiimze roi
@@ -56,9 +56,10 @@ conceive, plan, develop, iterate, launch, steady state, maintain or kill
 * make decisions about what to change in the product
 * make deicisoins about what ongoing activity needss to change, support, adoption.
 
-# maintain or kill
+## maintain or kill
 * major upgrade, begin cycle all over
 * transition to end of life
 * message userbase
 * establish eol p[lan
 * stakeholder management, partners management.
+
