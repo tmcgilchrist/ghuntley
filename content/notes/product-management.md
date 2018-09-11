@@ -55,3 +55,10 @@ conceive, plan, develop, iterate, launch, steady state, maintain or kill
 * asses continued efforts
 * make decisions about what to change in the product
 * make deicisoins about what ongoing activity needss to change, support, adoption.
+
+# maintain or kill
+* major upgrade, begin cycle all over
+* transition to end of life
+* message userbase
+* establish eol p[lan
+* stakeholder management, partners management.
