@@ -2,4 +2,4 @@
 title: certificate authority
 ---
 
-<<{ tweet 1035336621170802688 }>>
+{{< tweet 1035336621170802688 >}}
