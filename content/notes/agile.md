@@ -27,9 +27,11 @@ https://apetro.ghost.io/fixed-async-manifesto
 
 # estimation
 
-> XS - 3 - 0.5-1
-> S - 5 - 2
-> M - 8 or 13 - 3.4
-> L - 20 - 5-6
-> XL - 40 - 10
-> XXL - 100 - nope, split
+```
+XS - 3 - 0.5-1
+S - 5 - 2
+M - 8 or 13 - 3.4
+L - 20 - 5-6
+XL - 40 - 10
+XXL - 100 - nope, split
+```
