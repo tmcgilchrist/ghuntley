@@ -8,9 +8,7 @@ I’m home which is Sydney, Australia. It’s Winter. I’m observing [the AEST 
 
 # upcoming conferences
 
-I'm speaking at NDC Sydney with Nick
-
-{{< tweet 1001221854713925633 >}}
+I recently spoke at NDC Sydney [about the importance of sustainability in open-source](https://ghuntley.com/talks/ndc-sydney-2018/). I have no further talks planned for 2018 but hey, I'm always happy to speak - just ask.
 
 # what I'm doing now
 - Porting a linux distribution to windows subsystem for linux
@@ -27,6 +25,7 @@ I'm speaking at NDC Sydney with Nick
 {{< tweet 1026875224107536385 >}}
 
 # what I've done so far this year
-- Refactored homelab infrastructure and now using proxmox/kvm.
+- Spoke at NDC Sydney [about the importance of sustainability in open-source](https://ghuntley.com/talks/ndc-sydney-2018/).  
+- Refactored homelab infrastructure from proxmox/kvm to esxi.
 - Rolled my own k8 cluster the hard way from source code. Submitted a few pull requests to k8 and got em merged. 
 
