@@ -9,7 +9,7 @@ tags:
   - reactiveui
 ---
 
-# Abstract
+# abstract
 Knowledge of reactive programming changes you as a developer, makes you better
 and aligns your career with where the industry is going. One of the cool things
 about reactive programming is that the knowledge is universal across
@@ -32,11 +32,11 @@ an implementation for and vibrant community in that ecosystem.
 If you are sick of investing time into learning transitory knowledge - then
 this is the session for you.
 
-# Twitter
+# twitter
 
 {{< tweet 912621546492932096 >}}
 {{< tweet 898406366246690816 >}}
 
-# Video 
+# video 
 
 {{< youtube 4inY7TFEVT0 >}}
