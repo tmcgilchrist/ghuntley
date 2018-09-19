@@ -27,6 +27,7 @@ After a week of waiting we start complaining about how badly the project is run.
 {{< tweet 1042262802386350080 >}}
 {{< tweet 1042260673785282560 >}}
 {{< tweet 1042258162873622528 >}}
+{{< tweet 1041892806573162496 >}}
 
 # video 
 
