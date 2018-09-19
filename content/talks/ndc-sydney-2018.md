@@ -10,8 +10,6 @@ tags:
   - supply chain
 ---
 
-{{< tweet 1042262802386350080 >}}
-
 # abstract
 
 As software developers we often make use of open-source software (OSS) but do we ever think about all the man hours that go into developing and supporting the project. When OSS breaks, or we need a new features, we log an issue on gitHub and then sit back awaiting a response.
@@ -26,6 +24,8 @@ After a week of waiting we start complaining about how badly the project is run.
 {{< tweet 1042286581762019328 >}}
 {{< tweet 1042281265850806272 >}}
 {{< tweet 1042259578149191680 >}}
+{{< tweet 1042262802386350080 >}}
+{{< tweet 1042260673785282560 >}}
 
 # video 
 
