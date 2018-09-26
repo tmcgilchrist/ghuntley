@@ -3,6 +3,8 @@ layout: notes
 title: NixOS
 ---
 
+https://github.com/shajra/example-nix/blob/master/README.md
+
 # private cache
 * http://softwaresimply.blogspot.com/2018/07/setting-up-private-nix-cache.html
 * https://nixos.wiki/wiki/FAQ/Private_Cache_Proxy
