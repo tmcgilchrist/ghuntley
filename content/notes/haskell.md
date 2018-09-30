@@ -4,6 +4,9 @@ title: Haskell
 
 {{< tweet 996628203463569410 >}}
 
+
+https://qnikst.github.io/posts/2018-10-29-metrics-haskell.html
+
 # Handling Failure
 * https://hackage.haskell.org/package/transformers-either
 * https://github.com/expression-oriented/failing-gracefully
