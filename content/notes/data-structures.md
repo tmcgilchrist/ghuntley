@@ -1,7 +1,11 @@
 ---
 layout: notes
-title: Data Structures
+title: data structures
 ---
+
+# functional
+https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf
+
 
 # Arrays
 
