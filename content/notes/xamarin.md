@@ -1,5 +1,5 @@
 ---
-title: Xamarin
+title: xamarin
 layout: notes
 ---
 
