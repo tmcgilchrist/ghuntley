@@ -1,5 +1,5 @@
 ---
-title: Accounting
+title: accounting
 ---
 
 # Budgeting
