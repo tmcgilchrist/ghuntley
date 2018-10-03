@@ -21,7 +21,7 @@ https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf
 
 # Hash Table
 
-A [hash table](https://github.com/dotnet/corefx/blob/9cb4ea0045eed954d72aea6f283d22f2d7fb3c7b/src/Common/src/CoreLib/System/Collections/Hashtable.cs) is a data structure that maps keys to values for highly efficient lookup. Think of it along the lines of `data to a key, mapped to an array to distribute this data in a performant manner, backed by a linkedlist of key value pairs to deal with collisions`. At linkedlist must be used because of collisions, you could have two different keys with the same hashcode or two different hash codes that map to the same index.
+A [hash table](https://github.com/dotnet/corefx/blob/9cb4ea0045eed954d72aea6f283d22f2d7fb3c7b/src/Common/src/CoreLib/System/Collections/Hashtable.cs) is a collection of key/value pairs that are organized on the hash code of the key. It's a data structure that maps keys to values for highly efficient lookup. Think of it along the lines of `data to a key, mapped to an array to distribute this data in a performant manner, backed by a linkedlist of key value pairs to deal with collisions`. At linkedlist must be used because of collisions, you could have two different keys with the same hashcode or two different hash codes that map to the same index.
 
 1. compute the the keys hashcode, typically a long or an int. for example a key of `"hi"` hashing to `10320` long or int.
 2. map the hash code to an index in the array. an example of this would be `hash(key) % array_length`. Note, two different keys with the same hashcode could map to the same index.
