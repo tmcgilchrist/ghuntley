@@ -1,5 +1,5 @@
 ---
-title: Big O Notation and Time Complexity
+title: big o notation and time complexity
 layout: notes
 ---
 
