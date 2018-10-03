@@ -29,6 +29,8 @@ A hash table is a data structure that maps keys to values for highly efficient l
 
 ```
 dict[key, value]
+```
+
 
 
 ## Collisions
