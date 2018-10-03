@@ -33,6 +33,34 @@ To retrieve the value pair by it's key, compute the hash code from they key, and
 var backingArray = new LinkedList<KeyValuePair<TKey, TValue>>[127];
 ```
 
+```csharp
+void Main()
+{
+	// Create Dictionary.
+    Dictionary<string, int> hash = new Dictionary<string, int>();
+
+    // Add some data.
+    hash.Add("diamond", 500);
+    hash.Add("ruby", 200);
+    hash.Add("pearl", 100);
+
+    // Get value that exists.
+    int value1 = hash["diamond"];
+    Console.WriteLine("get DIAMOND: " + value1);
+
+    // Get value that does not exist.
+    hash.TryGetValue("coal", out int value2);
+    Console.WriteLine("get COAL: " + value2);
+
+    // Loop over items in collection.
+    foreach (KeyValuePair<string, int> pair in hash)
+    {
+        Console.WriteLine("KEY: " + pair.Key);
+        Console.WriteLine("VALUE: " + pair.Value);
+    }
+}
+```
+
 If the number of hashing collisions is very high, the worst case runtime performance is `O(n)`, where `n` is the number of keys. If we assume a good implementation where collisions are at a min the lookup time is `O(1)`.
 
 
