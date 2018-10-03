@@ -21,6 +21,8 @@ https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf
 
 # Hash Table
 
+https://m.youtube.com/watch?v=MfhjkfocRR0
+
 A [hash table](https://github.com/dotnet/corefx/blob/9cb4ea0045eed954d72aea6f283d22f2d7fb3c7b/src/Common/src/CoreLib/System/Collections/Hashtable.cs) is a collection of key/value pairs that are organized on the hash code of the key. It's a data structure that maps keys to values for highly efficient lookup. Think of it along the lines of `data to a key, mapped to an data structure (array or balanced binary search tree) to distribute this data in a performant manner, backed by a linkedlist`. A linkedlist must be used because of hashing collisions, you could have two different keys with the same hashcode or two different hash codes that map to the same index.
 
 1. compute the the keys hashcode, typically a long or an int. for example a key of `"hi"` hashing to `10320` long or int.
