@@ -31,6 +31,9 @@ To retrieve the value pair by it's key, compute the hash code from they key, and
 
 If the number of hashing collisions is very high, the worst case runtime performance is `O(n)`, where `n` is the number of keys. If we assume a good implementation where collisions are at a min the lookup time is `O(1)`. Hashing collisions can be reduced by using a techinque called [double hashing](https://en.wikipedia.org/wiki/Double_hashing).
 
+- [ ] StringBuilder
+- [ ] HashTable
+- [ ] ArrayList
 
 ## Collisions
 
