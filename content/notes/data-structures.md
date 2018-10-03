@@ -53,8 +53,8 @@ Console.WriteLine("get COAL: " + value2);
 // Loop over items in collection.
 foreach (KeyValuePair<string, int> pair in hash)
 {
-Console.WriteLine("KEY: " + pair.Key);
-Console.WriteLine("VALUE: " + pair.Value);
+    Console.WriteLine("KEY: " + pair.Key);
+    Console.WriteLine("VALUE: " + pair.Value);
 }
 ```
 
