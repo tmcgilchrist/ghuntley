@@ -29,7 +29,7 @@ A [hash table](https://github.com/dotnet/corefx/blob/9cb4ea0045eed954d72aea6f283
 
 To retrieve the value pair by it's key, compute the hash code from they key, and compute the index from the hash code, then search through the linked list for the value with this key.
 
-If the number of hashing collisions is very high, the worst case runtime performance is `O(n)`, where `n` is the number of keys. If we assume a good implementation where collisions are at a min the lookup time is `O(1)`.
+If the number of hashing collisions is very high, the worst case runtime performance is `O(n)`, where `n` is the number of keys. If we assume a good implementation where collisions are at a min the lookup time is `O(1)`. Hashing collisions can be reduced by using a techinque called [double hashing](https://en.wikipedia.org/wiki/Double_hashing)
 
 
 ## Collisions
