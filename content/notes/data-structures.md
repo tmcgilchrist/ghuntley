@@ -62,3 +62,6 @@ If the number of hashing collisions is very high, the worst case runtime perform
 
 ## Directed Acyclic Graphs
 
+
+## References
+- [Cracking the code interview](http://plusteach.com/digbooks/b_img/three.pdf)
