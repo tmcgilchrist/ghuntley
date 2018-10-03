@@ -27,9 +27,14 @@ A hash table is a data structure that maps keys to values for highly efficient l
 2. map the hash code to an index in the array. an example of this would be `hash(key) % array_length`. Note, two different keys with the same hashcode could map to the same index.
 3. at the index there is linked list of keys and values. store the keys and values in this index. At linkedlist must be used because of collisions, you could have two different keys with the same hashcode or two different hash codes that map to the same index.
 
+To retrieve the value pair by it's key, compute the hash code from they key, and compute the index from the hash code, then search through the linked list for the value with this key.
+
 ```
 var backingArray = new LinkedList<KeyValuePair<TKey, TValue>>();
 ```
+
+If the number of hashing collisions is very high, the worst case runtime performance is `O(n)`, where `n` is the number of keys. If we assume a good implementation where collisions are at a min the lookup time is `O(1)`.
+
 
 ## Collisions
 
