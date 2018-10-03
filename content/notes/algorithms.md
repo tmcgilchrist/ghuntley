@@ -1,6 +1,6 @@
 ---
 layout: notes
-title: Algorithms
+title: algorithms
 ---
 
 http://blog.refdash.com/dynamic-programming-tutorial-example/
