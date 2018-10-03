@@ -30,7 +30,7 @@ A hash table is a data structure that maps keys to values for highly efficient l
 To retrieve the value pair by it's key, compute the hash code from they key, and compute the index from the hash code, then search through the linked list for the value with this key.
 
 ```
-var backingArray = new LinkedList<KeyValuePair<TKey, TValue>>();
+var backingArray = new LinkedList<KeyValuePair<TKey, TValue>>[127];
 ```
 
 If the number of hashing collisions is very high, the worst case runtime performance is `O(n)`, where `n` is the number of keys. If we assume a good implementation where collisions are at a min the lookup time is `O(1)`.
