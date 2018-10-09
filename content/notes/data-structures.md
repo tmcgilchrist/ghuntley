@@ -1,6 +1,6 @@
 ---
-layout: notes
 title: data structures
+layout: notes
 ---
 
 # arrays
