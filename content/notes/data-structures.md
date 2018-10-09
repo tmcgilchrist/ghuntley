@@ -33,7 +33,7 @@ More sophisticated types which can be built-in include:
 
 ## fixed
 
-## dynamic array
+## dynamic array aka resizable array
 
 A random access, variable-size list data structure that allows elements to be added or removed. 
 
