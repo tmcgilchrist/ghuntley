@@ -88,5 +88,6 @@ If the number of hashing collisions is very high, the worst case runtime perform
 
 # queue
 
-## References
+# references
 - [Cracking the code interview](http://plusteach.com/digbooks/b_img/three.pdf)
+- [Primitive data type](https://en.wikipedia.org/wiki/Primitive_data_type)
