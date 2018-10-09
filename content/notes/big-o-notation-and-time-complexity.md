@@ -20,11 +20,15 @@ public int Add(int a, int b)
 ```
 
 # linear time o(n)
+
+linear is a straight line
+
 ```csharp
 {
 
 }
 ```
 
-# Resources
+# resources
 * https://www.youtube.com/watch?v=D6xkbGLQesk
+* https://en.wikipedia.org/wiki/Time_complexity
