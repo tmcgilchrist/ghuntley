@@ -12,6 +12,9 @@ layout: notes
 
 # constant time aka o(1)
 
+a situation that does not change.
+occurring continuously over a period of time.
+
 ```csharp
 public int Add(int a, int b)
 {
