@@ -7,6 +7,12 @@ layout: notes
 
 https://www.youtube.com/watch?v=eP38Cxve5xY
 
+# ripples
+
+- me
+- team
+- org
+
 # change
 - https://www.kotterinc.com/8-steps-process-for-leading-change/
 
