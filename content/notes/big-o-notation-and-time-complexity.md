@@ -3,6 +3,8 @@ title: big o notation and time complexity
 layout: notes
 ---
 
+![](/images/big-o%20complexity%20chart.png)
+
 * `linear time O(n)`
 * `constant time O(1)`
 * `quadratic time O(n2)`
