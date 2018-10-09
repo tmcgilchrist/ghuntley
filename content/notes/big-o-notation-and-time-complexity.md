@@ -35,3 +35,4 @@ linear is a straight line
 # resources
 * https://www.youtube.com/watch?v=D6xkbGLQesk
 * https://en.wikipedia.org/wiki/Time_complexity
+* http://www.bigocheatsheet.com/
