@@ -3,7 +3,38 @@ title: data structures
 layout: notes
 ---
 
+# primitives
+
+A primitive data type is either of the following:
+
+- a basic type is a data type provided by a programming language as a basic building block. Most languages allow more complicated composite types to be recursively constructed starting from basic types.
+- a built-in type is a data type for which the programming language provides built-in support.
+The actual range of primitive data types that is available is dependent upon the specific programming language that is being used. For example, in C#, strings are a composite but built-in data type, whereas in modern dialects of BASIC and in JavaScript, they are assimilated to a primitive data type that is both basic and built-in.
+
+Classic basic primitive types may include:
+
+* Character (character, char);
+* Integer (integer, int, short, long, byte) with a variety of precisions;
+* Floating-point number (float, double, real, double precision);
+* Fixed-point number (fixed) with a variety of precisions and a programmer-selected scale.
+* Boolean, logical values true and false.
+* Reference (also called a pointer or handle or descriptor), a value referring to another object. The reference can be a memory address, or an index to a collection of values.
+
+More sophisticated types which can be built-in include:
+
+* Tuple in Standard ML, Python, Scala, Swift, Elixir
+* List in Common Lisp, Scheme, Haskell
+* Complex number in C99, Fortran, Common Lisp, Python, D, Go
+* Rational number in Common Lisp, Haskell
+* Associative array in Perl, Python, Ruby, Javascript, Lua, D, Go
+* First-class function, in all functional languages, Javascript, Lua, D, Go, and in newer standards of C++, Java, C#, Perl
+
 # arrays
+
+## array list
+
+## dynamic array
+
 
 # dictionary
 
