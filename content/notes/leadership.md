@@ -7,6 +7,11 @@ layout: notes
 
 https://www.youtube.com/watch?v=eP38Cxve5xY
 
+# fault injection
+- storming to performing
+- performing for too long becomes safe
+- innovation, risks and growth come from a steady flow of transitioning backwards and forwards between storming and performing
+
 # ripples
 
 - me
