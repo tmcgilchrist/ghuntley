@@ -37,7 +37,7 @@ More sophisticated types which can be built-in include:
 
 A random access, variable-size list data structure that allows elements to be added or removed. 
 
-In .NET use List<T> over ArrayList it is is a generic class. It supports storing values of a specific type without casting to or from object (which would have incurred boxing/unboxing overhead when T is a value type in the ArrayList case). ArrayList simply stores object references. As a generic collection, List<T> implements the generic IEnumerable<T> interface and can be used easily in LINQ (without requiring any Cast or OfType call).
+In .NET use `List<T>` instead of `ArrayList` as `List<T>` is a generic class which supports storing values of a specific type without casting to or from object (which would have incurred boxing/unboxing overhead when `T` is a value type in the `ArrayList` case). `ArrayList` simply stores object references. As a generic collection, `List<T>` implements the generic `IEnumerable<T>` interface and can be used easily in LINQ (without requiring any `Cast` or `OfType` call).
 
 # dictionary
 
