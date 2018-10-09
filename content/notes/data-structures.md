@@ -94,3 +94,4 @@ If the number of hashing collisions is very high, the worst case runtime perform
 # references
 - [Cracking the code interview](http://plusteach.com/digbooks/b_img/three.pdf)
 - [Primitive data type](https://en.wikipedia.org/wiki/Primitive_data_type)
+- [ArrayList vs List<T> in C#](https://stackoverflow.com/questions/2309694/arraylist-vs-list-in-c-sharp)
