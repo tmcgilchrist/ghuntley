@@ -5,6 +5,11 @@ layout: notes
 
 ![](/images/big-o%20complexity%20chart.png)
 
+# exponent
+
+the exponent is a quantity representing the power to which a given number or expression is to be raised, usually expressed as a raised symbol beside the number or expression (e.g. 3 in 23 = 2 × 2 × 2).
+
+
 * `linear time O(n)`
 * `constant time O(1)`
 * `quadratic time O(n2)`
