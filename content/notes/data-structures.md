@@ -6,20 +6,19 @@ title: data structures
 # functional
 https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf
 
+# arrays
 
-# Arrays
+# stack
 
-# Stack
+# queue
 
-# Queue
+# linked List
 
-# Linked List
+## singly
 
-## Singly
+## double
 
-## Double
-
-# Hash Table
+# hash table
 
 {{< youtube MfhjkfocRR0 >}}
 
@@ -40,28 +39,27 @@ If the number of hashing collisions is very high, the worst case runtime perform
 ## Collisions
 
 
-# Dictionary
+# dictionary
 
-# Trees
+# trees
 
-## Binary Tree
+## binary Tree
 
-## Heap
+## heap
 
-## Binary Search Tree
+## binary search tree
 
-## Trie
+## trie
 
-# Graphs
+# graphs
 
-## Directed and Undirected
+## directed and undirected
 
-## Weighted and Unweighted
+## weighted and unweighted
 
-## Cycles
+## cycles
 
-## Directed Acyclic Graphs
-
+## directed acyclic graphs
 
 ## References
 - [Cracking the code interview](http://plusteach.com/digbooks/b_img/three.pdf)
