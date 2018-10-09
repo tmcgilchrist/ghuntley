@@ -3,20 +3,12 @@ layout: notes
 title: data structures
 ---
 
-# functional
-https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf
-
 # arrays
 
-# stack
+# dictionary
 
-# queue
-
-# linked List
-
-## singly
-
-## double
+# functional
+https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf
 
 # hash table
 
@@ -32,14 +24,25 @@ To retrieve the value pair by it's key, compute the hash code from they key, and
 
 If the number of hashing collisions is very high, the worst case runtime performance is `O(n)`, where `n` is the number of keys. If we assume a good implementation where collisions are at a min the lookup time is `O(1)`. Hashing collisions can be reduced by using a techinque called [double hashing](https://en.wikipedia.org/wiki/Double_hashing).
 
-- [ ] StringBuilder
-- [ ] HashTable
-- [ ] ArrayList
-
 ## Collisions
 
+# graphs
 
-# dictionary
+## directed and undirected
+
+## weighted and unweighted
+
+## cycles
+
+## directed acyclic graphs
+
+# linked List
+
+## singly
+
+## double
+
+# stack
 
 # trees
 
@@ -51,15 +54,8 @@ If the number of hashing collisions is very high, the worst case runtime perform
 
 ## trie
 
-# graphs
 
-## directed and undirected
-
-## weighted and unweighted
-
-## cycles
-
-## directed acyclic graphs
+# queue
 
 ## References
 - [Cracking the code interview](http://plusteach.com/digbooks/b_img/three.pdf)
