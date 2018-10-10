@@ -3,7 +3,8 @@ title: leadership
 layout: notes
 ---
 
-https://www.youtube.com/watch?v=eP38Cxve5xY
+# on leadership
+- https://www.youtube.com/watch?v=eP38Cxve5xY
 
 # setting expectations
 
