@@ -6,6 +6,9 @@ layout: notes
 # on leadership
 - https://www.youtube.com/watch?v=eP38Cxve5xY
 
+# on one on ones
+- https://mobile.twitter.com/jeffsand/status/1049787840266027009
+
 # setting expectations
 
 - http://randsinrepose.com/archives/how-to-rands/
@@ -24,7 +27,7 @@ altruism is the principle and moral practice of concern for happiness of other h
 # fault injection
 
 - storming to performing
-- performing for too long becomes safe, group think becomes stale
+- for too long becomes safe, group think becomes stale
 - innovation, risks and growth come from a steady flow of transitioning backwards and forwards between storming and performing
 
 # ripples
