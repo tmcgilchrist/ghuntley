@@ -16,6 +16,10 @@ altruism is the principle and moral practice of concern for happiness of other h
 - performing for too long becomes safe, group think becomes stale
 - innovation, risks and growth come from a steady flow of transitioning backwards and forwards between storming and performing
 
+# temperature
+
+As a leader, you have the ability to set the tempature of the room, not just read it. You have the power and responsibility to change the norm.
+
 # ripples
 
 - me
