@@ -17,6 +17,11 @@ https://www.youtube.com/watch?v=eP38Cxve5xY
 
 altruism is the principle and moral practice of concern for happiness of other human beings, resulting in a quality of life both material and spiritual. 
 
+# study
+
+- https://softwareleadweekly.com/
+- https://www.manager-tools.com/map-of-the-universe
+
 # fault injection
 - storming to performing
 - performing for too long becomes safe, group think becomes stale
