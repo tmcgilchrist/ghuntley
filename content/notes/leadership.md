@@ -7,6 +7,10 @@ layout: notes
 
 https://www.youtube.com/watch?v=eP38Cxve5xY
 
+# how to
+
+http://randsinrepose.com/archives/how-to-rands/
+
 # altruism
 
 altruism is the principle and moral practice of concern for happiness of other human beings, resulting in a quality of life both material and spiritual. 
