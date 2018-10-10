@@ -35,3 +35,4 @@ As a leader, you have the ability to set the tempature of the room, not just rea
 
 # references
 - Kotter, John P. (1996). Leading Change. Harvard Business School Press. ISBN 978-0-87584-747-4.
+- https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development
