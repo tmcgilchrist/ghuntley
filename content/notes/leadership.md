@@ -26,6 +26,10 @@ As a leader, you have the ability to set the tempature of the room, not just rea
 - team
 - org
 
+# mindfulness
+
+"I'm not the best right now, going through something personal. It's me, not you." 
+
 # change
 - https://www.kotterinc.com/8-steps-process-for-leading-change/
 
