@@ -7,9 +7,11 @@ layout: notes
 
 https://www.youtube.com/watch?v=eP38Cxve5xY
 
-# how to
+# setting expectations
 
-http://randsinrepose.com/archives/how-to-rands/
+- http://randsinrepose.com/archives/how-to-rands/
+- https://managerreadme.com/
+- https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe
 
 # altruism
 
