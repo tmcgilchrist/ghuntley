@@ -10,6 +10,6 @@ When I'm not authoring code, you will find me building communities, passing down
 
 Being a maintainer, and focusing that level of effort is a labour of love, but a labour none the less. If you or your company uses open-source software or appreciates the work I do in open source, please consider [supporting me directly](/support) as it's pretty clear that software actually costs something, and that even though it may be offered freely, [somebody is paying the cost](https://www.youtube.com/watch?v=0t85TyH-h04). 
 
-I currently work through a consultancy, but the opinions expressed publically are my own and do not necessarily represent those of my clients unless otherwise stated. Do not quote me as “$company person Geoffrey Huntley said” – if I speak for a company, I will publish on its channels. This is my personal slice of the internet. Everything here is written by me and is my opinion.
+Opinions expressed publicly are my own and do not necessarily represent those of my clients unless otherwise stated. Do not quote me as “$company person Geoffrey Huntley said” – if I speak for a company, I will publish on its channels. This is my personal slice of the internet. Everything here is me and is my opinion.
 
 I'm currently in Sydney, Australia. I’m observing the AEST timezone.
