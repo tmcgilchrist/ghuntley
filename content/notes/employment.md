@@ -4,7 +4,7 @@ title: employment
 
 # company a vs company b
 
-The list below isn't by priority but it is the through process I go through.
+The list below isn't by priority but it is the thought process I go through.
 
 1. Compensation - Would you be comfortable with that salary and can you do the things you want to do with it (vacation, hobbies, etc.).
 
