@@ -1,11 +1,15 @@
 ---
-title: Haskell
+title: haskell
+layout: notes
 ---
 
 {{< tweet 996628203463569410 >}}
 
 
 https://qnikst.github.io/posts/2018-10-29-metrics-haskell.html
+
+# profiling
+http://neilmitchell.blogspot.com/2018/10/announcing-profiterole-ghc-profile.html?m=1
 
 # Handling Failure
 * https://hackage.haskell.org/package/transformers-either
