@@ -1,6 +1,6 @@
 ---
 title: repl
-layout; notes
+layout: notes
 ---
 
 https://glot.io/new/haskell
