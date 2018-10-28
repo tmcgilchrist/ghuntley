@@ -3,6 +3,14 @@ title: haskell
 layout: notes
 ---
 
+# pattern matching
+
+When you see a constructor on the left hand side that's pattern matching
+```haskell
+k :: Z -> String
+k (X s) = s
+```
+
 # the tick convention
 similar to `klass` in Java. Used to escape variable bindings
 
