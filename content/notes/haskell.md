@@ -3,6 +3,13 @@ title: haskell
 layout: notes
 ---
 
+# the tick convention
+similar to `klass` in Java. Used to escape variable bindings
+
+```haskell
+data Bool` = True` | False`
+```
+
 # polymorphism
 
 Polmrophic types in haskell always start with a lower case letter. A lower case type means polymorphic [generic]
