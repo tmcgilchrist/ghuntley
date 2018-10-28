@@ -5,7 +5,7 @@ layout: notes
 
 # polymorphism
 
-A lower case type is polymorphic [generic]
+Polmrophic types in haskell always start with a lower case letter. A lower case type means polymorphic [generic]
 
 ```haskell
 i :: a -> a
