@@ -3,6 +3,16 @@ title: haskell
 layout: notes
 ---
 
+# polymorphism
+
+A lower case type is polymorphic [generic]
+
+```haskell
+i :: a -> a
+i x = x
+```
+
+
 {{< tweet 996628203463569410 >}}
 
 
