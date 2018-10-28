@@ -11,6 +11,14 @@ k :: Z -> String
 k (X s) = s
 ```
 
+Alternatively you can use `case of`
+
+```haskell
+l :: Z -> String
+l Z = case Z of
+  X s -> s
+```
+
 # the tick convention
 similar to `klass` in Java. Used to escape variable bindings
 
