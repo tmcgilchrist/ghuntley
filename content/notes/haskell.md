@@ -17,6 +17,7 @@ Alternatively you can use `case of`
 l :: Z -> String
 l Z = case Z of
   X s -> s
+  Y -> "y"
 ```
 
 # the tick convention
