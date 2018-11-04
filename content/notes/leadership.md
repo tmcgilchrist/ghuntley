@@ -45,6 +45,22 @@ altruism is the principle and moral practice of concern for happiness of other h
 # change
 - https://www.kotterinc.com/8-steps-process-for-leading-change/
 
+# servant leadership
+## 1 Position ↔ Rights
+My influence on this person is based primarily on my position. This person may be someone who reports to me but who I do not know very well. Or it could be someone who reports to me but with whom I do not have a very good relationship. This does not have to be a direct report. It may be someone else I influence through my position. This could be someone in a completely different department or organisation.
+ 	 
+## 2 Permission ↔ Relationships
+I have a warm relationship with this person. I genuinely care about and trust this person. This person knows me well enough that we both understand each other's strengths and weaknesses. This is also someone with whom I know that I could have even greater productivity if I fully invested in taking our work to the next level.
+ 
+## 3 Production ↔ Results
+This is a relationship that has been strengthened over time based largely on our proven ability to get things done together. I am able to influence this person because this individual knows that if he or she signs up to follow me they can expect to partner with me in creating success and that they will have fun doing it.
+ 	 
+## 4 People ↔ Reproduction
+This is someone who is now growing and developing largely due to the influence I have had on this person over a period of time. If I am young in my leadership journey (not the same as in age) I may not have yet developed this level of leadership. If that's the case, then I will leave this blank for now.
+
+## 5 Pinnacle ↔ Respect
+My influence with this person is powerfully productive and loyal. This person is a leader of others and represents my leadership through them so impact is multiplied. I desire to give away my authority to this person.
+
 # references
 - Kotter, John P. (1996). Leading Change. Harvard Business School Press. ISBN 978-0-87584-747-4.
 - https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development
