@@ -61,7 +61,7 @@ My influence on this person is based primarily on my position. This person may b
 * I'm the boss of you
 * You're here to help me
 * I determine your future
-* Do this or else
+* do this or else
 
 ### organizational impact
 * physical turn over
@@ -78,7 +78,6 @@ My influence on this person is based primarily on my position. This person may b
 
 ## 2 Permission ↔ Relationships
 I have a warm relationship with this person. I genuinely care about and trust this person. This person knows me well enough that we both understand each other's strengths and weaknesses. This is also someone with whom I know that I could have even greater productivity if I fully invested in taking our work to the next level.
-
 
 ### characteristics
 * respect
@@ -110,7 +109,37 @@ I have a warm relationship with this person. I genuinely care about and trust th
 
 ## 3 Production ↔ Results
 This is a relationship that has been strengthened over time based largely on our proven ability to get things done together. I am able to influence this person because this individual knows that if he or she signs up to follow me they can expect to partner with me in creating success and that they will have fun doing it.
- 	 
+
+### characteristics
+* walk the talk
+* ability to create a link between vision and daily production
+* foundatiojn for team-building
+* willingness to make difficult decisions
+* responsible for personal and team growth
+* change agent
+
+### mindset
+* know the way and show the way
+* help others gain confidence
+* leaders create momentum, managers try to fix problems
+* Defined by doing with others, not by yourself
+* a team leader
+
+### organizational impact
+* ability to convert potentiasl to performance
+* visuaklly sets the standard
+* clarity provided in fulfilling the vision
+* new spirit developers, morale increases
+* momemtum solves problems
+
+### beliefs and actions needed to transition
+* production is not enough
+* people are the most appreciable asset
+* people development is the greatest fulfillment
+* everything rises and falls on leadership
+* a desire to develop more leaders
+* organizations get better when leaders get better
+
 ## 4 People ↔ Reproduction
 This is someone who is now growing and developing largely due to the influence I have had on this person over a period of time. If I am young in my leadership journey (not the same as in age) I may not have yet developed this level of leadership. If that's the case, then I will leave this blank for now.
 
