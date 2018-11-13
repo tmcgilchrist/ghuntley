@@ -46,12 +46,68 @@ altruism is the principle and moral practice of concern for happiness of other h
 - https://www.kotterinc.com/8-steps-process-for-leading-change/
 
 # servant leadership
+
 ## 1 Position ↔ Rights
 My influence on this person is based primarily on my position. This person may be someone who reports to me but who I do not know very well. Or it could be someone who reports to me but with whom I do not have a very good relationship. This does not have to be a direct report. It may be someone else I influence through my position. This could be someone in a completely different department or organisation.
- 	 
+
+### characteristics
+* title driven
+* devalue people
+* position is most important
+* takes privledges
+
+### mindset
+* I've arrived
+* I'm the boss of you
+* You're here to help me
+* I determine your future
+* Do this or else
+
+### organizational impact
+* physical turn over
+* mental turnover
+* receive peoples least, not their best
+* nothing great will happen at this level
+* hierachy environment
+
+### beliefs and actions needed to transition
+* stop bossing and start encouraging
+* titles are not enough
+* people are the most valuable asset
+* leading with others. Leadership is action not position.
+
 ## 2 Permission ↔ Relationships
 I have a warm relationship with this person. I genuinely care about and trust this person. This person knows me well enough that we both understand each other's strengths and weaknesses. This is also someone with whom I know that I could have even greater productivity if I fully invested in taking our work to the next level.
- 
+
+
+### characteristics
+* respect
+* trust
+* listening
+* humble
+* vulnerable
+* ability to balance care and candor
+* admitting your faults
+
+### mindset
+* attitude iof serving and bringing out the best of others
+* liking the people you lead, leading the people you like
+* informal, straight with people, and accessibile
+
+### organizational impact
+* communication issues
+* barriers are removed
+* build bridges
+* trust begings to form
+* solid relationships
+* creates sustainable leadership
+
+### beliefs and actions needed to transition
+* relationships alone are not enough - it most accomplish something
+* working toward a v ision stretching your people
+* ability to use your influence
+* people grow toward and with each other
+
 ## 3 Production ↔ Results
 This is a relationship that has been strengthened over time based largely on our proven ability to get things done together. I am able to influence this person because this individual knows that if he or she signs up to follow me they can expect to partner with me in creating success and that they will have fun doing it.
  	 
