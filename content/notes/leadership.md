@@ -175,8 +175,20 @@ Reflect on the following then take the lowest score and make it the target:
 - how effective am I in getting to know my team, knowning their strengths and weeknesses?
 
 ### momentum
-- to build momentum - do a few things really well.
-- to slow momentum - do everything marginally well.
+
+to build momentum:
+- focus on tasks that promote the ---
+- do a few things really well.
+- spend 80% of your time in your strength area but get out of your comfort area
+- be a ---
+- make difficult ---
+
+to slow momentum:
+- focus on --- and putting out ---
+- do everything marginally well.
+- continiuously work on ---- your ---
+- focus soley on the ---
+- wait for other --- or --- to dictate your direction
 
 ### characteristics
 * walk the talk
