@@ -166,6 +166,12 @@ This is a relationship that has been strengthened over time based largely on our
 - things I accomplish in a typical week (minimise this)
 - decisions I currently need to make (maximize this but restrict WIP)
 
+### team production retro
+- how effective am I when supporting other team memebrs in their work?
+- how effective am I in training and developing others?
+- how effective am I in giving feedback to others?
+- how effective am I in getting to know my team, knowning their strengths and weeknesses?
+
 ### characteristics
 * walk the talk
 * ability to create a link between vision and daily production
