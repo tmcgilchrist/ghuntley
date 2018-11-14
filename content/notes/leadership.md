@@ -174,6 +174,10 @@ Reflect on the following then take the lowest score and make it the target:
 - how effective am I in giving feedback to others?
 - how effective am I in getting to know my team, knowning their strengths and weeknesses?
 
+### momentum
+- to build momentum - do a few things really well.
+- to slow momentum - do everything marginally well.
+
 ### characteristics
 * walk the talk
 * ability to create a link between vision and daily production
