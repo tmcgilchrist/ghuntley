@@ -95,7 +95,7 @@ My influence on this person is based primarily on my position. This person may b
 * identify the kind of leader you want to be
 * your growth at level 1 is never done, you should always be growing
 
-## best behaviors
+### best behaviors
 * stop relying on position to push people
 * trade entitlement for movement
 * leave your position and move toward your people
@@ -138,6 +138,13 @@ I have a warm relationship with this person. I genuinely care about and trust th
 * is this person giving more then they "have to"?
 * do I feel I can openly communicate with this person?
 * do I know their stengths and weaknesses and how they complement mine?
+
+### best behaviors
+* connect with yourself before try8ing to connect with others
+* develop a people-oriented leadership style
+* become the chief encourager of your team
+* strike a balance between care and candor
+* practice the law of connection
 
 ## 3 Production ↔ Results
 This is a relationship that has been strengthened over time based largely on our proven ability to get things done together. I am able to influence this person because this individual knows that if he or she signs up to follow me they can expect to partner with me in creating success and that they will have fun doing it.
