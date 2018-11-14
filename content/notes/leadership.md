@@ -162,9 +162,9 @@ This is a relationship that has been strengthened over time based largely on our
 
 
 ### individual production retro
-- problems I'm currently trying to resolve
-- things I accomplish in a typical week
-- decisions I currently need to make
+- problems I'm currently trying to resolve (restrict WIP)
+- things I accomplish in a typical week (minimise this)
+- decisions I currently need to make (maximize this but restrict WIP)
 
 ### characteristics
 * walk the talk
