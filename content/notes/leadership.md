@@ -248,7 +248,7 @@ to slow momentum:
 * ability to convert potentiasl to performance
 * visuaklly sets the standard
 * clarity provided in fulfilling the vision
-* new spirit developers, morale increases
+* new spirit develops, morale increases
 * momemtum solves problems
 
 ### beliefs and actions needed to transition
