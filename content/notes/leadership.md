@@ -180,14 +180,14 @@ to build momentum:
 - do a few things really well.
 - spend 80% of your time in your strength area but get out of your comfort area
 - be a change agent
-- make difficult ---
+- make difficult decisions
 
 to slow momentum:
-- focus on --- and putting out fires
+- focus on busy work and putting out fires
 - do everything marginally well.
-- continiuously work on ---- your ---
+- continiuously work on fixing your weaknesses
 - focus soley on the current reality
-- wait for other --- or --- to dictate your direction
+- wait for other people or circumstances to dictate your direction
 
 ### characteristics
 * walk the talk
