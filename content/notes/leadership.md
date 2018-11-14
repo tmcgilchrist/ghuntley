@@ -176,17 +176,17 @@ Reflect on the following then take the lowest score and make it the target:
 
 ### momentum
 to build momentum:
-- focus on tasks that promote the ---
+- focus on tasks that promote the vision
 - do a few things really well.
 - spend 80% of your time in your strength area but get out of your comfort area
-- be a ---
+- be a change agent
 - make difficult ---
 
 to slow momentum:
-- focus on --- and putting out ---
+- focus on --- and putting out fires
 - do everything marginally well.
 - continiuously work on ---- your ---
-- focus soley on the ---
+- focus soley on the current reality
 - wait for other --- or --- to dictate your direction
 
 ### characteristics
