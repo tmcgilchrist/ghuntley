@@ -199,6 +199,6 @@ My influence with this person is powerfully productive and loyal. This person is
 * significance
 
 # references
-- Kotter, John P. (1996). Leading Change. Harvard Business School Press. ISBN 978-0-87584-747-4.
+- [Kotter, John P. (1996). Leading Change. Harvard Business School Press. ISBN 978-0-87584-747-4](https://wdhb.org.nz/contented/clientfiles/whanganui-district-health-board/files/rttc_leading-change-by-j-kotter-harvard-business-review.pdf).
 - https://www.amazon.com/Levels-Leadership-Proven-Maximize-Potential/dp/1599953633
 - https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development
