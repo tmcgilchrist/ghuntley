@@ -160,6 +160,12 @@ I have a warm relationship with this person. I genuinely care about and trust th
 ## 3 Production ↔ Results
 This is a relationship that has been strengthened over time based largely on our proven ability to get things done together. I am able to influence this person because this individual knows that if he or she signs up to follow me they can expect to partner with me in creating success and that they will have fun doing it. Leading at this level is a true measure of performance. Either you are producing results or you're not. When you produce you attract other producers. At the ultimate level you obtain _production_ through _others_.
 
+
+### individual production retro
+- problems I'm currently trying to resolve
+- things I accomplish in a typical week
+- decisions I currently need to make
+
 ### characteristics
 * walk the talk
 * ability to create a link between vision and daily production
