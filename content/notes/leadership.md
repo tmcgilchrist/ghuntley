@@ -246,6 +246,23 @@ to slow momentum:
 ## 4 People ↔ Reproduction
 This is someone who is now growing and developing largely due to the influence I have had on this person over a period of time. If I am young in my leadership journey (not the same as in age) I may not have yet developed this level of leadership. If that's the case, then I will leave this blank for now.
 
+### training vs development
+
+focus less on training:
+- focuses on the job
+- is skills based
+- is prescribed by the trainer
+- conveys information
+- developers the worker
+- is transactional
+
+focus more on development:
+- focuses on the person
+- is values based
+- is organic and desired by the trainee
+- asks questions
+- develops the whole person- is transformational
+
 ### characteristics
 * high maturity and skill level
 * ability to grow other leaders
