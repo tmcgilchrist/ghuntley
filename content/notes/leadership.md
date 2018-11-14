@@ -140,11 +140,19 @@ I have a warm relationship with this person. I genuinely care about and trust th
 * do I know their stengths and weaknesses and how they complement mine?
 
 ### best behaviors
+
 * connect with yourself before try8ing to connect with others
 * develop a people-oriented leadership style
 * become the chief encourager of your team
 * strike a balance between care and candor
 * practice the law of connection
+
+* learning connects, use the the four words every colleauge wants to hear - "what do you think?"
+* aspiration connects - "how can we be better?"
+* purpose connects - "how can we make a difference?" "why does this matter?"
+* compassion connects - people don't care what you know until they know ytou care
+* vulranability connects - admit your weakness, people respect those who are secure enough to be vulrunable
+
 
 ## 3 Production ↔ Results
 This is a relationship that has been strengthened over time based largely on our proven ability to get things done together. I am able to influence this person because this individual knows that if he or she signs up to follow me they can expect to partner with me in creating success and that they will have fun doing it.
