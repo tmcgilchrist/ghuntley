@@ -83,6 +83,12 @@ My influence on this person is based primarily on my position. This person may b
 * does this person go around me to communicate with my boss?
 * does this person only work to get a paycheck?
 
+### influence goals
+* shifting your focus away from your position
+* leading yourself exceptionally well
+* connecting your role to the organizations vision?
+* identify the kind of leader you want to be
+
 ## 2 Permission ↔ Relationships
 I have a warm relationship with this person. I genuinely care about and trust this person. This person knows me well enough that we both understand each other's strengths and weaknesses. This is also someone with whom I know that I could have even greater productivity if I fully invested in taking our work to the next level.
 
