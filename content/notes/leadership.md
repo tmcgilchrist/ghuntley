@@ -250,6 +250,7 @@ This is someone who is now growing and developing largely due to the influence I
 ### training vs development
 
 focus less on training:
+
 - focuses on the job
 - is skills based
 - is prescribed by the trainer
@@ -258,6 +259,7 @@ focus less on training:
 - is transactional
 
 focus more on development:
+
 - focuses on the person
 - is values based
 - is organic and desired by the trainee
