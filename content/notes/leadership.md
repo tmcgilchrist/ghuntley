@@ -150,11 +150,11 @@ On connection:
 * learning connects, use the the four words every colleauge wants to hear - "what do you think?"
 * aspiration connects - "how can we be better?"
 * purpose connects - "how can we make a difference?" "why does this matter?"
-* compassion connects - people don't care what you know until they know ytou care
-* vulranability connects - admit your weakness, people respect those who are secure enough to be vulrunable
-* listening connects - listening intently allows you to apply the leadershui pprinciple of perspective. when yoiu listen you not only pearn _what_ but also the _why_.
+* compassion connects - people don't care what you know until they know you care
+* vulnerability connects - admit your weakness, people respect those who are secure enough to be vulrunable
+* listening connects - listening intently allows you to apply the leadershui pprinciple of perspective. When you listen you not only learn _what_ but also the _why_
 * progress connects - "whats the next step"
-* respect connects - "respect people and they will respect you.
+* respect connects - "respect people and they will respect you"
 * serving connects - "how can I help you?"
 
 ## 3 Production ↔ Results
