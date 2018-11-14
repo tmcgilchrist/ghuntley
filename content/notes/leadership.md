@@ -37,6 +37,19 @@ altruism is the principle and moral practice of concern for happiness of other h
 - team
 - org
 
+
+# investing in the right people
+- makes things happen
+- see and seize opportunities
+- influence the opinions and actions of others
+- add vbaluye to you and others
+- attract winners to them
+- equip others
+- offer ideas that help the organization
+- possess a grteat attitude
+- live up to their commitements and responsibilities
+- show fierce loyalty to the organization and the leader
+
 # mindfulness
 
 "As a leader, you have the ability to set the tempature of the room, not just read it. You have the power and responsibility to change the norm."
