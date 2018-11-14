@@ -175,7 +175,9 @@ Reflect on the following then take the lowest score and make it the target:
 - how effective am I in getting to know my team, knowning their strengths and weeknesses?
 
 ### momentum
+
 to build momentum:
+
 - focus on tasks that promote the vision
 - do a few things really well.
 - spend 80% of your time in your strength area but get out of your comfort area
@@ -183,6 +185,7 @@ to build momentum:
 - make difficult decisions
 
 to slow momentum:
+
 - focus on busy work and putting out fires
 - do everything marginally well
 - continiuously work on fixing your weaknesses
