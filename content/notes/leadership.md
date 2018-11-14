@@ -167,6 +167,8 @@ This is a relationship that has been strengthened over time based largely on our
 - decisions I currently need to make (maximize this but restrict WIP)
 
 ### team production retro
+Reflect on the following then take the lowest score and make it the target:
+
 - how effective am I when supporting other team memebrs in their work?
 - how effective am I in training and developing others?
 - how effective am I in giving feedback to others?
