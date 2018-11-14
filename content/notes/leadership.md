@@ -145,12 +145,17 @@ I have a warm relationship with this person. I genuinely care about and trust th
 * become the chief encourager of your team
 * strike a balance between care and candor
 * practice the law of connection
+
+On connection:
 * learning connects, use the the four words every colleauge wants to hear - "what do you think?"
 * aspiration connects - "how can we be better?"
 * purpose connects - "how can we make a difference?" "why does this matter?"
 * compassion connects - people don't care what you know until they know ytou care
 * vulranability connects - admit your weakness, people respect those who are secure enough to be vulrunable
-
+* listening connects - listening intently allows you to apply the leadershui pprinciple of perspective. when yoiu listen you not only pearn _what_ but also the _why_.
+* progress connects - "whats the next step"
+* respect connects - "respect people and they will respect you.
+* serving connects - "how can I help you?"
 
 ## 3 Production ↔ Results
 This is a relationship that has been strengthened over time based largely on our proven ability to get things done together. I am able to influence this person because this individual knows that if he or she signs up to follow me they can expect to partner with me in creating success and that they will have fun doing it.
