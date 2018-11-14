@@ -184,10 +184,25 @@ to build momentum:
 
 to slow momentum:
 - focus on busy work and putting out fires
-- do everything marginally well.
+- do everything marginally well
 - continiuously work on fixing your weaknesses
 - focus soley on the current reality
 - wait for other people or circumstances to dictate your direction
+
+
+### best behaviours
+- understand how you personal giftedness contributes to the vision
+- cast vision for what needs to be accompkliushed
+- beging to develop your people into a team
+- prioritze the things that yield high return
+- be willing and readfy to be a change agent
+- never lose sight of the fact that results are your goal
+
+- Don't control people, align passions. Successful leaders align the passions of their teammates with orgamnizational mission.
+- Look beyond symptom to cause - leaders who are always putting out fires haven't addreessed the root issue.
+- go from complexirty to simplicity - high performance leaders cut away atr complexitiy until simplicity merges. great leaders imopliofy
+- create clarifym overcommunicate clarify, reinforce clarify - most people don;'t have the discipline or endurance to bear the frustruction of pursing clarity
+- resist the temptation to 
 
 ### characteristics
 * walk the talk
