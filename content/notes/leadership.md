@@ -39,6 +39,9 @@ altruism is the principle and moral practice of concern for happiness of other h
 
 
 # investing in the right people
+
+The first step of people development is to have a critera as to whom should be developed:
+
 - makes things happen
 - see and seize opportunities
 - influence the opinions and actions of others
