@@ -140,13 +140,11 @@ I have a warm relationship with this person. I genuinely care about and trust th
 * do I know their stengths and weaknesses and how they complement mine?
 
 ### best behaviors
-
 * connect with yourself before try8ing to connect with others
 * develop a people-oriented leadership style
 * become the chief encourager of your team
 * strike a balance between care and candor
 * practice the law of connection
-
 * learning connects, use the the four words every colleauge wants to hear - "what do you think?"
 * aspiration connects - "how can we be better?"
 * purpose connects - "how can we make a difference?" "why does this matter?"
