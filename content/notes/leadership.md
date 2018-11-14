@@ -143,8 +143,60 @@ This is a relationship that has been strengthened over time based largely on our
 ## 4 People ↔ Reproduction
 This is someone who is now growing and developing largely due to the influence I have had on this person over a period of time. If I am young in my leadership journey (not the same as in age) I may not have yet developed this level of leadership. If that's the case, then I will leave this blank for now.
 
+### characteristics
+* high maturity and skill level
+* ability to grow other leaders
+* desire to keep learning
+* leaders transfer ownership
+* learn fast
+* actions inspire others
+
+### mindset
+* grow the company - grow the leaders
+* people development sustains growth
+* encourage others to learn quickly
+* the purpose of life is to grow and share
+
+### organizational impact
+* an environment for ownership and personal responsibility
+* others help carry the responsibility
+* everyone leads larger and better
+* momentum and growth sustained
+
+### beliefs and actions needed to transition
+* ultimate goal is to develop leaders
+* creating a leadership culture is neccessary
+* life commitment to developing leaders
+* live to add value to others
+* source of fulfillment is success of others
+
 ## 5 Pinnacle ↔ Respect
 My influence with this person is powerfully productive and loyal. This person is a leader of others and represents my leadership through them so impact is multiplied. I desire to give away my authority to this person.
+
+
+### characteristics
+* longstanding reputation
+* focused
+* focus on strengths of others, not weaknesses
+* give away position and power
+* see people for what they could be
+
+### mindset
+* opportunity to pour into the next generation
+* share the top level with many
+* want to be succeeded
+* give attention to top 20%
+
+### organizational impact
+* creates a legacy
+* provides an extended platform for leadership
+* impact beyond themselves and their time
+* succession is a result
+
+### beliefs and actions needed to transition
+* leading few, inspiring many
+* legacy is built on a life-time of decisions
+* significance
 
 # references
 - Kotter, John P. (1996). Leading Change. Harvard Business School Press. ISBN 978-0-87584-747-4.
