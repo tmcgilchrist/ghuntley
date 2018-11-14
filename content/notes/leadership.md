@@ -45,6 +45,9 @@ altruism is the principle and moral practice of concern for happiness of other h
 # change
 - https://www.kotterinc.com/8-steps-process-for-leading-change/
 
+# values
+
+
 # servant leadership
 
 ## 1 Position ↔ Rights
