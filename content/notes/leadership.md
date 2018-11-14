@@ -8,6 +8,7 @@ layout: notes
 
 # on one on ones
 - https://mobile.twitter.com/jeffsand/status/1049787840266027009
+- https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1
 
 # setting expectations
 
