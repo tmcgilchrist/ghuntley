@@ -7,6 +7,7 @@ layout: notes
 - https://www.youtube.com/watch?v=eP38Cxve5xY
 
 # on questions
+- https://www.goodreads.com/book/show/168981.QBQ_The_Question_Behind_the_Question
 - https://www.coachingforchange.com/pub10.html
 
 # on one on ones
