@@ -10,6 +10,8 @@ layout: notes
 - https://www.goodreads.com/book/show/168981.QBQ_The_Question_Behind_the_Question
 - https://www.coachingforchange.com/pub10.html
 
+Knowledge creates blindless, removes curosity. An approach to resolving a complex problem - get everyone in the room, _everyone_ responsible for end-to-end production of a unit of work, one rule "only allowed to ask questions" - shutdown any solutioning. Everyone, asking questions. 
+
 # on one on ones
 - https://mobile.twitter.com/jeffsand/status/1049787840266027009
 - https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1
