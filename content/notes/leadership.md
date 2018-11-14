@@ -196,7 +196,7 @@ to slow momentum:
 
 ### best behaviours
 - understand how you personal giftedness contributes to the vision
-- cast vision for what needs to be accompkliushed
+- cast vision for what needs to be accomplished
 - beging to develop your people into a team
 - prioritze the things that yield high return
 - be willing and readfy to be a change agent
