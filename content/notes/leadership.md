@@ -76,6 +76,13 @@ My influence on this person is based primarily on my position. This person may b
 * people are the most valuable asset
 * leading with others. Leadership is action not position.
 
+### assessment
+* am I newly titled leader and/or new leader to this person?
+* do I often have to mind this person that I'm the leader?
+* does this person only do what I tell them to do?
+* does this person go around me to communicate with my boss?
+* does this person only work to get a paycheck?
+
 ## 2 Permission ↔ Relationships
 I have a warm relationship with this person. I genuinely care about and trust this person. This person knows me well enough that we both understand each other's strengths and weaknesses. This is also someone with whom I know that I could have even greater productivity if I fully invested in taking our work to the next level.
 
@@ -106,6 +113,13 @@ I have a warm relationship with this person. I genuinely care about and trust th
 * working toward a v ision stretching your people
 * ability to use your influence
 * people grow toward and with each other
+
+### assessment
+* do I genuinely care for this person:
+* can I trust thi sperson?
+* is this person giving more then they "have to"?
+* do I feel I can openly communicate with this person?
+* do I know their stengths and weaknesses and how they complement mine?
 
 ## 3 Production ↔ Results
 This is a relationship that has been strengthened over time based largely on our proven ability to get things done together. I am able to influence this person because this individual knows that if he or she signs up to follow me they can expect to partner with me in creating success and that they will have fun doing it.
@@ -140,6 +154,13 @@ This is a relationship that has been strengthened over time based largely on our
 * a desire to develop more leaders
 * organizations get better when leaders get better
 
+### assessment
+* do I value this person's ability to perform?
+* does this person have a desire to learn from me?
+* do I help this person to experience success?
+* am I and this person building production momentum?
+* is this personw illing to perform at a higher standard with me?
+
 ## 4 People ↔ Reproduction
 This is someone who is now growing and developing largely due to the influence I have had on this person over a period of time. If I am young in my leadership journey (not the same as in age) I may not have yet developed this level of leadership. If that's the case, then I will leave this blank for now.
 
@@ -170,6 +191,13 @@ This is someone who is now growing and developing largely due to the influence I
 * live to add value to others
 * source of fulfillment is success of others
 
+### assessment
+* am i dedicated to a training this person in learning to lead?
+* does this person take on my responsibility to support me?
+* does this person challenge me by leading up?
+* is this person developing other followers?
+* can this person represent me and my philosophy in multiple situations?
+
 ## 5 Pinnacle ↔ Respect
 My influence with this person is powerfully productive and loyal. This person is a leader of others and represents my leadership through them so impact is multiplied. I desire to give away my authority to this person.
 
@@ -197,6 +225,13 @@ My influence with this person is powerfully productive and loyal. This person is
 * leading few, inspiring many
 * legacy is built on a life-time of decisions
 * significance
+
+### assessment
+* is this person a potential successor?
+* do I use my influence with this person to install values and set the course for the organization?
+* is this person an advocate to other leaders, increasing respect for me before I met them?
+* is this person developing other leaders?
+* is this person willing to serve me without focusing on monetary compensation?
 
 # references
 - [Kotter, John P. (1996). Leading Change. Harvard Business School Press. ISBN 978-0-87584-747-4](https://wdhb.org.nz/contented/clientfiles/whanganui-district-health-board/files/rttc_leading-change-by-j-kotter-harvard-business-review.pdf).
