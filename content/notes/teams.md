@@ -29,3 +29,5 @@ layout: notes
 - understanding of peoples values
 
 # how do we get individuals to buy in?
+- what is the mindset of the person? (excited, embraced, apathetic)
+- has the why been defined ("what's in it for me", "what does success look like", "background story")
