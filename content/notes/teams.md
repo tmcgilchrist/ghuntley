@@ -23,5 +23,6 @@ layout: notes
 - curosity
 - common goals
 - commitment
+- allow for different communication styles
 
 # how do we get individuals to buy in?
