@@ -3,6 +3,9 @@ title: leadership
 layout: notes
 ---
 
+# on teams
+- https://ghuntley.com/notes/teams
+
 # on leadership
 - https://www.youtube.com/watch?v=eP38Cxve5xY
 
