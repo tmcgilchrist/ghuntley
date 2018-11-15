@@ -21,5 +21,7 @@ layout: notes
 
 # what is needed to create each level of a functioning team?
 - curosity
+- common goals
+- commitment
 
 # how do we get individuals to buy in?
