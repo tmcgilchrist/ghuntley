@@ -24,5 +24,6 @@ layout: notes
 - common goals
 - commitment
 - allow for different communication styles
+- understanding of peoples values
 
 # how do we get individuals to buy in?
