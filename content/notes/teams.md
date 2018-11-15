@@ -9,3 +9,12 @@ layout: notes
 - commitment
 - productive conflict
 - trust
+
+# what is a high performing individual?
+- vulrunability
+- shares knowledge freely
+- delivers results
+- holds themsleves accountable (and others)
+- want to see the team succeed (will create the conflict to ensure successful outcomes)
+- highly motivated
+- engaged and exhibits care
