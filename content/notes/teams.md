@@ -18,3 +18,7 @@ layout: notes
 - want to see the team succeed (will create the conflict to ensure successful outcomes)
 - highly motivated
 - engaged and exhibits care
+
+# what is needed to create each level of a functioning team?
+
+# how do we get individuals to buy in?
