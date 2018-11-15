@@ -20,5 +20,6 @@ layout: notes
 - engaged and exhibits care
 
 # what is needed to create each level of a functioning team?
+- curosity
 
 # how do we get individuals to buy in?
