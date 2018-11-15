@@ -11,7 +11,7 @@ layout: notes
 - trust
 
 # what is a high performing individual?
-- vulrunability
+- vulnerability
 - shares knowledge freely
 - delivers results
 - holds themsleves accountable (and others)
