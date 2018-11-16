@@ -4,7 +4,16 @@ layout: notes
 ---
 
 # effective feedback
-The worst type of feedback is personal and judgemental. Thee most effective of objective and descriptive.
+The worst type of feedback is personal and judgemental. The most effective of objective and descriptive:
+
+- specific
+- based on behavior
+- timely
+- frequent
+- balanced
+- constructive
+- relevant
+- accurate
 
 # feedback model
 ## situation
