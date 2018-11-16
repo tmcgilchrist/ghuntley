@@ -31,9 +31,13 @@ The worst type of feedback is personal and judgemental. The most effective of ob
 # feedback model - efnc
 
 ## event
+- what happened
 
 ## feelings
+- how do you AND I feel about this?
 
 ## need
+- what needs to change?
 
 ## consquences
+- what if we don't change
