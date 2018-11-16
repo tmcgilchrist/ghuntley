@@ -33,5 +33,6 @@ Don't have an agenda in mind. Ask coachee their thoughts, ask good questions. Ge
 - what will you do next?
 
 # references
+- https://www.amazon.com.au/Crucial-Conversations-Kerry-Patterson/dp/1469266822
 - https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
 - https://medium.com/@ourfounder/why-most-coaches-dont-actually-coach-413864bd5853
