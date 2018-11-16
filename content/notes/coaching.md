@@ -3,6 +3,7 @@ title: coaching
 layout: notes
 ---
 
+Don't have an agenda in mind. Ask coachee their thoughts, ask good questions. Get to values and desires.
 
 > When knowledge is high, curiosity is low. Knowledge prevents courisity. Be curious.
 
