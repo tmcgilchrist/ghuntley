@@ -1,0 +1,17 @@
+---
+title: feedback
+layout: notes
+---
+
+
+# feedback model
+## situation
+- describe the situation
+- be specific about when and where it occurred
+
+## behavior
+- describe the observable behavior
+- don't assume you know what the other person was thinking
+
+## impact
+- describe what you thought or felt in reaction to the behavior
