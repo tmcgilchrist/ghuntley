@@ -8,6 +8,7 @@ layout: notes
 ## situation
 - describe the situation
 - be specific about when and where it occurred
+- curse of knowledge, don't autopilot it, be curious instead
 
 ## behavior
 - describe the observable behavior
