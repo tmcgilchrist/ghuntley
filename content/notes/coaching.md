@@ -3,6 +3,9 @@ title: coaching
 layout: notes
 ---
 
+Consider some people need to write their thoughts. Writing is a form of defragging. If you aren't connecting, get them to reply to the message in their own words.
+
+
 Don't have an agenda in mind. Ask coachee their thoughts, ask good questions. Get to values and desires.
 
 > When knowledge is high, curiosity is low. Knowledge prevents courisity. Be curious.
