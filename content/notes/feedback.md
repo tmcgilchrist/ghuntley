@@ -41,3 +41,7 @@ The worst type of feedback is personal and judgemental. The most effective of ob
 
 ## consquences
 - what if we don't change
+
+
+# resources
+- https://www.amazon.com.au/Crucial-Conversations-Kerry-Patterson/dp/1469266822
