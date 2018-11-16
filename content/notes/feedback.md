@@ -3,6 +3,8 @@ title: feedback
 layout: notes
 ---
 
+# effective feedback
+The worst type of feedback is personal and judgemental. Thee most effective of objective and descriptive.
 
 # feedback model
 ## situation
