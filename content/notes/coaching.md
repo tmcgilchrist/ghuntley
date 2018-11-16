@@ -16,6 +16,7 @@ Don't have an agenda in mind. Ask coachee their thoughts, ask good questions. Ge
 
 ## goal
 - what is your goal for the coaching?
+- use SMART goals
 
 ## reality
 - where are you today?
