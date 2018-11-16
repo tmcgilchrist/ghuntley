@@ -15,7 +15,7 @@ The worst type of feedback is personal and judgemental. The most effective of ob
 - relevant
 - accurate
 
-# feedback model
+# feedback model - sbi
 ## situation
 - describe the situation
 - be specific about when and where it occurred
@@ -27,3 +27,13 @@ The worst type of feedback is personal and judgemental. The most effective of ob
 
 ## impact
 - describe what you thought or felt in reaction to the behavior
+
+# feedback model - efnc
+
+## event
+
+## feelings
+
+## need
+
+## consquences
