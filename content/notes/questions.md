@@ -3,6 +3,8 @@ title: questions
 layout: notes
 ---
 
+Avoid asking binary questions ("do you have any questions -> what did I miss?")
+
 - https://www.goodreads.com/book/show/168981.QBQ_The_Question_Behind_the_Question
 - https://www.coachingforchange.com/pub10.html
 
