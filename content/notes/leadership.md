@@ -368,6 +368,7 @@ My influence with this person is powerfully productive and loyal. This person is
 A team has their preferred, default comfortable level. A team can be trained to operate at a particular level, in crisis they will potentially rever to their preferred, default comfortable level. ie the in-grained behavior.
 
 https://www.davidmarquet.com/wp-content/uploads/2016/08/LadderGuide.pdf
+http://ladderofleadership.com/
 
 - 7. What have you BEEN DOING? I've BEEN DOING...
 - 6. What have you DONE? I've DONE ...
