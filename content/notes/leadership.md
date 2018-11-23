@@ -383,6 +383,8 @@ http://ladderofleadership.com/
 - 2. What do you SEE? I SEE ...
 - 1. I'll TELL you what to do. TELL me what to do.
 
+The "What do you INTEND to do? I INTEND to ..." works best with trust. Ensure that people understand that it's a "i'd like your insights" and not a "I'm sharing this with you because we don't trust each other"
+
 # references
 - [Kotter, John P. (1996). Leading Change. Harvard Business School Press. ISBN 978-0-87584-747-4](https://wdhb.org.nz/contented/clientfiles/whanganui-district-health-board/files/rttc_leading-change-by-j-kotter-harvard-business-review.pdf).
 - https://www.amazon.com/Levels-Leadership-Proven-Maximize-Potential/dp/1599953633
