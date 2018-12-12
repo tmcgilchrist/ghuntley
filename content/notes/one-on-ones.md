@@ -18,3 +18,15 @@ If you have had a great 1:! schedule, feedback is captured appropriately then th
 - 1:1 week
 - 1:1 week
 - quarterly check-in
+
+# content
+- https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1
+- focus on the human, not just unblocking them
+- ask do you want advice and a shoulder?
+- regularly ask for feedback on 1:1s to reduce intention / perception gap
+- remind people of victories (reinforce wins/the past, don't focus on blockers/the future)
+- reflect on the journey
+- parition operational out into a seperate meeting (ie 10mins at start of week with each person that is operational update instead)
+- coaching to develop the whole human as part of one on ones
+- don't jump in and fix things automatically, know that may rob folks of their personal development opportunities.
+
