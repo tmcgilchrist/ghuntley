@@ -5,6 +5,15 @@ layout: notes
 
 {{< youtube 4yODalLQ2lM >}}
 
+# measurement rubik
+
+| Guidance  | Praise        | Criticism  |
+| --------- |:-------------:| ----------:|
+| Give      | B             | F          |
+| Get       | C             | A          |
+| Encourage | C             | B          |
+
+
 # effective feedback
 The worst type of feedback is personal and judgemental. The most effective of objective and descriptive:
 
