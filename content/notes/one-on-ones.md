@@ -28,5 +28,5 @@ If you have had a great 1:! schedule, feedback is captured appropriately then th
 - reflect on the journey
 - parition operational out into a seperate meeting (ie 10mins at start of week with each person that is operational update instead)
 - coaching to develop the whole human as part of one on ones
-- don't jump in and fix things automatically, know that may rob folks of their personal development opportunities.
+- don't jump in and fix things automatically as that may rob folks of their personal development opportunities.
 
