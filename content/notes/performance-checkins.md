@@ -10,7 +10,7 @@ layout: notes
 - okr
 - wholistic pov of a persons contribution and value they bring to a company
 - check (ask for feedback / reduce intention - perception gaps)
-
+- people need to be ready for career conversations, decisions should come from them, not you.
 
 # excercises
 - define a [performance commitment](performance-commitment)
