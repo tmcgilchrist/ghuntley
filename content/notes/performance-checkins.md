@@ -14,3 +14,14 @@ layout: notes
 
 # excercises
 - define a [performance commitment](performance-commitment)
+
+
+# rubiks
+
+Y -> Why
+
+S -> specifics
+T -> time
+O -> others
+R -> realistic
+M -> measure
