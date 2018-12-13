@@ -9,6 +9,7 @@ layout: notes
 - where is there competence, clarity, control? - https://srinathramakrishnan.files.wordpress.com/2016/10/brief-summary-of-turn-the-ship-around.pdf
 - okr
 - wholistic pov of a persons contribution and value they bring to a company
+- check (ask for feedback / reduce intention - perception gaps)
 
 
 # excercises
