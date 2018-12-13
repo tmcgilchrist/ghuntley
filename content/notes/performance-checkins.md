@@ -18,10 +18,9 @@ layout: notes
 
 # rubiks
 
-Y -> Why
-
-S -> specifics
-T -> time
-O -> others
-R -> realistic
-M -> measure
+- Y -> Why
+- S -> specifics
+- T -> time
+- O -> others
+- R -> realistic
+- M -> measure
