@@ -74,3 +74,12 @@ inspect the sprint:
 - re-assesses the relative priority of stories
 - creating new user stories in response to newly discovered needs
 - correct estimates in light of newly discovered information
+
+
+# standup
+
+## agenda
+
+- do you need help from someone? ask
+- how could folks help you? share
+- are we going to meet the sprint commitment? any concerns or risks
