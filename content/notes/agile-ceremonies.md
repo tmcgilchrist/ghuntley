@@ -38,6 +38,8 @@ map out the past two months (10 min):
 
 # kick-off
 
+The purpose of this meeting is to agree upon which work will be done, at a high level agree how it will be done and incorporate learnings from the retrospective. If the refinement has been done successfully then there should be minimal definition activities during kick-off.
+
 ## agenda
 
 define the scope:
