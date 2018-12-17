@@ -88,4 +88,4 @@ As a team we get together daily to share learnings, call out risk and ask for he
 
 - do you need help from someone? ask
 - how could folks help you? share
-- are we going to meet the sprint commitment? any concerns or risks
+- are we going to meet the sprint commitment? identify concerns or risks
