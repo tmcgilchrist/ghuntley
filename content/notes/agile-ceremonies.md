@@ -5,6 +5,9 @@ layout: notes
 
 # retrospective
 
+## agenda
+
+
 # kick-off
 
 ## agenda
