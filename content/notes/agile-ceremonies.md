@@ -5,8 +5,32 @@ layout: notes
 
 # retrospective
 
+Someone other than the team or product lead should facilitate. Sharing the facilitation around the team keeps retrospectives fresh, encourages greater participation, and uncovers more inconvenient truths.
+
+Set the boundary of the discussion and be clear how far back the team is going to go:
+- are we discussing the last sprint? 
+- the last quarter?
+- going all the way back since the project started? 
+
 ## agenda
 
+standard play:
+- set the boundary of the discussion (5 min)
+- what went well? (10 min)
+- what needs improvement? (10 min)
+- were there any regressions? (5 min)
+- next steps (5 min)
+
+the four ls:
+- what did you like? (5 min)
+- what was lacking? (5 min)
+- what did you learn? (5 min)
+- what do you long for going forward? (5 min)
+- were there any regressions? (5 min)
+
+map out the past two months (10 min):
+- on the whiteboard, draw a timeline spanning the past two months. Then have team members call out significant events: iteration/sprint starts, releases, victories, discoveries, or anything else that had an impact on your work.
+- do this activity at the start of the meeting. Not only is this a great way to foster a shared sense of achievement and solidarity, it helps refresh everyone's memory and sets the stage for the rest of the retrospective.
 
 # kick-off
 
