@@ -23,7 +23,7 @@ standard play:
 - were there any regressions? (5 min)
 - next steps (5 min)
 
-the four ls:
+the four l's:
 
 - what did you like? (5 min)
 - what was lacking? (5 min)
