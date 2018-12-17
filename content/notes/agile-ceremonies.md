@@ -61,6 +61,8 @@ execute:
 
 # refinement
 
+The purpose of this meeting is to identify risk, define what work will be done in the future and inspect progress of the current sprint.
+
 ## agenda
 
 plan for the future:
