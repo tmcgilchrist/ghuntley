@@ -30,7 +30,7 @@ the four ls:
 
 map out the past two months (10 min):
 - on the whiteboard, draw a timeline spanning the past two months. Then have team members call out significant events: iteration/sprint starts, releases, victories, discoveries, or anything else that had an impact on your work.
-- do this activity at the start of the meeting. Not only is this a great way to foster a shared sense of achievement and solidarity, it helps refresh everyone's memory and sets the stage for the rest of the retrospective.
+- do this activity at the start of the meeting to foster a shared sense of achievement, solidarity and help refresh everyone's memory.
 
 # kick-off
 
