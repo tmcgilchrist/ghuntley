@@ -7,6 +7,7 @@ layout: notes
 
 # kick-off
 
+## agenda
 define the scope:
 - what is the goal for this sprint?
 - identity any holidays, conference or other activites that will impact sprint capacity?
@@ -23,6 +24,7 @@ execute:
 
 # refinement
 
+## agenda
 plan for the future:
 - split features into stories, stories into tasks
 - assign estimates to stories which have yet to receive one
