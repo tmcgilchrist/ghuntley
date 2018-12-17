@@ -80,6 +80,8 @@ inspect the sprint:
 
 # standup
 
+As a team we get together daily to share learnings, call out risk and ask for help. We do this to help us to achieve the sprint goal.
+
 ## agenda
 
 - do you need help from someone? ask
