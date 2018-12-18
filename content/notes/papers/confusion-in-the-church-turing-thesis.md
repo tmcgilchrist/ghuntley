@@ -29,3 +29,5 @@ equivalent to the Turing model. This has profound implications for programming l
 - soundness of arguments / faulty argument
 - numerical problems
 - computable solution
+- positive integers
+- recursion / recursive
