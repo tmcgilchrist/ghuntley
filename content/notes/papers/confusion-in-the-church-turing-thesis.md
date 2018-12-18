@@ -13,3 +13,14 @@ equivalent to the Turing model. This has profound implications for programming l
 # SF-calculus
 - https://github.com/Barry-Jay/SF
 - https://github.com/Barry-Jay/lambdaSF
+
+# concepts
+- numerical computations
+- symbolic computations
+- turing model
+- equality
+- computability
+- equivalence
+- [not] definable
+- limits of expressive power
+- true origins of the church-turing thesis, first publication, when and where
