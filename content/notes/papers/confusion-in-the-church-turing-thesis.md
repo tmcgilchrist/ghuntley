@@ -33,3 +33,4 @@ equivalent to the Turing model. This has profound implications for programming l
 - recursion / recursive
 - effective calculability
 - effectively calculable
+- Gödel numbering / representation
