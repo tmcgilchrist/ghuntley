@@ -34,3 +34,13 @@ equivalent to the Turing model. This has profound implications for programming l
 - effective calculability
 - effectively calculable
 - Gödel numbering / representation
+
+
+# people
+- church
+- stephen cole kleene
+- soare
+- 
+
+# books
+- introduction to metamathmatics
