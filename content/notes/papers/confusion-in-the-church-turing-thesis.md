@@ -31,3 +31,5 @@ equivalent to the Turing model. This has profound implications for programming l
 - computable solution
 - positive integers
 - recursion / recursive
+- effective calculability
+- effectively calculable
