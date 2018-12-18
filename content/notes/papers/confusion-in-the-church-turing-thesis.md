@@ -9,3 +9,7 @@ equality is not definable, such as the λ-models underpinning higher-order progr
 a modern combinatory calculus, the SF-calculus, can define equality of its closed normal forms, and so yields a model of computability that is
 equivalent to the Turing model. This has profound implications for programming language design - 
 > https://arxiv.org/pdf/1410.7103v2.pdf
+
+# SF-calculus
+- https://github.com/Barry-Jay/SF
+- https://github.com/Barry-Jay/lambdaSF
