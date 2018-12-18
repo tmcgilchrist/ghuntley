@@ -26,4 +26,4 @@ equivalent to the Turing model. This has profound implications for programming l
 - true origins of the church-turing thesis, first publication, when and where
 - numerical functions
 - symbolic functions
-- soundness of arguments / proofs
+- soundness of arguments / faulty argument
