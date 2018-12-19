@@ -3,6 +3,10 @@ title: haskell
 layout: notes
 ---
 
+# modelling errors as data types 
+
+http://lambdafoo.com/blog/2018/06/22/transformers-either/
+
 # pattern matching
 
 When you see a constructor on the left hand side that's pattern matching
