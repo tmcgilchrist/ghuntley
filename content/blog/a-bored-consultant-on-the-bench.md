@@ -1,5 +1,5 @@
 ---
-title: A bored consultant on the bench
+title: a bored consultant on the bench
 date: 2018-12-19 10:36:00
 tags: 
 ---
