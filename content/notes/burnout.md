@@ -1,7 +1,7 @@
 ---
-title: Burnout
+title: burnout
 layout: notes
-draft: true
+
 ---
 
 {{< tweet 794842130460110848 >}}
