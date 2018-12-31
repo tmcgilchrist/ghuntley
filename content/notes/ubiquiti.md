@@ -42,7 +42,7 @@ Examples of IoT devices in my home include:
 
 # guest network
 
-```
+```markdown
 Terms of Use
 
 By accessing the wireless network, you acknowledge that you're of legal age, you have read and understood and agree to be bound by this agreement.
