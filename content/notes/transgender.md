@@ -1,5 +1,5 @@
 ---
-title: Transgender
+title: transgender
 layout: notes
 ---
 
