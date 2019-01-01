@@ -1,7 +1,12 @@
 ---
 layout: notes
-title: NixOS
+title: nixos
 ---
+
+# docker
+https://github.com/puffnfresh/nix-files/blob/master/nixos-docker/default.nix
+
+# stuff
 
 https://github.com/shajra/example-nix/blob/master/README.md
 
