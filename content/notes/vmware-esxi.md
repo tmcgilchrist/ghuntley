@@ -33,3 +33,10 @@ export SERIAL=unknown
 
 vmkfstools -z $DRIVE /vmfs/volumes/5b86eeca-c8414b34-e1db-74867ade692a/nas/nas-disk-$SERIAL.vmdk
 ```
+
+# remount nfs storage
+
+```
+esxcli storage nfs remove -v nas
+esxcli storage nfs add -H nas.infrastructure -s /mnt/tank/vmfs -v nas
+```
