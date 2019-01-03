@@ -8,24 +8,18 @@ I’m home which is Sydney, Australia. It’s Winter. I’m observing [the AEST 
 
 # upcoming conferences
 
-I recently spoke at NDC Sydney [about the importance of sustainability in open-source](https://ghuntley.com/talks/ndc-sydney-2018/). I have no further talks planned for 2018 but hey, I'm always happy to speak - just ask.
+I recently spoke at NDC Sydney [about the importance of sustainability in open-source](https://ghuntley.com/talks/ndc-sydney-2018/). I might be speaking at the Microsoft MVP Summit on the topic of diversity. I have no further talks planned for 2019 but hey, I'm always happy to speak - just ask.
 
 # what I'm doing now
-- Porting a linux distribution to windows subsystem for linux
+- Haskell, Haskell, Haskell
 - Doing some [live coding on a weekly basis](/live)
-- Reducing amount of time in the dotnet opensource ecosystem and [going through motions of succession](https://reactiveui.net/blog/2018/05/reactiveui-succession) with ReactiveUI.
-- Actively learning another software paradigm (Haskell) by working through the examples from [haskellbook.com](http://haskellbook.com) and helping the http://reflex-frp.org folks out with crossing the chasm. 
-- Learning more about knitting when time permits.
+- Starting a weekly functional programming study group - https://sydneyhaskell.org
+- Porting a linux distribution to windows subsystem for linux (nixos)
+- Learning more about knitting when time permits
 
 # what I'm considering doing
 - Sketching up how we could automate closed captions for twitch broadcasters. It's annoying that a segment of society is being excluded by default. 
-- Why use generic basic gifs on social media? Follow Chloe Condon's lead
-
-{{< tweet 1026874774922772481 >}}
-{{< tweet 1026875224107536385 >}}
 
 # what I've done so far this year
 - Spoke at NDC Sydney [about the importance of sustainability in open-source](https://ghuntley.com/talks/ndc-sydney-2018/).  
-- Refactored homelab infrastructure from proxmox/kvm to esxi.
-- Rolled my own k8 cluster the hard way from source code. Submitted a few pull requests to k8 and got em merged. 
 
