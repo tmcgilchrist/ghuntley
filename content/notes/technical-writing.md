@@ -3,11 +3,13 @@ title: technical writing
 layout: notes
 ---
 
-> Plato’s Socrates asks Gorgias “with what class of objects is rhetoric concerned?”
-> For example, a doctor must know medicine and the body,  a lawyer must know the law in order to offer rational explanations (logos) regarding their expertise. 
-> Plato asks upon what foundation rhetoric rests
-> Gorgias rhetoric is an “art concerned with words”
-> Soc: What does good rhetoric produce?  Because all good art must have some good results ...
+```
+Plato’s Socrates asks Gorgias “with what class of objects is rhetoric concerned?”
+For example, a doctor must know medicine and the body,  a lawyer must know the law in order to offer rational explanations (logos) regarding their expertise. 
+Plato asks upon what foundation rhetoric rests
+Gorgias rhetoric is an “art concerned with words”
+Socrates: What does good rhetoric produce?  Because all good art must have some good results ...
+```
 
 This document introduces a *three draft model for technical writing*.
 
