@@ -22,7 +22,7 @@ The *three draft model for technical writing* is not meant to be followed as we 
 
 Each draft is a complete *pass* over a document.
 
-## Truth
+## truth
 
 The first draft should focus on truth.
 
@@ -42,7 +42,7 @@ Even if all sentences are true there is room for improvement.
 
 If a sentence can be simplified while remaining true then the simplified statement is usually preferable and usually stronger.
 
-## Clarity
+## clarity
 
 The second draft should focus on clarity.
 
@@ -61,7 +61,7 @@ There are a few tricks that can help to make sure an argument is clear:
 - Check that all the elements of a list belong to the same kind.
 - Avoid the use of first person, unless relevant.
 
-## Motivation
+## motivation
 
 The third draft should focus on motivating our audience to read what we have to say.
 
@@ -72,3 +72,7 @@ At the beginning of our texts we should:
 - Point out conflicts with existing materials.
 
 Adding the motivation should not impact on truth or clarity.
+
+# acknowledgements
+This document is sourced from the wisdom of https://www.uts.edu.au/staff/barry.jay
+
