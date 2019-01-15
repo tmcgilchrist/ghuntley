@@ -24,14 +24,15 @@ Each draft is a complete *pass* over a document.
 The first draft should focus on truth.
 
 As engineers when we do technical writing we are in the truth business.
-We exchange truths for mutual benefits:
-  - Instructions on how to achieve technical tasks.
-  - Reports about using new technologies.
-  - Reports about strengths and caveats on approaches and tools.
 
-Sharing false, partially false or incomplete information diminishes
-the benefit of the information exchange. Therefore we must think about
-technical writing with terms as logical propositions where each sentence is either true or false.
+We exchange truths for mutual benefits:
+
+- Instructions on how to achieve technical tasks.
+- Reports about using new technologies.
+- Reports about strengths and caveats on approaches and tools.
+
+Sharing false, partially false or incomplete information diminishes the benefit of the information exchange. Therefore we must think about technical writing with terms as logical propositions where each sentence is either true or false.
+
 We must check that *all* sentences are true.
 
 Even if all sentences are true there is room for improvement.
