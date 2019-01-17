@@ -13,7 +13,7 @@ layout: notes
 - people need to be ready for career conversations, decisions should come from them, not you.
 
 # excercises
-- define a [performance commitment](../performance-commitment)
+- define a [personal commitment](../personal-commitment)
 
 
 # rubiks
