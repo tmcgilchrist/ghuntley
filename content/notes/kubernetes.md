@@ -6,7 +6,7 @@ layout: notes
 # contributing 
 https://gist.github.com/tpepper/aad07af79ed6d098e3a41e1db452ce79
 
-# Concepts
+# concepts
 
 * `kube-apiserver` is the http api service
 * `kube-controller-manager` management of resources like services and storage
@@ -14,7 +14,7 @@ https://gist.github.com/tpepper/aad07af79ed6d098e3a41e1db452ce79
 * `kube-proxy` load balancing proxy
 * `kublet` container management and reporting on minions
 
-# Terminology
+# terminology
 
 * `namespace` a seperate group of pods, replication fcontrollers and services
 * `minon` a worker node
@@ -22,7 +22,7 @@ https://gist.github.com/tpepper/aad07af79ed6d098e3a41e1db452ce79
 * `replication controller` a controller for a group of pods
 * `service` internal load balancer for a group of pods
 
-# Reference Implementations
+# reference implementations
 
 * https://developer.atlassian.com/blog/2017/07/kubernetes-infra-on-aws/
 
@@ -45,12 +45,12 @@ If the application needs to talk to the `rabbitmq` service in the `production` n
 
 See https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/ for more information. 
 
-# External DNS
+# external DNS
 
 There's an addon called [ExternalDNS](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/
 ) that makes Kubernetes resources discoverable via public DNS servers and allows you to control DNS records dynamically via Kubernetes resources in a DNS provider-agnostic way.
 
-# Event Log
+# event log
 
 The event log for pods/containers can be accessed via
 
@@ -64,16 +64,16 @@ An interactive session can be launched to watch/follow the state of pods in the 
 $ kubectl get pods --watch
 ```
 
-# Troubleshooting Guides
+# troubleshooting guides
 
 The rule of thumb is when you do `kubectl logs` or `kubectl exec` the API server makes a request _to the_ kubelet. If you experience problems then [refer to this cheat cheat](https://s.itho.me/day/2017/k8s/1020-1100%20All%20The%20Troubles%20You%20Get%20Into%20When%20Setting%20Up%20a%20Production-ready%20Kubernetes%20Cluster.pdf).
 
-# Prefabricated Applications
+# prefabricated applications
 
 The equivilant of BitNami in the Kubernetes world is https://github.com/kubernetes/charts which are deployed using https://helm.sh/
 
 
-# Recommended Reading
+# recommended consumption
 * https://youtu.be/PH-2FfFD2PU
 * https://github.com/kelseyhightower/kubernetes-the-hard-way
 * https://github.com/hobby-kube/guide
