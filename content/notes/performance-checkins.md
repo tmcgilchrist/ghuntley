@@ -3,19 +3,6 @@ title: performance checkins
 layout: notes
 ---
 
-- recogition
-- after written feedback as part of a quarterly cycle it's best to wait 4hrs-24hrs to give folks more time to process, failure to do this means the meeting will be more emotionally charged and less productive for all parties.
-- bring data
-- where is there competence, clarity, control? - https://srinathramakrishnan.files.wordpress.com/2016/10/brief-summary-of-turn-the-ship-around.pdf
-- okr
-- wholistic pov of a persons contribution and value they bring to a company
-- check (ask for feedback / reduce intention - perception gaps)
-- people need to be ready for career conversations, decisions should come from them, not you.
-
-# excercises
-- define a [personal commitment](../personal-commitment)
-
-
 # rubiks
 
 - Y -> Why
@@ -37,3 +24,20 @@ layout: notes
 - has the person provided any personal feedback at ghuntley.com/feedback?
 - what's your commitment?
 - what's their commitment?
+
+
+# reviewing feedback
+- it's the differences in the grading rubic between manager/employee and the conversations it drives (ie any perception gaps on either side) is where the value is at.
+- how we do things matters, not just what we do, are we showing care? (ie shipping isn't enough, you must be followable)
+- recogition
+- after written feedback as part of a quarterly cycle it's best to wait 4hrs-24hrs to give folks more time to process, failure to do this means the meeting will be more emotionally charged and less productive for all parties.
+- bring data
+- where is there competence, clarity, control? - https://srinathramakrishnan.files.wordpress.com/2016/10/brief-summary-of-turn-the-ship-around.pdf
+- okr
+- wholistic pov of a persons contribution and value they bring to a company
+- check (ask for feedback / reduce intention - perception gaps)
+- people need to be ready for career conversations, decisions should come from them, not you.
+
+# follow up excercises
+- define a [personal commitment](../personal-commitment)
+
