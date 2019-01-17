@@ -27,7 +27,8 @@ layout: notes
 
 # authoring feedback
 - how could you have served the person better?
-- what has that person achieved in this quarter (look at notes, review commits, review JIRA stories)
+- what has that person done in this quarter (look at notes, review commits, review JIRA stories assigned to person)
+- what has the person proposed this quarter (review stories created by person)
 - what feedback have you provided?
 - what feedback have their peers provided?
 - if there's feedback missing then introspect why, what can I do to lift that person?
