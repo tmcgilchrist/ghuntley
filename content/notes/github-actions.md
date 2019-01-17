@@ -1,7 +1,6 @@
 ---
 layout: notes
-title: githu
-
-actions
+title: gitub actions
 ---
 
+https://github.com/nektos/act
