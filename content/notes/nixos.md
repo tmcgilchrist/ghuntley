@@ -3,6 +3,10 @@ layout: notes
 title: nixos
 ---
 
+# running unpatched binaries
+- https://brianmckenna.org/blog/running_binaries_on_nixos
+
+
 # docker
 https://github.com/puffnfresh/nix-files/blob/master/nixos-docker/default.nix
 
