@@ -24,3 +24,15 @@ layout: notes
 - O -> others
 - R -> realistic
 - M -> measure
+
+# authoring feedback
+- how could you have served the person better?
+- what has that person achieved in this quarter (look at notes, review commits, review JIRA stories)
+- what feedback have you provided?
+- what feedback have their peers provided?
+- if there's feedback missing then introspect why, what can I do to lift that person?
+- what feedback was authored by the person and their manager in the previous quarters? do a retrospective, any themes or opportunities?
+- how has that person grown?
+- has the person provided any personal feedback at ghuntley.com/feedback?
+- what's your commitment?
+- what's their commitment?
