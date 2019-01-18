@@ -5,12 +5,23 @@ layout: notes
 
 # rubiks
 
+## setting goals
+
 - Y -> Why
 - S -> specifics
 - T -> time
 - O -> others
 - R -> realistic
 - M -> measure
+
+## grading
+- are expectations documented? compare against documented expectations (*look at the role position*)
+- 0,0 middle min expectation (doing fine)
+- split it down into grids
+- don't do both axis as once
+    - do the behaviour axis
+    - do the performance axis
+
 
 # authoring feedback
 - how could you have served the person better?
