@@ -2,7 +2,11 @@
 layout: notes
 title: nixos
 ---
+Only 1 hoogle?! That’s sad.
 
+nix-shell -p "haskellPackages.ghcWithHoogle (pkgs: with pkgs; [ lens ])" --run "hoogle server --local --port 8080"
+
+and you’re up and running! With incremental search and everything local. https://t.co/LqduSBEHFH
 # running unpatched binaries
 - https://brianmckenna.org/blog/running_binaries_on_nixos
 
