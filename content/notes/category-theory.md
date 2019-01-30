@@ -11,10 +11,12 @@ layout: notes
 - arrows
 - associativity 
 - identity functions
+- category of rings
 
 # associativity
 
 
+# category of rings
 
 # additional materials
 - https://github.com/hmemcpy/milewski-ctfp-pdf
