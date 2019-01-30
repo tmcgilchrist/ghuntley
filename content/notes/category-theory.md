@@ -5,7 +5,7 @@ layout: notes
 
 # concepts
 - identity
-- isomorphism
+- isomorphism aka "an iso"
 - domain
 - co-domain
 - target
@@ -19,6 +19,13 @@ layout: notes
 
 
 # category of rings
+
+
+# isomorpism
+
+
+# people
+- https://en.wikipedia.org/wiki/Joachim_Lambek
 
 # additional materials
 - https://github.com/hmemcpy/milewski-ctfp-pdf
