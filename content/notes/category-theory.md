@@ -4,6 +4,7 @@ layout: notes
 ---
 
 # concepts
+- identity
 - isomorphism
 - domain
 - co-domain
