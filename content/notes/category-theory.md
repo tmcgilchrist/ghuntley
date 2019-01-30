@@ -4,14 +4,13 @@ layout: notes
 ---
 
 # concepts
-- identity
+- identity function
 - isomorphism aka "an iso"
 - domain
 - co-domain
 - target
 - arrows
 - associativity 
-- identity functions
 - category of rings
 - enriched category
 
