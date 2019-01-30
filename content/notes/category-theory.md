@@ -3,7 +3,7 @@ title: category theory
 layout: notes
 ---
 
-# key concepts
+# concepts
 - isomorphism
 - domain
 - co-domain
@@ -12,6 +12,7 @@ layout: notes
 - associativity 
 - identity functions
 - category of rings
+- enriched category
 
 # associativity
 
