@@ -13,6 +13,8 @@ layout: notes
 - associativity 
 - category of rings
 - enriched category
+- intensional computation
+- extensional computation
 
 # associativity
 
