@@ -90,8 +90,6 @@ The concept of invertibility - "if I go over here can I go back?"
 
 # Universal Properties
 
-Things can be isomorphic in one category but not another. 
-
 If you freeze water, it goes back to water.
 If you freeze an egg and
 
