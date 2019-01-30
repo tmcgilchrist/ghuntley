@@ -31,6 +31,9 @@ layout: notes
 - https://www.uts.edu.au/staff/barry.jay
 
 # additional materials
+- https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_
+- https://www.youtube.com/playlist?list=PLbgaMIhjbmElia1eCEZNvsVscFef9m0dm
+- https://www.youtube.com/playlist?list=PLbgaMIhjbmEn64WVX4B08B4h2rOtueWIL
 - https://github.com/hmemcpy/milewski-ctfp-pdf
 - https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence
 - https://arxiv.org/abs/1803.05316
