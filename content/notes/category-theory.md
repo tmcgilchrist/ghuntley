@@ -1,7 +1,19 @@
 ---
-title: Category Theory
+title: category theory
 layout: notes
 ---
+
+# concepts
+- isomorphism
+- domain
+- co-domain
+- target
+- arrows
+
+
+
+# cutting room floor
+
 
 Category theory is the mathematics of mathematics.  Okay, so then what is Mathematics? It's the logical study of how logical things work. Thus category theory is the logical study of how logical things work.
 
