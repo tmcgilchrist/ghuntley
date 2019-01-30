@@ -3,12 +3,16 @@ title: category theory
 layout: notes
 ---
 
-# concepts
+# key concepts
 - isomorphism
 - domain
 - co-domain
 - target
 - arrows
+- associativity 
+
+# associativity
+
 
 
 
