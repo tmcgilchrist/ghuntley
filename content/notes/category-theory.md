@@ -10,6 +10,7 @@ layout: notes
 - target
 - arrows
 - associativity 
+- identity functions
 
 # associativity
 
