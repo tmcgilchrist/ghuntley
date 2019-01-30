@@ -18,14 +18,16 @@ layout: notes
 # associativity
 
 
+# isomorpism
+
 # category of rings
 
-
-# isomorpism
+# category of sets
 
 
 # people
 - https://en.wikipedia.org/wiki/Joachim_Lambek
+- https://www.uts.edu.au/staff/barry.jay
 
 # additional materials
 - https://github.com/hmemcpy/milewski-ctfp-pdf
