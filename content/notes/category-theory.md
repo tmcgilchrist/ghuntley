@@ -15,6 +15,7 @@ layout: notes
 - enriched category
 - intensional computation
 - extensional computation
+- [partial order](https://en.wikipedia.org/wiki/Partially_ordered_set)
 
 # associativity
 
