@@ -30,6 +30,7 @@ layout: notes
 
 # additional materials
 - https://github.com/hmemcpy/milewski-ctfp-pdf
+- https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence
 - https://arxiv.org/abs/1803.05316
 
 
