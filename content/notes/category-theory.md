@@ -15,6 +15,9 @@ layout: notes
 
 
 
+# additional materials
+- https://github.com/hmemcpy/milewski-ctfp-pdf
+
 
 # cutting room floor
 
