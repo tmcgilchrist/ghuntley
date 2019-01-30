@@ -29,6 +29,8 @@ layout: notes
 
 # additional materials
 - https://github.com/hmemcpy/milewski-ctfp-pdf
+- https://arxiv.org/abs/1803.05316
+
 
 
 # cutting room floor
@@ -104,7 +106,3 @@ Cycles
 
 
 {{< tweet 998659695479934977 >}}
-
-
-# References
-* https://arxiv.org/abs/1803.05316
